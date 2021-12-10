@@ -1,5 +1,5 @@
 {
-    "Indoor Lighting": {
+    "Outdoor Lighting": {
         "description": "",
         "is_deactivated": false,
         "steps": [
@@ -76,6 +76,6 @@
         ],
         "tags": [],
         "temp_id": "0b5014fe-595e-11ec-94f2-149d997d94ba",
-        "title": "Indoor Lighting"
+        "title": "Outdoor Lighting"
     }
 }
