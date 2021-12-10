@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "y78jdE0HtxU/bSYH8SWoog==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "label_X280_Y871_W174_H20",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "checkbox-btn__label",
+                "for": "bwo6i-1"
+            },
+            "backend_node_id": 26318,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "280_871_174_20_Free 2-Day Delivery (1)",
+            "tagName": "label",
+            "text": "Free 2-Day Delivery (1)",
+            "width": 174.0,
+            "x": 280.0,
+            "y": 871.0
+        },
+        "location": {
+            "x": 280.0,
+            "y": 871.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 174.0
+        },
+        "tag_name": "label",
+        "text": "Free 2-Day Delivery (1)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "Free 2-Day Delivery (1)",
+    "transformed": true,
+    "width": 174,
+    "x": 280,
+    "y": 871
+}

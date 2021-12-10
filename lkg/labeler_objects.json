@@ -4,13 +4,21 @@
             "MTA0MTM2ZjUwNWU4OTAyYWVkN2Y1M2JiZDczN2NiMDE.png": "MTA0MTM2ZjUwNWU4OTAyYWVkN2Y1M2JiZDczN2NiMDE.png",
             "MTA1YzI4OGFhOWI5ZWI5ZjQyODNkYTI0NDVmYzlmN2M.png": "MTA1YzI4OGFhOWI5ZWI5ZjQyODNkYTI0NDVmYzlmN2M.png",
             "NDhjNzM0ZDQ5MjgxYzYxNDgxMzlhZjZlNWI4ZTc4YmY.png": "NDhjNzM0ZDQ5MjgxYzYxNDgxMzlhZjZlNWI4ZTc4YmY.png",
+            "NTIxZTFmMjM3MmYyNmY2MGQxZjMwNmZjNzc0Y2I2ZmM.png": "NTIxZTFmMjM3MmYyNmY2MGQxZjMwNmZjNzc0Y2I2ZmM.png",
             "NWRlY2M0MmI5YWJlNTk0NzAxYzg2NTUzN2Q3MTUwMjE.png": "NWRlY2M0MmI5YWJlNTk0NzAxYzg2NTUzN2Q3MTUwMjE.png",
+            "NzQ0YjllZjM5MTg3Zjg5ZmFlNTkxNTE4NWE3ZGZkZDQ.png": "NzQ0YjllZjM5MTg3Zjg5ZmFlNTkxNTE4NWE3ZGZkZDQ.png",
+            "NzcyODAzNDQ3MmM2NTIwZDg4MTg0MTY2MjE0NmFkMDA.png": "NzcyODAzNDQ3MmM2NTIwZDg4MTg0MTY2MjE0NmFkMDA.png",
+            "OGY3OGI3NmZlMDIzOWE5MDg0ODU3ODdhZGZlZDM0YjE.png": "OGY3OGI3NmZlMDIzOWE5MDg0ODU3ODdhZGZlZDM0YjE.png",
             "OTk5NDgzMzY1Y2I0MWVmMTJmNGZiZDRjNjI0ZjEwMDE.png": "OTk5NDgzMzY1Y2I0MWVmMTJmNGZiZDRjNjI0ZjEwMDE.png",
+            "YTQ2NTFlN2E1NDEwODY3Njk1NjdmODc1ZTQ5ODI5NmQ.png": "YTQ2NTFlN2E1NDEwODY3Njk1NjdmODc1ZTQ5ODI5NmQ.png",
+            "YmVhNDFhYzQ4NmRhYjMzNGQyZDk2MDhmNjRmOTkxZjc.png": "YmVhNDFhYzQ4NmRhYjMzNGQyZDk2MDhmNjRmOTkxZjc.png",
             "YzE2MmE4NWUxMjAwZTM0N2U2ZjdkNmVkZTNhODM2YWM.png": "YzE2MmE4NWUxMjAwZTM0N2U2ZjdkNmVkZTNhODM2YWM.png",
             "YzRjNjQzN2Y4NGI0YmIwODZkOTFiNWY2NDlkOGM3ZmI.png": "YzRjNjQzN2Y4NGI0YmIwODZkOTFiNWY2NDlkOGM3ZmI.png",
             "YzcxYTIwZWE2NGQyMTdmYjliNjNkYzExZWEzN2QzMTI.png": "YzcxYTIwZWE2NGQyMTdmYjliNjNkYzExZWEzN2QzMTI.png",
             "ZTQ4NjhiMjE4YTc1NjM2OTkzZGRiODFhYzhlY2Y4ZmM.png": "ZTQ4NjhiMjE4YTc1NjM2OTkzZGRiODFhYzhlY2Y4ZmM.png",
             "ZTlkYjlkOGNkOTE3YzRiNTQ5YjY2MmM4ZGFhODRlZmM.png": "ZTlkYjlkOGNkOTE3YzRiNTQ5YjY2MmM4ZGFhODRlZmM.png",
+            "ZjUxOTUzZDU4ODE5NDExYTg0YzA3ODQ4ODhhMDcwZWI.png": "ZjUxOTUzZDU4ODE5NDExYTg0YzA3ODQ4ODhhMDcwZWI.png",
+            "ZjZhMjJhNDgzOWI2NTY4YTc3NGZmYjVlNmRkZTRlY2E.png": "ZjZhMjJhNDgzOWI2NTY4YTc3NGZmYjVlNmRkZTRlY2E.png",
             "ZmI1MWI5ZGY3OWFlNjc3ZjJlMmMwNzVhZWI5ODFmMjU.png": "ZmI1MWI5ZGY3OWFlNjc3ZjJlMmMwNzVhZWI5ODFmMjU.png"
         },
         "elems_to_infos": {
@@ -92,6 +100,32 @@
                     "Gift_Ideas"
                 ]
             },
+            "NTIxZTFmMjM3MmYyNmY2MGQxZjMwNmZjNzc0Y2I2ZmM.png": {
+                "context_screen_img": "407b8fa70bbb373a3e020ccb12edbb5b.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "NTIxZTFmMjM3MmYyNmY2MGQxZjMwNmZjNzc0Y2I2ZmM.png"
+                ],
+                "elem_info": {
+                    "class": "h1",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/7e7ec128-9293-4afc-8bb7-8e104eda9d32/lkg/data/elems/NTIxZTFmMjM3MmYyNmY2MGQxZjMwNmZjNzc0Y2I2ZmM.png",
+                    "hash": "aJkPZXWUlU2xY+vJKRqpgQ==\n",
+                    "height": 35,
+                    "human_hash": "h1_X250_Y432_W288_H35",
+                    "tag_name": "h1",
+                    "text": "Outdoor Ceiling Lights",
+                    "width": 288,
+                    "x": 250,
+                    "y": 432
+                },
+                "tags": [
+                    "all_elems",
+                    "h1"
+                ],
+                "text": [
+                    "Outdoor_Ceiling_Lights"
+                ]
+            },
             "NWRlY2M0MmI5YWJlNTk0NzAxYzg2NTUzN2Q3MTUwMjE.png": {
                 "context_screen_img": "54a1cbb3afacfd6f79f8592dec564957.png",
                 "dupe_count": 1,
@@ -118,6 +152,84 @@
                     "Craft_Ideas"
                 ]
             },
+            "NzQ0YjllZjM5MTg3Zjg5ZmFlNTkxNTE4NWE3ZGZkZDQ.png": {
+                "context_screen_img": "80025eeb2342b9a2e634e8eba6cb4a90.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "NzQ0YjllZjM5MTg3Zjg5ZmFlNTkxNTE4NWE3ZGZkZDQ.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/7e7ec128-9293-4afc-8bb7-8e104eda9d32/lkg/data/elems/NzQ0YjllZjM5MTg3Zjg5ZmFlNTkxNTE4NWE3ZGZkZDQ.png",
+                    "hash": "t7IRQAUcC17MrvQiaK4GWA==\n",
+                    "height": 17,
+                    "human_hash": "a_X739_Y801_W94_H17",
+                    "tag_name": "a",
+                    "text": "Indoor Lighting",
+                    "width": 94,
+                    "x": 739,
+                    "y": 801
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Indoor_Lighting"
+                ]
+            },
+            "NzcyODAzNDQ3MmM2NTIwZDg4MTg0MTY2MjE0NmFkMDA.png": {
+                "context_screen_img": "a393ae774d2f1d0d780b3b2993622f6f.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "NzcyODAzNDQ3MmM2NTIwZDg4MTg0MTY2MjE0NmFkMDA.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/7e7ec128-9293-4afc-8bb7-8e104eda9d32/lkg/data/elems/NzcyODAzNDQ3MmM2NTIwZDg4MTg0MTY2MjE0NmFkMDA.png",
+                    "hash": "9Uqfq3kRnBwyxa+jgZJNzw==\n",
+                    "height": 47,
+                    "human_hash": "a_X418_Y124_W235_H47",
+                    "tag_name": "a",
+                    "text": "Home Decor, Furniture & Kitchenware",
+                    "width": 235,
+                    "x": 418,
+                    "y": 124
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Home_Decor,_Furniture_&_Kitchenware"
+                ]
+            },
+            "OGY3OGI3NmZlMDIzOWE5MDg0ODU3ODdhZGZlZDM0YjE.png": {
+                "context_screen_img": "890b72720084f17cfc77f2c10b82ddf3.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "OGY3OGI3NmZlMDIzOWE5MDg0ODU3ODdhZGZlZDM0YjE.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/7e7ec128-9293-4afc-8bb7-8e104eda9d32/lkg/data/elems/OGY3OGI3NmZlMDIzOWE5MDg0ODU3ODdhZGZlZDM0YjE.png",
+                    "hash": "lUEbRBw45yYKzm8UVXT4PA==\n",
+                    "height": 22,
+                    "human_hash": "a_X1258_Y185_W50_H22",
+                    "tag_name": "a",
+                    "text": "Lighting",
+                    "width": 50,
+                    "x": 1258,
+                    "y": 185
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Lighting"
+                ]
+            },
             "OTk5NDgzMzY1Y2I0MWVmMTJmNGZiZDRjNjI0ZjEwMDE.png": {
                 "context_screen_img": "b197c5a0fe51ed898298cd1c1a510e9c.png",
                 "dupe_count": 1,
@@ -142,6 +254,58 @@
                 ],
                 "text": [
                     "Holiday_Crafts__(_32_)"
+                ]
+            },
+            "YTQ2NTFlN2E1NDEwODY3Njk1NjdmODc1ZTQ5ODI5NmQ.png": {
+                "context_screen_img": "dffcbad44a74dcece0900d6d840292fb.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "YTQ2NTFlN2E1NDEwODY3Njk1NjdmODc1ZTQ5ODI5NmQ.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/7e7ec128-9293-4afc-8bb7-8e104eda9d32/lkg/data/elems/YTQ2NTFlN2E1NDEwODY3Njk1NjdmODc1ZTQ5ODI5NmQ.png",
+                    "hash": "qVXJ8WG2sudJAhtVtHouTA==\n",
+                    "height": 17,
+                    "human_hash": "a_X260_Y912_W141_H17",
+                    "tag_name": "a",
+                    "text": "Outdoor Ceiling Lights",
+                    "width": 141,
+                    "x": 260,
+                    "y": 912
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Outdoor_Ceiling_Lights"
+                ]
+            },
+            "YmVhNDFhYzQ4NmRhYjMzNGQyZDk2MDhmNjRmOTkxZjc.png": {
+                "context_screen_img": "80025eeb2342b9a2e634e8eba6cb4a90.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "YmVhNDFhYzQ4NmRhYjMzNGQyZDk2MDhmNjRmOTkxZjc.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/7e7ec128-9293-4afc-8bb7-8e104eda9d32/lkg/data/elems/YmVhNDFhYzQ4NmRhYjMzNGQyZDk2MDhmNjRmOTkxZjc.png",
+                    "hash": "u3HzRJ4MYFyb9ZOkEbNTpg==\n",
+                    "height": 17,
+                    "human_hash": "a_X965_Y801_W106_H17",
+                    "tag_name": "a",
+                    "text": "Outdoor Lighting",
+                    "width": 106,
+                    "x": 965,
+                    "y": 801
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Outdoor_Lighting"
                 ]
             },
             "YzE2MmE4NWUxMjAwZTM0N2U2ZjdkNmVkZTNhODM2YWM.png": {
@@ -274,6 +438,58 @@
                     "Featured__(_20_)"
                 ]
             },
+            "ZjUxOTUzZDU4ODE5NDExYTg0YzA3ODQ4ODhhMDcwZWI.png": {
+                "context_screen_img": "db595737c288695d8dafeab3136bf6a8.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "ZjUxOTUzZDU4ODE5NDExYTg0YzA3ODQ4ODhhMDcwZWI.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/7e7ec128-9293-4afc-8bb7-8e104eda9d32/lkg/data/elems/ZjUxOTUzZDU4ODE5NDExYTg0YzA3ODQ4ODhhMDcwZWI.png",
+                    "hash": "t7IRQAUcC17MrvQiaK4GWA==\n",
+                    "height": 17,
+                    "human_hash": "a_X739_Y801_W94_H17",
+                    "tag_name": "a",
+                    "text": "Indoor Lighting",
+                    "width": 94,
+                    "x": 739,
+                    "y": 801
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Indoor_Lighting"
+                ]
+            },
+            "ZjZhMjJhNDgzOWI2NTY4YTc3NGZmYjVlNmRkZTRlY2E.png": {
+                "context_screen_img": "8a51330139078e3452020c20e6d6ec84.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "ZjZhMjJhNDgzOWI2NTY4YTc3NGZmYjVlNmRkZTRlY2E.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/7e7ec128-9293-4afc-8bb7-8e104eda9d32/lkg/data/elems/ZjZhMjJhNDgzOWI2NTY4YTc3NGZmYjVlNmRkZTRlY2E.png",
+                    "hash": "RwP3VUfkJlkJB6gFKH+YFQ==\n",
+                    "height": 22,
+                    "human_hash": "a_X500_Y738_W1160_H22",
+                    "tag_name": "a",
+                    "text": "Shop All Outdoor Lighting",
+                    "width": 1160,
+                    "x": 500,
+                    "y": 738
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Shop_All_Outdoor_Lighting"
+                ]
+            },
             "ZmI1MWI5ZGY3OWFlNjc3ZjJlMmMwNzVhZWI5ODFmMjU.png": {
                 "context_screen_img": "50259dae0a51d91d79599073906e207d.png",
                 "dupe_count": 1,
@@ -303,14 +519,22 @@
         },
         "sorted_elems": [
             "ZmI1MWI5ZGY3OWFlNjc3ZjJlMmMwNzVhZWI5ODFmMjU.png",
+            "NTIxZTFmMjM3MmYyNmY2MGQxZjMwNmZjNzc0Y2I2ZmM.png",
+            "NzcyODAzNDQ3MmM2NTIwZDg4MTg0MTY2MjE0NmFkMDA.png",
+            "ZjZhMjJhNDgzOWI2NTY4YTc3NGZmYjVlNmRkZTRlY2E.png",
             "OTk5NDgzMzY1Y2I0MWVmMTJmNGZiZDRjNjI0ZjEwMDE.png",
             "NWRlY2M0MmI5YWJlNTk0NzAxYzg2NTUzN2Q3MTUwMjE.png",
+            "YmVhNDFhYzQ4NmRhYjMzNGQyZDk2MDhmNjRmOTkxZjc.png",
+            "OGY3OGI3NmZlMDIzOWE5MDg0ODU3ODdhZGZlZDM0YjE.png",
             "NDhjNzM0ZDQ5MjgxYzYxNDgxMzlhZjZlNWI4ZTc4YmY.png",
             "MTA1YzI4OGFhOWI5ZWI5ZjQyODNkYTI0NDVmYzlmN2M.png",
             "YzE2MmE4NWUxMjAwZTM0N2U2ZjdkNmVkZTNhODM2YWM.png",
             "MTA0MTM2ZjUwNWU4OTAyYWVkN2Y1M2JiZDczN2NiMDE.png",
             "YzRjNjQzN2Y4NGI0YmIwODZkOTFiNWY2NDlkOGM3ZmI.png",
             "YzcxYTIwZWE2NGQyMTdmYjliNjNkYzExZWEzN2QzMTI.png",
+            "YTQ2NTFlN2E1NDEwODY3Njk1NjdmODc1ZTQ5ODI5NmQ.png",
+            "ZjUxOTUzZDU4ODE5NDExYTg0YzA3ODQ4ODhhMDcwZWI.png",
+            "NzQ0YjllZjM5MTg3Zjg5ZmFlNTkxNTE4NWE3ZGZkZDQ.png",
             "ZTlkYjlkOGNkOTE3YzRiNTQ5YjY2MmM4ZGFhODRlZmM.png",
             "ZTQ4NjhiMjE4YTc1NjM2OTkzZGRiODFhYzhlY2Y4ZmM.png"
         ],
@@ -324,11 +548,29 @@
             "NDhjNzM0ZDQ5MjgxYzYxNDgxMzlhZjZlNWI4ZTc4YmY.png": [
                 "NDhjNzM0ZDQ5MjgxYzYxNDgxMzlhZjZlNWI4ZTc4YmY.png"
             ],
+            "NTIxZTFmMjM3MmYyNmY2MGQxZjMwNmZjNzc0Y2I2ZmM.png": [
+                "NTIxZTFmMjM3MmYyNmY2MGQxZjMwNmZjNzc0Y2I2ZmM.png"
+            ],
             "NWRlY2M0MmI5YWJlNTk0NzAxYzg2NTUzN2Q3MTUwMjE.png": [
                 "NWRlY2M0MmI5YWJlNTk0NzAxYzg2NTUzN2Q3MTUwMjE.png"
             ],
+            "NzQ0YjllZjM5MTg3Zjg5ZmFlNTkxNTE4NWE3ZGZkZDQ.png": [
+                "NzQ0YjllZjM5MTg3Zjg5ZmFlNTkxNTE4NWE3ZGZkZDQ.png"
+            ],
+            "NzcyODAzNDQ3MmM2NTIwZDg4MTg0MTY2MjE0NmFkMDA.png": [
+                "NzcyODAzNDQ3MmM2NTIwZDg4MTg0MTY2MjE0NmFkMDA.png"
+            ],
+            "OGY3OGI3NmZlMDIzOWE5MDg0ODU3ODdhZGZlZDM0YjE.png": [
+                "OGY3OGI3NmZlMDIzOWE5MDg0ODU3ODdhZGZlZDM0YjE.png"
+            ],
             "OTk5NDgzMzY1Y2I0MWVmMTJmNGZiZDRjNjI0ZjEwMDE.png": [
                 "OTk5NDgzMzY1Y2I0MWVmMTJmNGZiZDRjNjI0ZjEwMDE.png"
+            ],
+            "YTQ2NTFlN2E1NDEwODY3Njk1NjdmODc1ZTQ5ODI5NmQ.png": [
+                "YTQ2NTFlN2E1NDEwODY3Njk1NjdmODc1ZTQ5ODI5NmQ.png"
+            ],
+            "YmVhNDFhYzQ4NmRhYjMzNGQyZDk2MDhmNjRmOTkxZjc.png": [
+                "YmVhNDFhYzQ4NmRhYjMzNGQyZDk2MDhmNjRmOTkxZjc.png"
             ],
             "YzE2MmE4NWUxMjAwZTM0N2U2ZjdkNmVkZTNhODM2YWM.png": [
                 "YzE2MmE4NWUxMjAwZTM0N2U2ZjdkNmVkZTNhODM2YWM.png"
@@ -345,6 +587,12 @@
             "ZTlkYjlkOGNkOTE3YzRiNTQ5YjY2MmM4ZGFhODRlZmM.png": [
                 "ZTlkYjlkOGNkOTE3YzRiNTQ5YjY2MmM4ZGFhODRlZmM.png"
             ],
+            "ZjUxOTUzZDU4ODE5NDExYTg0YzA3ODQ4ODhhMDcwZWI.png": [
+                "ZjUxOTUzZDU4ODE5NDExYTg0YzA3ODQ4ODhhMDcwZWI.png"
+            ],
+            "ZjZhMjJhNDgzOWI2NTY4YTc3NGZmYjVlNmRkZTRlY2E.png": [
+                "ZjZhMjJhNDgzOWI2NTY4YTc3NGZmYjVlNmRkZTRlY2E.png"
+            ],
             "ZmI1MWI5ZGY3OWFlNjc3ZjJlMmMwNzVhZWI5ODFmMjU.png": [
                 "ZmI1MWI5ZGY3OWFlNjc3ZjJlMmMwNzVhZWI5ODFmMjU.png"
             ]
@@ -352,14 +600,21 @@
     },
     "screens": {
         "dupe_to_master_key": {
+            "14bbcbca9b233ae81e11bc413f1996d2.png": "14bbcbca9b233ae81e11bc413f1996d2.png",
             "3901d564662b9e755cb6257a602ac4d5.png": "3901d564662b9e755cb6257a602ac4d5.png",
+            "407b8fa70bbb373a3e020ccb12edbb5b.png": "407b8fa70bbb373a3e020ccb12edbb5b.png",
             "4561bbe8d9c0d220138f3d0b93b3e5e7.png": "4561bbe8d9c0d220138f3d0b93b3e5e7.png",
             "4fdd21ce7fc106f72d0aa2184c192f4b.png": "4fdd21ce7fc106f72d0aa2184c192f4b.png",
             "50259dae0a51d91d79599073906e207d.png": "50259dae0a51d91d79599073906e207d.png",
             "54a1cbb3afacfd6f79f8592dec564957.png": "54a1cbb3afacfd6f79f8592dec564957.png",
+            "6495dea0349bf33faf35a1d53f7020d8.png": "6495dea0349bf33faf35a1d53f7020d8.png",
             "7f0acc17ceb61f34e500edbf7b82b3f7.png": "7f0acc17ceb61f34e500edbf7b82b3f7.png",
+            "80025eeb2342b9a2e634e8eba6cb4a90.png": "80025eeb2342b9a2e634e8eba6cb4a90.png",
             "84c3e445cfd1b4d77c9e66447f9fa7a9.png": "84c3e445cfd1b4d77c9e66447f9fa7a9.png",
+            "85797a45c15d6de7912cfd73a9671c13.png": "85797a45c15d6de7912cfd73a9671c13.png",
+            "890b72720084f17cfc77f2c10b82ddf3.png": "890b72720084f17cfc77f2c10b82ddf3.png",
             "89ea00fcfe4ca1860862b1d0c2f7f245.png": "89ea00fcfe4ca1860862b1d0c2f7f245.png",
+            "8a51330139078e3452020c20e6d6ec84.png": "8a51330139078e3452020c20e6d6ec84.png",
             "94621e211f213a16e59766cc1de77bb3.png": "94621e211f213a16e59766cc1de77bb3.png",
             "9a638a4b9798e4d854bb5ee4fdf21927.png": "9a638a4b9798e4d854bb5ee4fdf21927.png",
             "9aaabc99f0be8b64f2a2070551cfd116.png": "9aaabc99f0be8b64f2a2070551cfd116.png",
@@ -367,11 +622,117 @@
             "ad1c2986cd8a9de7db719d2a1f6c26b5.png": "ad1c2986cd8a9de7db719d2a1f6c26b5.png",
             "ad694075a1b8ff6bb30e3aa179e3fecd.png": "ad694075a1b8ff6bb30e3aa179e3fecd.png",
             "b197c5a0fe51ed898298cd1c1a510e9c.png": "b197c5a0fe51ed898298cd1c1a510e9c.png",
+            "b3c6244fcd8b8c7bd845100b02e50515.png": "b3c6244fcd8b8c7bd845100b02e50515.png",
             "d88af1091216a88c6ac187611f3d59b6.png": "d88af1091216a88c6ac187611f3d59b6.png",
+            "db595737c288695d8dafeab3136bf6a8.png": "db595737c288695d8dafeab3136bf6a8.png",
+            "dffcbad44a74dcece0900d6d840292fb.png": "dffcbad44a74dcece0900d6d840292fb.png",
             "e677e11f0bb3aefad3eb1174759b5d8c.png": "e677e11f0bb3aefad3eb1174759b5d8c.png"
         },
         "screens_to_elems": {},
         "screens_to_infos": {
+            "14bbcbca9b233ae81e11bc413f1996d2.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "14bbcbca9b233ae81e11bc413f1996d2.png"
+                ],
+                "tags": [
+                    "section",
+                    "img",
+                    "ul",
+                    "g",
+                    "li",
+                    "a",
+                    "span",
+                    "all_screens",
+                    "label",
+                    "ellipse",
+                    "polyline",
+                    "h1",
+                    "input",
+                    "button",
+                    "div",
+                    "p",
+                    "form"
+                ],
+                "text": [
+                    "",
+                    "truck_&_tool_rental",
+                    "gift_cards",
+                    "33135",
+                    "cancel",
+                    "local_ad_&_catalog",
+                    "heating_&_cooling",
+                    "smart_home",
+                    "bath_&_faucets",
+                    "small_kitchen_appliances",
+                    "wall_decor",
+                    "get_ready_to_entertain",
+                    "blinds_&_window_treatment",
+                    "credit_services",
+                    "cart_0_items",
+                    "delivering_to",
+                    "electrical",
+                    "lawn_&_garden",
+                    "building_materials",
+                    "delivering_to__33135",
+                    "home_decor,_furniture_&_kitchenware",
+                    "free_delivery_over_one_million_items_eligible",
+                    "open__until_10_pm",
+                    "all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog",
+                    "storage_&_organization",
+                    "all_departments",
+                    "window_treatments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items",
+                    "holiday_decorations",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help__you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items____all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog_______my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help_\n______________back\n______________all_departments__________holiday_decorations________________appliances________________bath_&_faucets________________blinds_&_window_treatment________________building_materials________________cleaning________________decor_&_furniture________________doors_&_windows________________electrical________________flooring_&_area_rugs________________hardware________________heating_&_cooling________________kitchen_&_kitchenware________________lawn_&_garden________________lighting_&_ceiling_fans________________outdoor_living_&_patio________________paint________________plumbing________________smart_home________________storage_&_organization________________tools________\n______________back\n_______________\n______________back",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm",
+                    "lists",
+                    "open",
+                    "cleaning",
+                    "installation_&_services",
+                    "for_the_pro",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135",
+                    "my_account__lists___cart_0_items",
+                    "outdoor_living_&_patio",
+                    "lighting_&_ceiling_fans",
+                    "shop_by_room",
+                    "plumbing",
+                    "home_decor______________________________furniture______________________________wall_decor______________________________small_kitchen_appliances______________________________kitchenware_&_tableware______________________________bedding_&_bath______________________________lighting______________________________window_treatments______________________________shop_by_room",
+                    "furniture",
+                    "help",
+                    "0",
+                    "my_account",
+                    "cart",
+                    "my_account__lists",
+                    "my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "you're_shopping",
+                    "flooring_&_area_rugs",
+                    "paint",
+                    "project_calculators",
+                    "home_decor",
+                    "appliances",
+                    "all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog",
+                    "track_order",
+                    "items",
+                    "store_finder",
+                    "diy_projects_&_ideas",
+                    "hardware",
+                    "back",
+                    "kitchen_&_kitchenware",
+                    "bedding_&_bath",
+                    "home",
+                    "lighting",
+                    "home_home_decor",
+                    "doors_&_windows",
+                    "specials_&_offers",
+                    "decor_&_furniture",
+                    "kitchenware_&_tableware",
+                    "miami_(calle_ocho)",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help"
+                ]
+            },
             "3901d564662b9e755cb6257a602ac4d5.png": {
                 "dupe_count": [
                     1
@@ -475,6 +836,137 @@
                     "miami_(calle_ocho)",
                     "jump_to_specific_section",
                     "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help"
+                ]
+            },
+            "407b8fa70bbb373a3e020ccb12edbb5b.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "407b8fa70bbb373a3e020ccb12edbb5b.png"
+                ],
+                "tags": [
+                    "g",
+                    "a",
+                    "polyline",
+                    "div",
+                    "h1",
+                    "span",
+                    "ellipse",
+                    "section",
+                    "img",
+                    "ul",
+                    "all_screens",
+                    "button",
+                    "p",
+                    "form",
+                    "li",
+                    "label",
+                    "h3",
+                    "input",
+                    "h2"
+                ],
+                "text": [
+                    "",
+                    "gift_cards",
+                    "smart_home",
+                    "blinds_&_window_treatment",
+                    "black_in_outdoor_hanging_lights",
+                    "electrical",
+                    "lawn_&_garden",
+                    "top_rated",
+                    "delivering_to__33135",
+                    "7",
+                    "window_treatments",
+                    "white_in_outdoor_flush_mount_lights",
+                    "free_2-day_delivery_(1)",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm",
+                    "lists",
+                    "outdoor_flush_mount_lights__outdoor_hanging_lights__bronze_in_outdoor_flush_mount_lights__white_in_outdoor_flush_mount_lights__black_in_outdoor_hanging_lights__dusk_to_dawn__shop_savings",
+                    "plumbing",
+                    "help",
+                    "appliances",
+                    "all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog",
+                    "bedding_&_bath",
+                    "store_finder",
+                    "home_lighting_outdoor_lighting_outdoor_ceiling_lights",
+                    "next-day_delivery_(11)",
+                    "local_ad_&_catalog",
+                    "heating_&_cooling",
+                    "cancel",
+                    "small_kitchen_appliances",
+                    "wall_decor",
+                    "credit_services",
+                    "building_materials",
+                    "get_it_fast",
+                    "home_decor______________________________furniture______________________________wall_decor______________________________small_kitchen_appliances______________________________kitchenware_&_tableware______________________________bedding_&_bath______________________________lighting______________________________window_treatments______________________________shop_by_room",
+                    "furniture",
+                    "my_account",
+                    "my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "home_decor",
+                    "you're_shopping",
+                    "next-day_delivery",
+                    "hardware",
+                    "back",
+                    "home",
+                    "specials_&_offers",
+                    "outdoor_ceiling_lights",
+                    "1",
+                    "home_decor,_furniture_&_kitchenware",
+                    "miami_(calle_ocho)_&_nearby_stores",
+                    "outdoor_lighting",
+                    "storage_&_organization",
+                    "outdoor_hanging_lights",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help__you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items____all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog_______my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help_\n______________back\n______________all_departments__________holiday_decorations________________appliances________________bath_&_faucets________________blinds_&_window_treatment________________building_materials________________cleaning________________decor_&_furniture________________doors_&_windows________________electrical________________flooring_&_area_rugs________________hardware________________heating_&_cooling________________kitchen_&_kitchenware________________lawn_&_garden________________lighting_&_ceiling_fans________________outdoor_living_&_patio________________paint________________plumbing________________smart_home________________storage_&_organization________________tools________\n______________back\n_______________\n______________back",
+                    "bronze_in_outdoor_flush_mount_lights",
+                    "open",
+                    "cleaning",
+                    "in_stock_at_store_today_(10)",
+                    "installation_&_services",
+                    "for_the_pro",
+                    "my_account__lists___cart_0_items",
+                    "outdoor_living_&_patio",
+                    "free_2-day_delivery",
+                    "my_account__lists",
+                    "project_calculators",
+                    "items",
+                    "kitchen_&_kitchenware",
+                    "lighting",
+                    "doors_&_windows",
+                    "1,357__results",
+                    "best_seller",
+                    "bath_&_faucets",
+                    "miami_(calle_ocho)",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "truck_&_tool_rental",
+                    "33135",
+                    "in_stock_at_store_today",
+                    "cart_0_items",
+                    "delivering_to",
+                    "free_delivery_over_one_million_items_eligible",
+                    "open__until_10_pm",
+                    "all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog",
+                    "all_departments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items",
+                    "holiday_decorations",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135",
+                    "shop_by_room",
+                    "lighting_&_ceiling_fans",
+                    "0",
+                    "cart",
+                    "paint",
+                    "sort_by:_top_sellers",
+                    "2013",
+                    "shop_savings",
+                    "track_order",
+                    "diy_projects_&_ideas",
+                    "1,357__results_sort_by:_top_sellers",
+                    "outdoor_flush_mount_lights",
+                    "top_sellers",
+                    "decor_&_furniture",
+                    "dusk_to_dawn",
+                    "kitchenware_&_tableware",
+                    "flooring_&_area_rugs"
                 ]
             },
             "4561bbe8d9c0d220138f3d0b93b3e5e7.png": {
@@ -959,6 +1451,108 @@
                     "flooring_&_area_rugs"
                 ]
             },
+            "6495dea0349bf33faf35a1d53f7020d8.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "6495dea0349bf33faf35a1d53f7020d8.png"
+                ],
+                "tags": [
+                    "section",
+                    "img",
+                    "ul",
+                    "g",
+                    "li",
+                    "a",
+                    "span",
+                    "all_screens",
+                    "label",
+                    "ellipse",
+                    "polyline",
+                    "h1",
+                    "input",
+                    "nav",
+                    "button",
+                    "div",
+                    "p",
+                    "form"
+                ],
+                "text": [
+                    "",
+                    "truck_&_tool_rental",
+                    "gift_cards",
+                    "33135",
+                    "cancel",
+                    "local_ad_&_catalog",
+                    "heating_&_cooling",
+                    "smart_home",
+                    "bath_&_faucets",
+                    "blinds_&_window_treatment",
+                    "credit_services",
+                    "cart_0_items",
+                    "delivering_to",
+                    "electrical",
+                    "lawn_&_garden",
+                    "building_materials",
+                    "shop_all_lighting",
+                    "delivering_to__33135",
+                    "home_decor,_furniture_&_kitchenware",
+                    "free_delivery_over_one_million_items_eligible",
+                    "open__until_10_pm",
+                    "all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog",
+                    "home_lighting",
+                    "outdoor_lighting",
+                    "storage_&_organization",
+                    "all_departments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items",
+                    "holiday_decorations",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help__you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items____all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog_______my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help_\n______________back\n______________all_departments__________holiday_decorations________________appliances________________bath_&_faucets________________blinds_&_window_treatment________________building_materials________________cleaning________________decor_&_furniture________________doors_&_windows________________electrical________________flooring_&_area_rugs________________hardware________________heating_&_cooling________________kitchen_&_kitchenware________________lawn_&_garden________________lighting_&_ceiling_fans________________outdoor_living_&_patio________________paint________________plumbing________________smart_home________________storage_&_organization________________tools________\n______________back\n_______________\n______________back",
+                    "indoor_lighting_smart_lighting_outdoor_lighting_light_bulbs",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm",
+                    "lists",
+                    "open",
+                    "cleaning",
+                    "smart_lighting",
+                    "installation_&_services",
+                    "for_the_pro",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135",
+                    "my_account__lists___cart_0_items",
+                    "outdoor_living_&_patio",
+                    "lighting_&_ceiling_fans",
+                    "indoor_lighting",
+                    "plumbing",
+                    "light_bulbs",
+                    "help",
+                    "0",
+                    "my_account",
+                    "cart",
+                    "my_account__lists",
+                    "my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "you're_shopping",
+                    "flooring_&_area_rugs",
+                    "paint",
+                    "project_calculators",
+                    "appliances",
+                    "all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog",
+                    "track_order",
+                    "items",
+                    "store_finder",
+                    "diy_projects_&_ideas",
+                    "hardware",
+                    "back",
+                    "kitchen_&_kitchenware",
+                    "home",
+                    "indoor_ceiling_fans",
+                    "lighting",
+                    "doors_&_windows",
+                    "specials_&_offers",
+                    "ceiling_fans",
+                    "decor_&_furniture",
+                    "miami_(calle_ocho)",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help"
+                ]
+            },
             "7f0acc17ceb61f34e500edbf7b82b3f7.png": {
                 "dupe_count": [
                     1
@@ -1099,6 +1693,108 @@
                     "flooring_&_area_rugs"
                 ]
             },
+            "80025eeb2342b9a2e634e8eba6cb4a90.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "80025eeb2342b9a2e634e8eba6cb4a90.png"
+                ],
+                "tags": [
+                    "section",
+                    "img",
+                    "ul",
+                    "g",
+                    "li",
+                    "a",
+                    "span",
+                    "all_screens",
+                    "label",
+                    "ellipse",
+                    "polyline",
+                    "h1",
+                    "input",
+                    "nav",
+                    "button",
+                    "div",
+                    "p",
+                    "form"
+                ],
+                "text": [
+                    "",
+                    "truck_&_tool_rental",
+                    "gift_cards",
+                    "33135",
+                    "cancel",
+                    "local_ad_&_catalog",
+                    "heating_&_cooling",
+                    "smart_home",
+                    "bath_&_faucets",
+                    "blinds_&_window_treatment",
+                    "credit_services",
+                    "cart_0_items",
+                    "delivering_to",
+                    "electrical",
+                    "lawn_&_garden",
+                    "building_materials",
+                    "shop_all_lighting",
+                    "delivering_to__33135",
+                    "home_decor,_furniture_&_kitchenware",
+                    "free_delivery_over_one_million_items_eligible",
+                    "open__until_10_pm",
+                    "all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog",
+                    "home_lighting",
+                    "outdoor_lighting",
+                    "storage_&_organization",
+                    "all_departments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items",
+                    "holiday_decorations",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help__you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items____all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog_______my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help_\n______________back\n______________all_departments__________holiday_decorations________________appliances________________bath_&_faucets________________blinds_&_window_treatment________________building_materials________________cleaning________________decor_&_furniture________________doors_&_windows________________electrical________________flooring_&_area_rugs________________hardware________________heating_&_cooling________________kitchen_&_kitchenware________________lawn_&_garden________________lighting_&_ceiling_fans________________outdoor_living_&_patio________________paint________________plumbing________________smart_home________________storage_&_organization________________tools________\n______________back\n_______________\n______________back",
+                    "indoor_lighting_smart_lighting_outdoor_lighting_light_bulbs",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm",
+                    "lists",
+                    "open",
+                    "cleaning",
+                    "smart_lighting",
+                    "installation_&_services",
+                    "for_the_pro",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135",
+                    "my_account__lists___cart_0_items",
+                    "outdoor_living_&_patio",
+                    "lighting_&_ceiling_fans",
+                    "indoor_lighting",
+                    "plumbing",
+                    "light_bulbs",
+                    "help",
+                    "0",
+                    "my_account",
+                    "cart",
+                    "my_account__lists",
+                    "my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "you're_shopping",
+                    "flooring_&_area_rugs",
+                    "paint",
+                    "project_calculators",
+                    "appliances",
+                    "all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog",
+                    "track_order",
+                    "items",
+                    "store_finder",
+                    "diy_projects_&_ideas",
+                    "hardware",
+                    "back",
+                    "kitchen_&_kitchenware",
+                    "home",
+                    "indoor_ceiling_fans",
+                    "lighting",
+                    "doors_&_windows",
+                    "specials_&_offers",
+                    "ceiling_fans",
+                    "decor_&_furniture",
+                    "miami_(calle_ocho)",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help"
+                ]
+            },
             "84c3e445cfd1b4d77c9e66447f9fa7a9.png": {
                 "dupe_count": [
                     1
@@ -1190,6 +1886,200 @@
                     "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help"
                 ]
             },
+            "85797a45c15d6de7912cfd73a9671c13.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "85797a45c15d6de7912cfd73a9671c13.png"
+                ],
+                "tags": [
+                    "section",
+                    "img",
+                    "ul",
+                    "g",
+                    "li",
+                    "a",
+                    "span",
+                    "all_screens",
+                    "label",
+                    "ellipse",
+                    "polyline",
+                    "input",
+                    "strong",
+                    "button",
+                    "div",
+                    "picture",
+                    "form"
+                ],
+                "text": [
+                    "",
+                    "truck_&_tool_rental",
+                    "gift_cards",
+                    "cancel",
+                    "local_ad_&_catalog",
+                    "heating_&_cooling",
+                    "smart_home",
+                    "flooring_and_tile_starting_at_$1.69/sq._ft.",
+                    "bath_&_faucets",
+                    "free_delivery.__today_only.",
+                    "blinds_&_window_treatment",
+                    "flooring_and_tile_starting_at_$1.69/sq._ft.__\n__________________free_delivery.__today_only.",
+                    "credit_services",
+                    "cart_0_items",
+                    "electrical",
+                    "lawn_&_garden",
+                    "building_materials",
+                    "home_decor,_furniture_&_kitchenware",
+                    "free_delivery_over_one_million_items_eligible",
+                    "open__until_10_pm",
+                    "all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog",
+                    "storage_&_organization",
+                    "all_departments",
+                    "holiday_decorations",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm",
+                    "lists",
+                    "open",
+                    "cleaning",
+                    "installation_&_services",
+                    "for_the_pro",
+                    "my_account__lists___cart_0_items",
+                    "outdoor_living_&_patio",
+                    "lighting_&_ceiling_fans",
+                    "today_only.",
+                    "plumbing",
+                    "help",
+                    "0",
+                    "my_account",
+                    "cart",
+                    "my_account__lists",
+                    "my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "you're_shopping",
+                    "flooring_&_area_rugs",
+                    "paint",
+                    "project_calculators",
+                    "appliances",
+                    "all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog",
+                    "track_order",
+                    "items",
+                    "store_finder",
+                    "diy_projects_&_ideas",
+                    "hardware",
+                    "back",
+                    "kitchen_&_kitchenware",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help__you're_shopping_miami_(calle_ocho)__open__until_10_pm_______cancel__my_account__lists___cart_0_items____all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog_______my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help_\n______________back\n______________all_departments__________holiday_decorations________________appliances________________bath_&_faucets________________blinds_&_window_treatment________________building_materials________________cleaning________________decor_&_furniture________________doors_&_windows________________electrical________________flooring_&_area_rugs________________hardware________________heating_&_cooling________________kitchen_&_kitchenware________________lawn_&_garden________________lighting_&_ceiling_fans________________outdoor_living_&_patio________________paint________________plumbing________________smart_home________________storage_&_organization________________tools________\n______________back\n_______________\n______________back",
+                    "doors_&_windows",
+                    "specials_&_offers",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm_______cancel__my_account__lists___cart_0_items",
+                    "decor_&_furniture",
+                    "miami_(calle_ocho)",
+                    "shop_today's_specials",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help"
+                ]
+            },
+            "890b72720084f17cfc77f2c10b82ddf3.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "890b72720084f17cfc77f2c10b82ddf3.png"
+                ],
+                "tags": [
+                    "section",
+                    "img",
+                    "ul",
+                    "g",
+                    "li",
+                    "a",
+                    "span",
+                    "all_screens",
+                    "label",
+                    "ellipse",
+                    "polyline",
+                    "h1",
+                    "input",
+                    "button",
+                    "div",
+                    "p",
+                    "form"
+                ],
+                "text": [
+                    "",
+                    "truck_&_tool_rental",
+                    "gift_cards",
+                    "33135",
+                    "cancel",
+                    "local_ad_&_catalog",
+                    "heating_&_cooling",
+                    "smart_home",
+                    "bath_&_faucets",
+                    "small_kitchen_appliances",
+                    "wall_decor",
+                    "get_ready_to_entertain",
+                    "blinds_&_window_treatment",
+                    "credit_services",
+                    "cart_0_items",
+                    "delivering_to",
+                    "electrical",
+                    "lawn_&_garden",
+                    "building_materials",
+                    "delivering_to__33135",
+                    "home_decor,_furniture_&_kitchenware",
+                    "free_delivery_over_one_million_items_eligible",
+                    "open__until_10_pm",
+                    "all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog",
+                    "storage_&_organization",
+                    "all_departments",
+                    "window_treatments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items",
+                    "holiday_decorations",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help__you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items____all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog_______my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help_\n______________back\n______________all_departments__________holiday_decorations________________appliances________________bath_&_faucets________________blinds_&_window_treatment________________building_materials________________cleaning________________decor_&_furniture________________doors_&_windows________________electrical________________flooring_&_area_rugs________________hardware________________heating_&_cooling________________kitchen_&_kitchenware________________lawn_&_garden________________lighting_&_ceiling_fans________________outdoor_living_&_patio________________paint________________plumbing________________smart_home________________storage_&_organization________________tools________\n______________back\n_______________\n______________back",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm",
+                    "lists",
+                    "open",
+                    "cleaning",
+                    "installation_&_services",
+                    "for_the_pro",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135",
+                    "my_account__lists___cart_0_items",
+                    "outdoor_living_&_patio",
+                    "lighting_&_ceiling_fans",
+                    "shop_by_room",
+                    "plumbing",
+                    "home_decor______________________________furniture______________________________wall_decor______________________________small_kitchen_appliances______________________________kitchenware_&_tableware______________________________bedding_&_bath______________________________lighting______________________________window_treatments______________________________shop_by_room",
+                    "furniture",
+                    "help",
+                    "0",
+                    "my_account",
+                    "cart",
+                    "my_account__lists",
+                    "my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "you're_shopping",
+                    "flooring_&_area_rugs",
+                    "paint",
+                    "project_calculators",
+                    "home_decor",
+                    "appliances",
+                    "all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog",
+                    "track_order",
+                    "items",
+                    "store_finder",
+                    "diy_projects_&_ideas",
+                    "hardware",
+                    "back",
+                    "kitchen_&_kitchenware",
+                    "bedding_&_bath",
+                    "home",
+                    "lighting",
+                    "home_home_decor",
+                    "doors_&_windows",
+                    "specials_&_offers",
+                    "decor_&_furniture",
+                    "kitchenware_&_tableware",
+                    "miami_(calle_ocho)",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help"
+                ]
+            },
             "89ea00fcfe4ca1860862b1d0c2f7f245.png": {
                 "dupe_count": [
                     1
@@ -1278,6 +2168,100 @@
                     "decor_&_furniture",
                     "miami_(calle_ocho)",
                     "shop_today's_specials",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help"
+                ]
+            },
+            "8a51330139078e3452020c20e6d6ec84.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "8a51330139078e3452020c20e6d6ec84.png"
+                ],
+                "tags": [
+                    "section",
+                    "img",
+                    "ul",
+                    "g",
+                    "li",
+                    "a",
+                    "span",
+                    "all_screens",
+                    "label",
+                    "ellipse",
+                    "polyline",
+                    "input",
+                    "i",
+                    "button",
+                    "div",
+                    "p",
+                    "form"
+                ],
+                "text": [
+                    "",
+                    "truck_&_tool_rental",
+                    "gift_cards",
+                    "33135",
+                    "cancel",
+                    "local_ad_&_catalog",
+                    "heating_&_cooling",
+                    "smart_home",
+                    "bath_&_faucets",
+                    "blinds_&_window_treatment",
+                    "credit_services",
+                    "cart_0_items",
+                    "delivering_to",
+                    "electrical",
+                    "lawn_&_garden",
+                    "building_materials",
+                    "delivering_to__33135",
+                    "home_decor,_furniture_&_kitchenware",
+                    "open__until_10_pm",
+                    "all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog",
+                    "outdoor_lighting",
+                    "storage_&_organization",
+                    "all_departments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items",
+                    "holiday_decorations",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help__you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items____all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog_______my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help_\n______________back\n______________all_departments__________holiday_decorations________________appliances________________bath_&_faucets________________blinds_&_window_treatment________________building_materials________________cleaning________________decor_&_furniture________________doors_&_windows________________electrical________________flooring_&_area_rugs________________hardware________________heating_&_cooling________________kitchen_&_kitchenware________________lawn_&_garden________________lighting_&_ceiling_fans________________outdoor_living_&_patio________________paint________________plumbing________________smart_home________________storage_&_organization________________tools________\n______________back\n_______________\n______________back",
+                    "new_&_trending_outdoor_lighting_shop_trending",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm",
+                    "lists",
+                    "open",
+                    "cleaning",
+                    "shop_trending",
+                    "installation_&_services",
+                    "for_the_pro",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135",
+                    "my_account__lists___cart_0_items",
+                    "outdoor_living_&_patio",
+                    "lighting_&_ceiling_fans",
+                    "plumbing",
+                    "help",
+                    "0",
+                    "my_account",
+                    "cart",
+                    "my_account__lists",
+                    "my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "you're_shopping",
+                    "flooring_&_area_rugs",
+                    "paint",
+                    "project_calculators",
+                    "new_&_trending_outdoor_lighting",
+                    "appliances",
+                    "all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog",
+                    "track_order",
+                    "items",
+                    "store_finder",
+                    "diy_projects_&_ideas",
+                    "hardware",
+                    "back",
+                    "kitchen_&_kitchenware",
+                    "shop_all_outdoor_lighting",
+                    "doors_&_windows",
+                    "specials_&_offers",
+                    "decor_&_furniture",
+                    "miami_(calle_ocho)",
                     "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help"
                 ]
             },
@@ -2285,6 +3269,112 @@
                     "flooring_&_area_rugs"
                 ]
             },
+            "b3c6244fcd8b8c7bd845100b02e50515.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "b3c6244fcd8b8c7bd845100b02e50515.png"
+                ],
+                "tags": [
+                    "section",
+                    "img",
+                    "ul",
+                    "g",
+                    "li",
+                    "a",
+                    "span",
+                    "all_screens",
+                    "label",
+                    "ellipse",
+                    "polyline",
+                    "h1",
+                    "input",
+                    "button",
+                    "div",
+                    "p",
+                    "form"
+                ],
+                "text": [
+                    "",
+                    "gift_cards",
+                    "smart_home",
+                    "blinds_&_window_treatment",
+                    "electrical",
+                    "lawn_&_garden",
+                    "home_lighting_outdoor_lighting",
+                    "delivering_to__33135",
+                    "window_treatments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm",
+                    "lists",
+                    "plumbing",
+                    "help",
+                    "appliances",
+                    "all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog",
+                    "bedding_&_bath",
+                    "store_finder",
+                    "outdoor_decorative_lighting",
+                    "local_ad_&_catalog",
+                    "heating_&_cooling",
+                    "cancel",
+                    "small_kitchen_appliances",
+                    "wall_decor",
+                    "credit_services",
+                    "building_materials",
+                    "home_decor______________________________furniture______________________________wall_decor______________________________small_kitchen_appliances______________________________kitchenware_&_tableware______________________________bedding_&_bath______________________________lighting______________________________window_treatments______________________________shop_by_room",
+                    "furniture",
+                    "my_account",
+                    "my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "home_decor",
+                    "you're_shopping",
+                    "hardware",
+                    "back",
+                    "home",
+                    "specials_&_offers",
+                    "outdoor_ceiling_lights",
+                    "outdoor_ceiling_fans",
+                    "home_decor,_furniture_&_kitchenware",
+                    "outdoor_lighting",
+                    "storage_&_organization",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help__you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items____all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog_______my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help_\n______________back\n______________all_departments__________holiday_decorations________________appliances________________bath_&_faucets________________blinds_&_window_treatment________________building_materials________________cleaning________________decor_&_furniture________________doors_&_windows________________electrical________________flooring_&_area_rugs________________hardware________________heating_&_cooling________________kitchen_&_kitchenware________________lawn_&_garden________________lighting_&_ceiling_fans________________outdoor_living_&_patio________________paint________________plumbing________________smart_home________________storage_&_organization________________tools________\n______________back\n_______________\n______________back",
+                    "open",
+                    "cleaning",
+                    "installation_&_services",
+                    "for_the_pro",
+                    "my_account__lists___cart_0_items",
+                    "outdoor_living_&_patio",
+                    "my_account__lists",
+                    "project_calculators",
+                    "items",
+                    "kitchen_&_kitchenware",
+                    "lighting",
+                    "doors_&_windows",
+                    "bath_&_faucets",
+                    "miami_(calle_ocho)",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "truck_&_tool_rental",
+                    "33135",
+                    "cart_0_items",
+                    "delivering_to",
+                    "free_delivery_over_one_million_items_eligible",
+                    "open__until_10_pm",
+                    "all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog",
+                    "all_departments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items",
+                    "holiday_decorations",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135",
+                    "shop_by_room",
+                    "lighting_&_ceiling_fans",
+                    "0",
+                    "cart",
+                    "paint",
+                    "track_order",
+                    "diy_projects_&_ideas",
+                    "decor_&_furniture",
+                    "kitchenware_&_tableware",
+                    "flooring_&_area_rugs"
+                ]
+            },
             "d88af1091216a88c6ac187611f3d59b6.png": {
                 "dupe_count": [
                     1
@@ -2419,6 +3509,214 @@
                     "decor_&_furniture",
                     "glidden_premium",
                     "how_to_make_fall_leaf_crafts_for_kids",
+                    "flooring_&_area_rugs"
+                ]
+            },
+            "db595737c288695d8dafeab3136bf6a8.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "db595737c288695d8dafeab3136bf6a8.png"
+                ],
+                "tags": [
+                    "section",
+                    "img",
+                    "ul",
+                    "g",
+                    "li",
+                    "a",
+                    "span",
+                    "all_screens",
+                    "label",
+                    "ellipse",
+                    "polyline",
+                    "h1",
+                    "input",
+                    "nav",
+                    "button",
+                    "div",
+                    "p",
+                    "form"
+                ],
+                "text": [
+                    "",
+                    "truck_&_tool_rental",
+                    "gift_cards",
+                    "33135",
+                    "cancel",
+                    "local_ad_&_catalog",
+                    "heating_&_cooling",
+                    "smart_home",
+                    "bath_&_faucets",
+                    "blinds_&_window_treatment",
+                    "credit_services",
+                    "cart_0_items",
+                    "delivering_to",
+                    "electrical",
+                    "lawn_&_garden",
+                    "building_materials",
+                    "shop_all_lighting",
+                    "delivering_to__33135",
+                    "home_decor,_furniture_&_kitchenware",
+                    "free_delivery_over_one_million_items_eligible",
+                    "open__until_10_pm",
+                    "all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog",
+                    "home_lighting",
+                    "outdoor_lighting",
+                    "storage_&_organization",
+                    "all_departments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items",
+                    "holiday_decorations",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help__you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items____all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog_______my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help_\n______________back\n______________all_departments__________holiday_decorations________________appliances________________bath_&_faucets________________blinds_&_window_treatment________________building_materials________________cleaning________________decor_&_furniture________________doors_&_windows________________electrical________________flooring_&_area_rugs________________hardware________________heating_&_cooling________________kitchen_&_kitchenware________________lawn_&_garden________________lighting_&_ceiling_fans________________outdoor_living_&_patio________________paint________________plumbing________________smart_home________________storage_&_organization________________tools________\n______________back\n_______________\n______________back",
+                    "indoor_lighting_smart_lighting_outdoor_lighting_light_bulbs",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm",
+                    "lists",
+                    "open",
+                    "cleaning",
+                    "smart_lighting",
+                    "installation_&_services",
+                    "for_the_pro",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135",
+                    "my_account__lists___cart_0_items",
+                    "outdoor_living_&_patio",
+                    "lighting_&_ceiling_fans",
+                    "indoor_lighting",
+                    "plumbing",
+                    "light_bulbs",
+                    "help",
+                    "0",
+                    "my_account",
+                    "cart",
+                    "my_account__lists",
+                    "my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "you're_shopping",
+                    "flooring_&_area_rugs",
+                    "paint",
+                    "project_calculators",
+                    "appliances",
+                    "all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog",
+                    "track_order",
+                    "items",
+                    "store_finder",
+                    "diy_projects_&_ideas",
+                    "hardware",
+                    "back",
+                    "kitchen_&_kitchenware",
+                    "home",
+                    "indoor_ceiling_fans",
+                    "lighting",
+                    "doors_&_windows",
+                    "specials_&_offers",
+                    "ceiling_fans",
+                    "decor_&_furniture",
+                    "miami_(calle_ocho)",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help"
+                ]
+            },
+            "dffcbad44a74dcece0900d6d840292fb.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "dffcbad44a74dcece0900d6d840292fb.png"
+                ],
+                "tags": [
+                    "section",
+                    "img",
+                    "ul",
+                    "g",
+                    "li",
+                    "a",
+                    "span",
+                    "all_screens",
+                    "label",
+                    "ellipse",
+                    "polyline",
+                    "h1",
+                    "input",
+                    "button",
+                    "div",
+                    "p",
+                    "form"
+                ],
+                "text": [
+                    "",
+                    "gift_cards",
+                    "smart_home",
+                    "blinds_&_window_treatment",
+                    "electrical",
+                    "lawn_&_garden",
+                    "home_lighting_outdoor_lighting",
+                    "delivering_to__33135",
+                    "window_treatments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm",
+                    "lists",
+                    "plumbing",
+                    "help",
+                    "appliances",
+                    "all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog",
+                    "bedding_&_bath",
+                    "store_finder",
+                    "outdoor_decorative_lighting",
+                    "local_ad_&_catalog",
+                    "heating_&_cooling",
+                    "cancel",
+                    "small_kitchen_appliances",
+                    "wall_decor",
+                    "credit_services",
+                    "building_materials",
+                    "home_decor______________________________furniture______________________________wall_decor______________________________small_kitchen_appliances______________________________kitchenware_&_tableware______________________________bedding_&_bath______________________________lighting______________________________window_treatments______________________________shop_by_room",
+                    "furniture",
+                    "my_account",
+                    "my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "home_decor",
+                    "you're_shopping",
+                    "hardware",
+                    "back",
+                    "home",
+                    "specials_&_offers",
+                    "outdoor_ceiling_lights",
+                    "outdoor_ceiling_fans",
+                    "home_decor,_furniture_&_kitchenware",
+                    "outdoor_lighting",
+                    "storage_&_organization",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help__you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items____all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog_______my_account__lists___\n____________________all_departments\n____________________\n____________________home_decor,_furniture_&_kitchenware\n____________________\n____________________diy_projects_&_ideas\n____________________\n____________________project_calculators\n____________________\n____________________installation_&_services\n____________________\n____________________specials_&_offers\n____________________\n____________________local_ad_&_catalog\n____________________store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help_\n______________back\n______________all_departments__________holiday_decorations________________appliances________________bath_&_faucets________________blinds_&_window_treatment________________building_materials________________cleaning________________decor_&_furniture________________doors_&_windows________________electrical________________flooring_&_area_rugs________________hardware________________heating_&_cooling________________kitchen_&_kitchenware________________lawn_&_garden________________lighting_&_ceiling_fans________________outdoor_living_&_patio________________paint________________plumbing________________smart_home________________storage_&_organization________________tools________\n______________back\n_______________\n______________back",
+                    "open",
+                    "cleaning",
+                    "installation_&_services",
+                    "for_the_pro",
+                    "my_account__lists___cart_0_items",
+                    "outdoor_living_&_patio",
+                    "my_account__lists",
+                    "project_calculators",
+                    "items",
+                    "kitchen_&_kitchenware",
+                    "lighting",
+                    "doors_&_windows",
+                    "bath_&_faucets",
+                    "miami_(calle_ocho)",
+                    "store_finder_truck_&_tool_rental_for_the_pro_gift_cards_credit_services_track_order__help",
+                    "truck_&_tool_rental",
+                    "33135",
+                    "cart_0_items",
+                    "delivering_to",
+                    "free_delivery_over_one_million_items_eligible",
+                    "open__until_10_pm",
+                    "all_departments_home_decor,_furniture_&_kitchenware_diy_projects_&_ideas_project_calculators_installation_&_services_specials_&_offers_local_ad_&_catalog",
+                    "all_departments",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135_______cancel__my_account__lists___cart_0_items",
+                    "holiday_decorations",
+                    "you're_shopping_miami_(calle_ocho)__open__until_10_pm__delivering_to__33135",
+                    "shop_by_room",
+                    "lighting_&_ceiling_fans",
+                    "0",
+                    "cart",
+                    "paint",
+                    "track_order",
+                    "diy_projects_&_ideas",
+                    "decor_&_furniture",
+                    "kitchenware_&_tableware",
                     "flooring_&_area_rugs"
                 ]
             },
@@ -2564,27 +3862,43 @@
             }
         },
         "sorted_screens": [
+            "80025eeb2342b9a2e634e8eba6cb4a90.png",
+            "b3c6244fcd8b8c7bd845100b02e50515.png",
             "4fdd21ce7fc106f72d0aa2184c192f4b.png",
+            "85797a45c15d6de7912cfd73a9671c13.png",
+            "890b72720084f17cfc77f2c10b82ddf3.png",
+            "6495dea0349bf33faf35a1d53f7020d8.png",
             "54a1cbb3afacfd6f79f8592dec564957.png",
             "9a638a4b9798e4d854bb5ee4fdf21927.png",
             "4561bbe8d9c0d220138f3d0b93b3e5e7.png",
             "89ea00fcfe4ca1860862b1d0c2f7f245.png",
+            "14bbcbca9b233ae81e11bc413f1996d2.png",
             "d88af1091216a88c6ac187611f3d59b6.png",
             "9aaabc99f0be8b64f2a2070551cfd116.png",
+            "8a51330139078e3452020c20e6d6ec84.png",
             "e677e11f0bb3aefad3eb1174759b5d8c.png",
             "94621e211f213a16e59766cc1de77bb3.png",
             "7f0acc17ceb61f34e500edbf7b82b3f7.png",
             "b197c5a0fe51ed898298cd1c1a510e9c.png",
             "ad694075a1b8ff6bb30e3aa179e3fecd.png",
             "a393ae774d2f1d0d780b3b2993622f6f.png",
+            "407b8fa70bbb373a3e020ccb12edbb5b.png",
+            "dffcbad44a74dcece0900d6d840292fb.png",
             "ad1c2986cd8a9de7db719d2a1f6c26b5.png",
+            "db595737c288695d8dafeab3136bf6a8.png",
             "84c3e445cfd1b4d77c9e66447f9fa7a9.png",
             "3901d564662b9e755cb6257a602ac4d5.png",
             "50259dae0a51d91d79599073906e207d.png"
         ],
         "uniques_to_dupes": {
+            "14bbcbca9b233ae81e11bc413f1996d2.png": [
+                "14bbcbca9b233ae81e11bc413f1996d2.png"
+            ],
             "3901d564662b9e755cb6257a602ac4d5.png": [
                 "3901d564662b9e755cb6257a602ac4d5.png"
+            ],
+            "407b8fa70bbb373a3e020ccb12edbb5b.png": [
+                "407b8fa70bbb373a3e020ccb12edbb5b.png"
             ],
             "4561bbe8d9c0d220138f3d0b93b3e5e7.png": [
                 "4561bbe8d9c0d220138f3d0b93b3e5e7.png"
@@ -2598,14 +3912,29 @@
             "54a1cbb3afacfd6f79f8592dec564957.png": [
                 "54a1cbb3afacfd6f79f8592dec564957.png"
             ],
+            "6495dea0349bf33faf35a1d53f7020d8.png": [
+                "6495dea0349bf33faf35a1d53f7020d8.png"
+            ],
             "7f0acc17ceb61f34e500edbf7b82b3f7.png": [
                 "7f0acc17ceb61f34e500edbf7b82b3f7.png"
+            ],
+            "80025eeb2342b9a2e634e8eba6cb4a90.png": [
+                "80025eeb2342b9a2e634e8eba6cb4a90.png"
             ],
             "84c3e445cfd1b4d77c9e66447f9fa7a9.png": [
                 "84c3e445cfd1b4d77c9e66447f9fa7a9.png"
             ],
+            "85797a45c15d6de7912cfd73a9671c13.png": [
+                "85797a45c15d6de7912cfd73a9671c13.png"
+            ],
+            "890b72720084f17cfc77f2c10b82ddf3.png": [
+                "890b72720084f17cfc77f2c10b82ddf3.png"
+            ],
             "89ea00fcfe4ca1860862b1d0c2f7f245.png": [
                 "89ea00fcfe4ca1860862b1d0c2f7f245.png"
+            ],
+            "8a51330139078e3452020c20e6d6ec84.png": [
+                "8a51330139078e3452020c20e6d6ec84.png"
             ],
             "94621e211f213a16e59766cc1de77bb3.png": [
                 "94621e211f213a16e59766cc1de77bb3.png"
@@ -2628,8 +3957,17 @@
             "b197c5a0fe51ed898298cd1c1a510e9c.png": [
                 "b197c5a0fe51ed898298cd1c1a510e9c.png"
             ],
+            "b3c6244fcd8b8c7bd845100b02e50515.png": [
+                "b3c6244fcd8b8c7bd845100b02e50515.png"
+            ],
             "d88af1091216a88c6ac187611f3d59b6.png": [
                 "d88af1091216a88c6ac187611f3d59b6.png"
+            ],
+            "db595737c288695d8dafeab3136bf6a8.png": [
+                "db595737c288695d8dafeab3136bf6a8.png"
+            ],
+            "dffcbad44a74dcece0900d6d840292fb.png": [
+                "dffcbad44a74dcece0900d6d840292fb.png"
             ],
             "e677e11f0bb3aefad3eb1174759b5d8c.png": [
                 "e677e11f0bb3aefad3eb1174759b5d8c.png"

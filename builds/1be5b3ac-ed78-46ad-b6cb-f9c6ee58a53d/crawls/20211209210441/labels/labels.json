@@ -1,0 +1,29 @@
+{
+    "elems": {
+        "iter_00000_step_00003_169_a.png": [
+            "lnk_lighting"
+        ],
+        "iter_00000_step_00005_178_a.png": [
+            "lnk_indoor_lighting"
+        ],
+        "iter_00000_step_00009_178_a.png": [
+            "lnk_indoor_lighting"
+        ],
+        "iter_00000_step_00009_184_a.png": [
+            "lnk_outdoor_lighting"
+        ],
+        "iter_00000_step_00011_171_a.png": [
+            "lnk_shop_all_outdoor_lighting"
+        ],
+        "iter_00000_step_00013_192_a.png": [
+            "lnk_outdoor_ceiling_lights"
+        ],
+        "iter_00000_step_00014_183_h1.png": [
+            "ttl_outdoor_ceiling_lights"
+        ],
+        "iter_00000_step_00014_71_a.png": [
+            "ddm_home_decor"
+        ]
+    },
+    "screens": {}
+}

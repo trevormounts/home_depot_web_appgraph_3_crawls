@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "lIfG/yj7Cibw7TeunPMpRQ==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "img_X1328_Y494_W115_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Dusk to Dawn",
+                "class": "vis-nav__image stretchy",
+                "height": "1",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/catalog/productImages/300/5e/5e1fc5c8-858e-415e-95c3-2fb371fa54cc_300.jpg",
+                "title": "Dusk to Dawn",
+                "width": "1"
+            },
+            "backend_node_id": 24361,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "1328_494_115_115_",
+            "tagName": "img",
+            "text": "",
+            "width": 115.0,
+            "x": 1328.0,
+            "y": 494.0
+        },
+        "location": {
+            "x": 1328.0,
+            "y": 494.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 115.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 115,
+    "x": 1328,
+    "y": 494
+}

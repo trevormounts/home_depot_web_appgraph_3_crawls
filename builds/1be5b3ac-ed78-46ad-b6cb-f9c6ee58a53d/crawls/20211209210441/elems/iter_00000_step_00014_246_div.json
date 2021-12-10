@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "mtiXz4qikuNC2a1VZD4sOQ==\n",
+    "height": 30,
+    "hier_level": 0,
+    "human_hash": "div_X275_Y866_W193_H30",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dimension__item dimension__item--hidden col__12-12"
+            },
+            "backend_node_id": 26315,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 30.0,
+            "key": "275_866_193_30_Free 2-Day Delivery (1)",
+            "tagName": "div",
+            "text": "Free 2-Day Delivery (1)",
+            "width": 193.0,
+            "x": 275.0,
+            "y": 866.0
+        },
+        "location": {
+            "x": 275.0,
+            "y": 866.0
+        },
+        "size": {
+            "height": 30.0,
+            "width": 193.0
+        },
+        "tag_name": "div",
+        "text": "Free 2-Day Delivery (1)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Free 2-Day Delivery (1)",
+    "transformed": true,
+    "width": 193,
+    "x": 275,
+    "y": 866
+}

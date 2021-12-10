@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "OaGp5W+28l7Nsr5noiN+tw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X1544_Y50_W126_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Header3__groupItem Header3__groupItem--center MyCartHeader"
+            },
+            "backend_node_id": 16282,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1544_50_126_24_Cart 0 items",
+            "tagName": "div",
+            "text": "Cart 0 items",
+            "width": 126.0,
+            "x": 1544.0,
+            "y": 50.0
+        },
+        "location": {
+            "x": 1544.0,
+            "y": 50.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 126.0
+        },
+        "tag_name": "div",
+        "text": "Cart 0 items"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Cart 0 items",
+    "transformed": true,
+    "width": 126,
+    "x": 1544,
+    "y": 50
+}

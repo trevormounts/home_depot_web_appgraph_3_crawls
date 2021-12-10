@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h3",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "GC94iG14lbvtyP7oIOvBtA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "h3_X312_Y906_W113_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "refinement__link"
+            },
+            "backend_node_id": 26333,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "312_906_113_17_Next-Day Delivery",
+            "tagName": "h3",
+            "text": "Next-Day Delivery",
+            "width": 113.0,
+            "x": 312.0,
+            "y": 906.0
+        },
+        "location": {
+            "x": 312.0,
+            "y": 906.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 113.0
+        },
+        "tag_name": "h3",
+        "text": "Next-Day Delivery"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h3",
+    "text": "Next-Day Delivery",
+    "transformed": true,
+    "width": 113,
+    "x": 312,
+    "y": 906
+}

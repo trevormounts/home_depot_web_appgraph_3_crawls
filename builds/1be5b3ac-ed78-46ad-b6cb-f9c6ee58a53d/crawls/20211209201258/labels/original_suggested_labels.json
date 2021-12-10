@@ -1,5 +1,14 @@
 {
     "elems": {
+        "iter_00000_step_00010_71_a.png": {
+            "ddm_home_decor": {
+                "all_scores": {
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "hash_based"
+            }
+        },
         "iter_00000_step_00010_73_a.png": {
             "ddm_diy_projects_ideas": {
                 "all_scores": {

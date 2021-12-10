@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Mp6l9omLLhXvw6LzLlftTw==\n",
+    "height": 60,
+    "hier_level": 0,
+    "human_hash": "div_X1860_Y812_W60_H60",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "lebuttondiv-hd",
+                "style": "width: 60px; height: 60px; position: fixed; right: 0px; bottom: 59px; z-index: 9;"
+            },
+            "backend_node_id": 15357,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 60.0,
+            "key": "1860_812_60_60_",
+            "tagName": "div",
+            "text": "",
+            "width": 60.0,
+            "x": 1860.0,
+            "y": 812.0
+        },
+        "location": {
+            "x": 1860.0,
+            "y": 812.0
+        },
+        "size": {
+            "height": 60.0,
+            "width": 60.0
+        },
+        "tag_name": "div",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "",
+    "transformed": true,
+    "width": 60,
+    "x": 1860,
+    "y": 812
+}

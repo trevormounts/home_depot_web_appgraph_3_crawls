@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "HFGVqWs0q43impIPZSjuvQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X312_Y906_W140_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "refinement__link",
+                "href": "/b/Lighting-Outdoor-Lighting-Outdoor-Ceiling-Lights/Next-Day-Delivery/N-5yc1vZc7r5Z1z175cq"
+            },
+            "backend_node_id": 26332,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "312_906_140_17_Next-Day Delivery (11)",
+            "tagName": "a",
+            "text": "Next-Day Delivery (11)",
+            "width": 140.0,
+            "x": 312.0,
+            "y": 906.0
+        },
+        "location": {
+            "x": 312.0,
+            "y": 906.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 140.0
+        },
+        "tag_name": "a",
+        "text": "Next-Day Delivery (11)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Next-Day Delivery (11)",
+    "transformed": true,
+    "width": 140,
+    "x": 312,
+    "y": 906
+}

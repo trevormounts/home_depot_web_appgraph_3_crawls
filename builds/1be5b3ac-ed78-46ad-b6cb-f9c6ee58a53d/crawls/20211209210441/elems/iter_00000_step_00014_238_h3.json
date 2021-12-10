@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h3",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "k/3T793tZe53C4AuvDSLOA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "h3_X312_Y781_W146_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "refinement__link"
+            },
+            "backend_node_id": 26304,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "312_781_146_17_In Stock at Store Today",
+            "tagName": "h3",
+            "text": "In Stock at Store Today",
+            "width": 146.0,
+            "x": 312.0,
+            "y": 781.0
+        },
+        "location": {
+            "x": 312.0,
+            "y": 781.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 146.0
+        },
+        "tag_name": "h3",
+        "text": "In Stock at Store Today"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h3",
+    "text": "In Stock at Store Today",
+    "transformed": true,
+    "width": 146,
+    "x": 312,
+    "y": 781
+}

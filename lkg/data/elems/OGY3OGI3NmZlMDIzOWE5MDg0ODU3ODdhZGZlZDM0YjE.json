@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "lUEbRBw45yYKzm8UVXT4PA==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "a_X1258_Y185_W50_H22",
+    "human_readable": "a_1258_185_50_22_a_ffffffffffffffffffff6ddf7dbf60046000690a61080000119cf3fcf3fcffff_856eba64831b8bbcd1132e784c5e8553",
+    "image_path": "OGY3OGI3NmZlMDIzOWE5MDg0ODU3ODdhZGZlZDM0YjE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homeDecorFurnitureFlyout__link",
+                "href": "//www.homedepot.com/b/Lighting/N-5yc1vZbvn5",
+                "id": "lighting"
+            },
+            "backend_node_id": 5960,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "1258_185_50_22_Lighting",
+            "tagName": "a",
+            "text": "Lighting",
+            "width": 50.0,
+            "x": 1258.0,
+            "y": 185.0
+        },
+        "location": {
+            "x": 1258.0,
+            "y": 185.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 50.0
+        },
+        "tag_name": "a",
+        "text": "Lighting"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "890b72720084f17cfc77f2c10b82ddf3",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Lighting",
+    "transformed": true,
+    "width": 50,
+    "x": 1258,
+    "y": 185
+}

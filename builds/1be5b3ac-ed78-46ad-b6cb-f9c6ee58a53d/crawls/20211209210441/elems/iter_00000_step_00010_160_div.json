@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZNGquxLkwh6bT+IKzEUo3Q==\n",
+    "height": 155,
+    "hier_level": 0,
+    "human_hash": "div_X1287_Y10_W373_H155",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchCopyBlockHeader__padding"
+            },
+            "backend_node_id": 17501,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 155.0,
+            "key": "1287_10_373_155_NEW & TRENDING OUTDOOR LIGHTING Shop Trending",
+            "tagName": "div",
+            "text": "NEW & TRENDING OUTDOOR LIGHTING Shop Trending",
+            "width": 373.0,
+            "x": 1287.0,
+            "y": 10.0
+        },
+        "location": {
+            "x": 1287.0,
+            "y": 10.0
+        },
+        "size": {
+            "height": 155.0,
+            "width": 373.0
+        },
+        "tag_name": "div",
+        "text": "NEW & TRENDING OUTDOOR LIGHTING Shop Trending"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "NEW & TRENDING OUTDOOR LIGHTING Shop Trending",
+    "transformed": true,
+    "width": 373,
+    "x": 1287,
+    "y": 10
+}

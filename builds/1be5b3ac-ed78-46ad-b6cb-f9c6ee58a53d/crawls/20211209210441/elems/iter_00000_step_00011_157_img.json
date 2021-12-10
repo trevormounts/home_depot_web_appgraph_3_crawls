@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "RhRA83LF6NQnLYNQzxUVBA==\n",
+    "height": 299,
+    "hier_level": 0,
+    "human_hash": "img_X500_Y10_W767_H299",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "New & Trending outdoor lighting",
+                "class": "img--block stretchy stretchy",
+                "height": "300",
+                "loading": "lazy",
+                "src": "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/trending-outdoor-lighting2.jpg",
+                "title": "",
+                "width": "770"
+            },
+            "backend_node_id": 17497,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 299.0,
+            "key": "500_10_767_299_",
+            "tagName": "img",
+            "text": "",
+            "width": 767.0,
+            "x": 500.0,
+            "y": 10.0
+        },
+        "location": {
+            "x": 500.0,
+            "y": 10.0
+        },
+        "size": {
+            "height": 299.0,
+            "width": 767.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 767,
+    "x": 500,
+    "y": 10
+}

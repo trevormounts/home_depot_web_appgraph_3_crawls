@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "L7LVqzUAbf3nxurkRCwYhQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X1090_Y801_W71_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchAnchorLinks__list__item__link",
+                "href": "#bulbs"
+            },
+            "backend_node_id": 17137,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1090_801_71_17_Light Bulbs",
+            "tagName": "a",
+            "text": "Light Bulbs",
+            "width": 71.0,
+            "x": 1090.0,
+            "y": 801.0
+        },
+        "location": {
+            "x": 1090.0,
+            "y": 801.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 71.0
+        },
+        "tag_name": "a",
+        "text": "Light Bulbs"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Light Bulbs",
+    "transformed": true,
+    "width": 71,
+    "x": 1090,
+    "y": 801
+}

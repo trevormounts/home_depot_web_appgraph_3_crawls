@@ -5,6 +5,9 @@
     "ddm_diy_projects_ideas": [
         "a_720_124_128_47_a_ffffffffffffffffffffffff07cf000000000000fdffffffffffffffffffffff_6aae75e030d12dede551ddc1f6c2051e"
     ],
+    "ddm_home_decor": [
+        "a_418_124_235_47_a_ffffffffffffffffffffffff49cf000000000000ffffffffffffffffffffffff_ac2180d2195682023659a583adb260fb"
+    ],
     "img_ryobi_glue_gun": [
         "img_1154_369_90_90_img_ffffffffffdffc0ff81ff81ffe1fff1ff03ff03ff81ff81ff83ffcffffffffff_9d4568c009d203ab10e33ea9953a0264"
     ],
@@ -20,8 +23,24 @@
     "lnk_gift_ideas": [
         "a_250_428_60_17_a_ffffffffffffbfff06bf52bf4208620002090200420242100200bfffffffffff_c435e88db266bf91be849ea636418627"
     ],
+    "lnk_indoor_lighting": [
+        "a_739_801_94_17_a_ffffffffffffffff7fffffff0380018001800180038003800200ffde0000ff9e_324d3d1f7b5fe76d8ba55b25fd6a95a1",
+        "a_739_801_94_17_a_ffffffffffffffff7f777ff70080008001800180010001800200ffdeff9eff9e_324d3d1f7b5fe76d8ba55b25fd6a95a1"
+    ],
+    "lnk_lighting": [
+        "a_1258_185_50_22_a_ffffffffffffffffffff6ddf7dbf60046000690a61080000119cf3fcf3fcffff_856eba64831b8bbcd1132e784c5e8553"
+    ],
+    "lnk_outdoor_ceiling_lights": [
+        "a_260_912_141_17_a_ffffffffffffffff7c3f7dff0208020002100210021000000000fffbffdbffdb_c41fc288ec41e00688d13c9cf5b7892d"
+    ],
+    "lnk_outdoor_lighting": [
+        "a_965_801_106_17_a_ffffffffffffffff3ffb7fff0040808080808080008000800100ffdeffdeffde_0472c7b049e6a108a7cc5f08a6c15441"
+    ],
     "lnk_shop_all_exercise_equipment": [
         "a_715_544_296_17_a_ffffffffffffffff000011801190100010001000119030000000ffffffffffff_8de59af1935870370c69df3435fca279"
+    ],
+    "lnk_shop_all_outdoor_lighting": [
+        "a_500_738_1160_22_a_ffffffffffff3fff1fff1fff1fff1fff1fff1fff1fff1fff1fff1fffdfffdfff_9b5b6e5ad176239d0592fa5c432f2494"
     ],
     "tab_featured": [
         "a_250_340_200_21_a_fffffffffffff3dff38ff80ff00ff00ff80ff00ff00ff80fffefffffffffffff_30974a8098ec9ce03af6411f19347e2d"
@@ -31,5 +50,8 @@
     ],
     "ttl_exercise_equipment": [
         "h1_250_384_256_35_h1_ffffffffffff7e7f7efffffe81000000020089808b0081800000520fffffffff_d05a74902f45215560fa34f480ce4b01"
+    ],
+    "ttl_outdoor_ceiling_lights": [
+        "h1_250_432_288_35_h1_ffffffffffff7cff7c3f7ffd020803000310021002100208000006e2ffdbffdb_c41fc288ec41e00688d13c9cf5b7892d"
     ]
 }

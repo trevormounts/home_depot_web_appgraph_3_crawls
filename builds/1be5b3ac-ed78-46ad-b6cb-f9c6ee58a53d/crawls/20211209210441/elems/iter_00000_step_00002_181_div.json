@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Cv4yVO67NGXGKGbITV09xw==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y432_W1420_H42",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "results-header"
+            },
+            "backend_node_id": 5999,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "250_432_1420_42_Home Decor",
+            "tagName": "div",
+            "text": "Home Decor",
+            "width": 1420.0,
+            "x": 250.0,
+            "y": 432.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 432.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 1420.0
+        },
+        "tag_name": "div",
+        "text": "Home Decor"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Home Decor",
+    "transformed": true,
+    "width": 1420,
+    "x": 250,
+    "y": 432
+}

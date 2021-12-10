@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2bxudO0qzpQoUAovgqdZhA==\n",
+    "height": 47,
+    "hier_level": 0,
+    "human_hash": "span_X500_Y879_W231_H47",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "row-header__text"
+            },
+            "backend_node_id": 17332,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 47.0,
+            "key": "500_879_231_47_Indoor Lighting",
+            "tagName": "span",
+            "text": "Indoor Lighting",
+            "width": 231.0,
+            "x": 500.0,
+            "y": 879.0
+        },
+        "location": {
+            "x": 500.0,
+            "y": 879.0
+        },
+        "size": {
+            "height": 47.0,
+            "width": 231.0
+        },
+        "tag_name": "span",
+        "text": "Indoor Lighting"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Indoor Lighting",
+    "transformed": true,
+    "width": 231,
+    "x": 500,
+    "y": 879
+}

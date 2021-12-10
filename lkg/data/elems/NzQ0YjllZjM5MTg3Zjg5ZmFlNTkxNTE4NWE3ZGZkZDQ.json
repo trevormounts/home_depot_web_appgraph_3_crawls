@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "t7IRQAUcC17MrvQiaK4GWA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X739_Y801_W94_H17",
+    "human_readable": "a_739_801_94_17_a_ffffffffffffffff7fffffff0380018001800180038003800200ffde0000ff9e_324d3d1f7b5fe76d8ba55b25fd6a95a1",
+    "image_path": "NzQ0YjllZjM5MTg3Zjg5ZmFlNTkxNTE4NWE3ZGZkZDQ.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchAnchorLinks__list__item__link",
+                "href": "#indoor"
+            },
+            "backend_node_id": 17128,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "739_801_94_17_Indoor Lighting",
+            "tagName": "a",
+            "text": "Indoor Lighting",
+            "width": 94.0,
+            "x": 739.0,
+            "y": 801.0
+        },
+        "location": {
+            "x": 739.0,
+            "y": 801.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 94.0
+        },
+        "tag_name": "a",
+        "text": "Indoor Lighting"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "80025eeb2342b9a2e634e8eba6cb4a90",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Indoor Lighting",
+    "transformed": true,
+    "width": 94,
+    "x": 739,
+    "y": 801
+}

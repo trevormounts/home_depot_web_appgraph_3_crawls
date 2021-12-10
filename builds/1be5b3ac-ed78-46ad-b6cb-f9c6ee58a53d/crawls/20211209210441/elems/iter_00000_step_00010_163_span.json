@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "HdHSl9JOpAoravfwuMromw==\n",
+    "height": 47,
+    "hier_level": 0,
+    "human_hash": "span_X500_Y354_W261_H47",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "row-header__text"
+            },
+            "backend_node_id": 17514,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 47.0,
+            "key": "500_354_261_47_Outdoor Lighting",
+            "tagName": "span",
+            "text": "Outdoor Lighting",
+            "width": 261.0,
+            "x": 500.0,
+            "y": 354.0
+        },
+        "location": {
+            "x": 500.0,
+            "y": 354.0
+        },
+        "size": {
+            "height": 47.0,
+            "width": 261.0
+        },
+        "tag_name": "span",
+        "text": "Outdoor Lighting"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Outdoor Lighting",
+    "transformed": true,
+    "width": 261,
+    "x": 500,
+    "y": 354
+}

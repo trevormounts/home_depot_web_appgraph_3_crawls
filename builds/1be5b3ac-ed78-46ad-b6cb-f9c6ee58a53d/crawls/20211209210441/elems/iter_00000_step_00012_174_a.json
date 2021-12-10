@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jV8ukyTeTliwvHm8mrV0lg==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X313_Y229_W50_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/b/Lighting/N-5yc1vZbvn5"
+            },
+            "backend_node_id": 20639,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "313_229_50_17_Lighting",
+            "tagName": "a",
+            "text": "Lighting",
+            "width": 50.0,
+            "x": 313.0,
+            "y": 229.0
+        },
+        "location": {
+            "x": 313.0,
+            "y": 229.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 50.0
+        },
+        "tag_name": "a",
+        "text": "Lighting"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Lighting",
+    "transformed": true,
+    "width": 50,
+    "x": 313,
+    "y": 229
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "n0H/CT3Wha2HceUa0KtGjA==\n",
+    "height": 30,
+    "hier_level": 0,
+    "human_hash": "span_X1012_Y729_W67_H30",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Favorite-wrapper-icon Favorite-wrapper--circle Favorite-wrapper--circle-count"
+            },
+            "backend_node_id": 29023,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 30.0,
+            "key": "1012_729_67_30_2013",
+            "tagName": "span",
+            "text": "2013",
+            "width": 67.0,
+            "x": 1012.0,
+            "y": 729.0
+        },
+        "location": {
+            "x": 1012.0,
+            "y": 729.0
+        },
+        "size": {
+            "height": 30.0,
+            "width": 67.0
+        },
+        "tag_name": "span",
+        "text": "2013"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "2013",
+    "transformed": true,
+    "width": 67,
+    "x": 1012,
+    "y": 729
+}
