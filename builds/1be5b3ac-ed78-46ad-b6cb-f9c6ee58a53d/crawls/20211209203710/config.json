@@ -1,0 +1,17 @@
+{
+    "app_id": "7e7ec128-9293-4afc-8bb7-8e104eda9d32",
+    "custom_name": "",
+    "effective_num_tests": 0,
+    "eyes_api_key": null,
+    "is_interactive": true,
+    "is_noop": false,
+    "is_test": false,
+    "max_iterations": 1,
+    "max_steps": 150,
+    "num_iterations": 1,
+    "package": null,
+    "platform": "DESKTOP_CHROME",
+    "rand_seed": 1639098182,
+    "real_app_id": "7e7ec128-9293-4afc-8bb7-8e104eda9d32",
+    "test_wildcard": "*"
+}

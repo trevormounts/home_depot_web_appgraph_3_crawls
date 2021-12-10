@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Ond05G15IN/cEZq1scLyuw==\n",
+    "height": 465,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y286_W864_H465",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-info--wGH8W article-info__image-container--wGH8W",
+                "data-lg-name": "article-info",
+                "data-testid": "article-info-component"
+            },
+            "backend_node_id": 18882,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 465.0,
+            "key": "250_286_864_465_Dumbbells and other weights allow you to tone muscles while elliptical machines and treadmills offer a cardiovascular workout. Other equipment, such as abdominal machines and stretching machines, allow for a more specific focus. This guide helps you understand the different types of exercise equipment available for your home gym so you can be confident your choices will help you achieve your fitness goals.\u00a0  Safety:  Always test equipment before purchasing, if possible. You want to make sure that it operates smoothly and, in the case of treadmills and ellipticals, has a solid, secure base.  SHOP ALL EXERCISE & FITNESS EQUIPMENT",
+            "tagName": "div",
+            "text": "Dumbbells and other weights allow you to tone muscles while elliptical machines and treadmills offer a cardiovascular workout. Other equipment, such as abdominal machines and stretching machines, allow for a more specific focus. This guide helps you understand the different types of exercise equipment available for your home gym so you can be confident your choices will help you achieve your fitness goals.\u00a0  Safety:  Always test equipment before purchasing, if possible. You want to make sure that it operates smoothly and, in the case of treadmills and ellipticals, has a solid, secure base.  SHOP ALL EXERCISE & FITNESS EQUIPMENT",
+            "width": 864.0,
+            "x": 250.0,
+            "y": 286.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 286.0
+        },
+        "size": {
+            "height": 465.0,
+            "width": 864.0
+        },
+        "tag_name": "div",
+        "text": "Dumbbells and other weights allow you to tone muscles while elliptical machines and treadmills offer a cardiovascular workout. Other equipment, such as abdominal machines and stretching machines, allow for a more specific focus. This guide helps you understand the different types of exercise equipment available for your home gym so you can be confident your choices will help you achieve your fitness goals.\u00a0  Safety:  Always test equipment before purchasing, if possible. You want to make sure that it operates smoothly and, in the case of treadmills and ellipticals, has a solid, secure base.  SHOP ALL EXERCISE & FITNESS EQUIPMENT"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Dumbbells and other weights allow you to tone muscles while elliptical machines and treadmills offer a cardiovascular workout. Other equipment, such as abdominal machines and stretching machines, allow for a more specific focus. This guide helps you understand the different types of exercise equipment available for your home gym so you can be confident your choices will help you achieve your fitness goals.\u00a0  Safety:  Always test equipment before purchasing, if possible. You want to make sure that it operates smoothly and, in the case of treadmills and ellipticals, has a solid, secure base.  SHOP ALL EXERCISE & FITNESS EQUIPMENT",
+    "transformed": true,
+    "width": 864,
+    "x": 250,
+    "y": 286
+}

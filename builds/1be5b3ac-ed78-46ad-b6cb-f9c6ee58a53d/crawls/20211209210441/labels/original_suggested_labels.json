@@ -1,0 +1,52 @@
+{
+    "elems": {
+        "iter_00000_step_00014_167_a.png": {
+            "lnk_lighting": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.87
+                },
+                "score": 0.87,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        },
+        "iter_00000_step_00014_176_a.png": {
+            "lnk_outdoor_lighting": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.94
+                },
+                "score": 0.94,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        },
+        "iter_00000_step_00014_178_a.png": {
+            "lnk_outdoor_ceiling_lights": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.95
+                },
+                "score": 0.95,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        },
+        "iter_00000_step_00014_67_a.png": {
+            "ddm_all_departments": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0,
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        },
+        "iter_00000_step_00014_73_a.png": {
+            "ddm_diy_projects_ideas": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0,
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    },
+    "screens": {}
+}

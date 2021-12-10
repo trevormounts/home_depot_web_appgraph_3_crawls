@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "gGRpVCl4rRk6TfUzVxG+sA==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "img_X265_Y494_W115_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Outdoor Flush Mount Lights",
+                "class": "vis-nav__image stretchy",
+                "height": "1",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/catalog/productImages/300/41/41a3a5c8-94d8-4fcf-9e02-00d7cc000982_300.jpg",
+                "title": "Outdoor Flush Mount Lights",
+                "width": "1"
+            },
+            "backend_node_id": 24356,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "265_494_115_115_",
+            "tagName": "img",
+            "text": "",
+            "width": 115.0,
+            "x": 265.0,
+            "y": 494.0
+        },
+        "location": {
+            "x": 265.0,
+            "y": 494.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 115.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 115,
+    "x": 265,
+    "y": 494
+}

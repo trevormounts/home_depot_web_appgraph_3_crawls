@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "XWO3sNriL1DWky401Ol0YQ==\n",
+    "height": 36,
+    "hier_level": 0,
+    "human_hash": "label_X611_Y76_W668_H36",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "SearchBox__cover",
+                "for": "headerSearch",
+                "title": "Search"
+            },
+            "backend_node_id": 19831,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 36.0,
+            "key": "611_76_668_36_",
+            "tagName": "label",
+            "text": "",
+            "width": 668.0,
+            "x": 611.0,
+            "y": 76.0
+        },
+        "location": {
+            "x": 611.0,
+            "y": 76.0
+        },
+        "size": {
+            "height": 36.0,
+            "width": 668.0
+        },
+        "tag_name": "label",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "",
+    "transformed": true,
+    "width": 668,
+    "x": 611,
+    "y": 76
+}

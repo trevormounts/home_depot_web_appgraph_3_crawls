@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "KeXPbMbsHxOVqytJ9ybZkg==\n",
+    "height": 9,
+    "hier_level": 0,
+    "human_hash": "img_X453_Y721_W15_H9",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "caret-icon",
+                "class": "caret-icon--i3en1",
+                "height": "15",
+                "src": "https://assets.thdstatic.com/images/v1/caret-grey.svg",
+                "width": "9"
+            },
+            "backend_node_id": 12232,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 9.0,
+            "key": "453_721_15_9_",
+            "tagName": "img",
+            "text": "",
+            "width": 15.0,
+            "x": 453.0,
+            "y": 721.0
+        },
+        "location": {
+            "x": 453.0,
+            "y": 721.0
+        },
+        "size": {
+            "height": 9.0,
+            "width": 15.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 15,
+    "x": 453,
+    "y": 721
+}

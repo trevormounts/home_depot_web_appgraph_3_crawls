@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "PlK8LTMs57eoNQNJbGlM7Q==\n",
+    "height": 13,
+    "hier_level": 0,
+    "human_hash": "a_X1377_Y42_W50_H13",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "TaskLinks__link",
+                "href": "//www.homedepot.com/c/Gift_Cards"
+            },
+            "backend_node_id": 403,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 13.0,
+            "key": "1377_42_50_13_Gift Cards",
+            "tagName": "a",
+            "text": "Gift Cards",
+            "width": 50.0,
+            "x": 1377.0,
+            "y": 42.0
+        },
+        "location": {
+            "x": 1377.0,
+            "y": 42.0
+        },
+        "size": {
+            "height": 13.0,
+            "width": 50.0
+        },
+        "tag_name": "a",
+        "text": "Gift Cards"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Gift Cards",
+    "transformed": true,
+    "width": 50,
+    "x": 1377,
+    "y": 42
+}

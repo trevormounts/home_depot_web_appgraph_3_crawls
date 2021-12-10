@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "BHP7Xcz1deSZd+QR+zcitw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X1122_Y414_W112_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__default-link",
+                "href": "#product-overview"
+            },
+            "backend_node_id": 21213,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1122_414_112_17_View More Details",
+            "tagName": "a",
+            "text": "View More Details",
+            "width": 112.0,
+            "x": 1122.0,
+            "y": 414.0
+        },
+        "location": {
+            "x": 1122.0,
+            "y": 414.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 112.0
+        },
+        "tag_name": "a",
+        "text": "View More Details"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "View More Details",
+    "transformed": true,
+    "width": 112,
+    "x": 1122,
+    "y": 414
+}

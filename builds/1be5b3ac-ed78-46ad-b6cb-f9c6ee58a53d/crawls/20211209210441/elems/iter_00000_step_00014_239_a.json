@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "mfDiWGAhEHJY+ujxu6W36g==\n",
+    "height": 34,
+    "hier_level": 0,
+    "human_hash": "a_X312_Y781_W146_H34",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "refinement__link",
+                "href": "/b/Lighting-Outdoor-Lighting-Outdoor-Ceiling-Lights/Pick-Up-Today/N-5yc1vZc7r5Z1z175a5"
+            },
+            "backend_node_id": 26303,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 34.0,
+            "key": "312_781_146_34_In Stock at Store Today (10)",
+            "tagName": "a",
+            "text": "In Stock at Store Today (10)",
+            "width": 146.0,
+            "x": 312.0,
+            "y": 781.0
+        },
+        "location": {
+            "x": 312.0,
+            "y": 781.0
+        },
+        "size": {
+            "height": 34.0,
+            "width": 146.0
+        },
+        "tag_name": "a",
+        "text": "In Stock at Store Today (10)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "In Stock at Store Today (10)",
+    "transformed": true,
+    "width": 146,
+    "x": 312,
+    "y": 781
+}

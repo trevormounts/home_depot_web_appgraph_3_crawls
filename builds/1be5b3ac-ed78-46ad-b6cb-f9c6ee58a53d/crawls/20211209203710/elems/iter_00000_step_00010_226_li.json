@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "SilAhpW3Yj6KCnLmNOMdEw==\n",
+    "height": 26,
+    "hier_level": 0,
+    "human_hash": "li_X1122_Y358_W548_H26",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "list__item"
+            },
+            "backend_node_id": 21205,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 26.0,
+            "key": "1122_358_548_26_Lightweight Ergonomic Glue Gun Tool with No Hassle Of a Cord",
+            "tagName": "li",
+            "text": "Lightweight Ergonomic Glue Gun Tool with No Hassle Of a Cord",
+            "width": 548.0,
+            "x": 1122.0,
+            "y": 358.0
+        },
+        "location": {
+            "x": 1122.0,
+            "y": 358.0
+        },
+        "size": {
+            "height": 26.0,
+            "width": 548.0
+        },
+        "tag_name": "li",
+        "text": "Lightweight Ergonomic Glue Gun Tool with No Hassle Of a Cord"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Lightweight Ergonomic Glue Gun Tool with No Hassle Of a Cord",
+    "transformed": true,
+    "width": 548,
+    "x": 1122,
+    "y": 358
+}

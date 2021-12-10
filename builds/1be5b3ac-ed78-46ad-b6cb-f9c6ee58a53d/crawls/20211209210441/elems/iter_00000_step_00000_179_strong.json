@@ -1,0 +1,56 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "strong",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "JIwCdXiAHhFZafps1dkQuw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "strong_X455_Y888_W73_H17",
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 2053,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "455_888_73_17_Today Only.",
+            "tagName": "strong",
+            "text": "Today Only.",
+            "width": 73.0,
+            "x": 455.0,
+            "y": 888.0
+        },
+        "location": {
+            "x": 455.0,
+            "y": 888.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 73.0
+        },
+        "tag_name": "strong",
+        "text": "Today Only."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "strong",
+    "text": "Today Only.",
+    "transformed": true,
+    "width": 73,
+    "x": 455,
+    "y": 888
+}

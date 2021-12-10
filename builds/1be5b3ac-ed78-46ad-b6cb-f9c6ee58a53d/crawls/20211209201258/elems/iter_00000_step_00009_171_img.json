@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+pTRhz88buJLfk1rtxdZrQ==\n",
+    "height": 425,
+    "hier_level": 0,
+    "human_hash": "img_X270_Y306_W425_H425",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Exercise Equipment - Exercise Equipment",
+                "class": "",
+                "height": "425",
+                "loading": "lazy",
+                "src": "https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/how-to-buy-exercise-equipment-hero.jpg",
+                "title": "Exercise Equipment - Exercise Equipment",
+                "width": "425"
+            },
+            "backend_node_id": 17154,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 425.0,
+            "key": "270_306_425_425_",
+            "tagName": "img",
+            "text": "",
+            "width": 425.0,
+            "x": 270.0,
+            "y": 306.0
+        },
+        "location": {
+            "x": 270.0,
+            "y": 306.0
+        },
+        "size": {
+            "height": 425.0,
+            "width": 425.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 425,
+    "x": 270,
+    "y": 306
+}

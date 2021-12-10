@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "CGGmh/RXpBlhudZsJb3bbQ==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "li_X739_Y801_W94_H23",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchAnchorLinks__list__item"
+            },
+            "backend_node_id": 17127,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "739_801_94_23_Indoor Lighting",
+            "tagName": "li",
+            "text": "Indoor Lighting",
+            "width": 94.0,
+            "x": 739.0,
+            "y": 801.0
+        },
+        "location": {
+            "x": 739.0,
+            "y": 801.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 94.0
+        },
+        "tag_name": "li",
+        "text": "Indoor Lighting"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Indoor Lighting",
+    "transformed": true,
+    "width": 94,
+    "x": 739,
+    "y": 801
+}

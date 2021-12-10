@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "aYws+EHRZDVoOJVaiVoYSw==\n",
+    "height": 146,
+    "hier_level": 0,
+    "human_hash": "a_X908_Y699_W351_H146",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__header__quick-guide-links-container__quick-guide-card-link",
+                "href": "/c/ah/build-a-chicken-coop/9ba683603be9fa5395fab90b2ff73fc"
+            },
+            "backend_node_id": 13680,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 146.0,
+            "key": "908_699_351_146_Project Guide How to Build a Chicken Coop  Difficulty Advanced Time Over 1 day",
+            "tagName": "a",
+            "text": "Project Guide How to Build a Chicken Coop  Difficulty Advanced Time Over 1 day",
+            "width": 351.0,
+            "x": 908.0,
+            "y": 699.0
+        },
+        "location": {
+            "x": 908.0,
+            "y": 699.0
+        },
+        "size": {
+            "height": 146.0,
+            "width": 351.0
+        },
+        "tag_name": "a",
+        "text": "Project Guide How to Build a Chicken Coop  Difficulty Advanced Time Over 1 day"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Project Guide How to Build a Chicken Coop  Difficulty Advanced Time Over 1 day",
+    "transformed": true,
+    "width": 351,
+    "x": 908,
+    "y": 699
+}

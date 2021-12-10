@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "fC+ewOi/8LED8VdPLIbuEg==\n",
+    "height": 19,
+    "hier_level": 0,
+    "human_hash": "div_X1102_Y666_W457_H19",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 21286,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 19.0,
+            "key": "1102_666_457_19_Check Nearby Stores",
+            "tagName": "div",
+            "text": "Check Nearby Stores",
+            "width": 457.0,
+            "x": 1102.0,
+            "y": 666.0
+        },
+        "location": {
+            "x": 1102.0,
+            "y": 666.0
+        },
+        "size": {
+            "height": 19.0,
+            "width": 457.0
+        },
+        "tag_name": "div",
+        "text": "Check Nearby Stores"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Check Nearby Stores",
+    "transformed": true,
+    "width": 457,
+    "x": 1102,
+    "y": 666
+}

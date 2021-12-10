@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "NgHs8C04Cippy30odLeB+w==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "button_X1334_Y783_W96_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__default-link product-add-on-tooltip-content__label",
+                "type": "button"
+            },
+            "backend_node_id": 21305,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1334_783_96_17_Learn more",
+            "tagName": "button",
+            "text": "Learn more",
+            "width": 96.0,
+            "x": 1334.0,
+            "y": 783.0
+        },
+        "location": {
+            "x": 1334.0,
+            "y": 783.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 96.0
+        },
+        "tag_name": "button",
+        "text": "Learn more"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Learn more",
+    "transformed": true,
+    "width": 96,
+    "x": 1334,
+    "y": 783
+}

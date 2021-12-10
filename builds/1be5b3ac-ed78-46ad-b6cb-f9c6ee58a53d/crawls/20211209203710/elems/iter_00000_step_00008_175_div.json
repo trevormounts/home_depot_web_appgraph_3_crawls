@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "CD+viqHUFlBB20eOO+MeZg==\n",
+    "height": 55,
+    "hier_level": 0,
+    "human_hash": "div_X270_Y864_W824_H55",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-info__details__timeDifficulty--wGH8W"
+            },
+            "backend_node_id": 17742,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 55.0,
+            "key": "270_864_824_55_Difficulty Beginner Duration 2-4 hours",
+            "tagName": "div",
+            "text": "Difficulty Beginner Duration 2-4 hours",
+            "width": 824.0,
+            "x": 270.0,
+            "y": 864.0
+        },
+        "location": {
+            "x": 270.0,
+            "y": 864.0
+        },
+        "size": {
+            "height": 55.0,
+            "width": 824.0
+        },
+        "tag_name": "div",
+        "text": "Difficulty Beginner Duration 2-4 hours"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Difficulty Beginner Duration 2-4 hours",
+    "transformed": true,
+    "width": 824,
+    "x": 270,
+    "y": 864
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "yTQKOneIZLkyVQ0lIe6aKA==\n",
+    "height": 229,
+    "hier_level": 0,
+    "human_hash": "div_X898_Y667_W371_H229",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__article-listing__items__item__content"
+            },
+            "backend_node_id": 10208,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 229.0,
+            "key": "898_667_371_229_Project Guide How to Build a TV Stand  Difficulty Intermediate Time 2-4 hours  Looking for a place to store all of the clutter underneath your TV? This guide will teach you how to build a DIY television stand that can hold all of your electronics and media while adding to your home's decor.",
+            "tagName": "div",
+            "text": "Project Guide How to Build a TV Stand  Difficulty Intermediate Time 2-4 hours  Looking for a place to store all of the clutter underneath your TV? This guide will teach you how to build a DIY television stand that can hold all of your electronics and media while adding to your home's decor.",
+            "width": 371.0,
+            "x": 898.0,
+            "y": 667.0
+        },
+        "location": {
+            "x": 898.0,
+            "y": 667.0
+        },
+        "size": {
+            "height": 229.0,
+            "width": 371.0
+        },
+        "tag_name": "div",
+        "text": "Project Guide How to Build a TV Stand  Difficulty Intermediate Time 2-4 hours  Looking for a place to store all of the clutter underneath your TV? This guide will teach you how to build a DIY television stand that can hold all of your electronics and media while adding to your home's decor."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Project Guide How to Build a TV Stand  Difficulty Intermediate Time 2-4 hours  Looking for a place to store all of the clutter underneath your TV? This guide will teach you how to build a DIY television stand that can hold all of your electronics and media while adding to your home's decor.",
+    "transformed": true,
+    "width": 371,
+    "x": 898,
+    "y": 667
+}

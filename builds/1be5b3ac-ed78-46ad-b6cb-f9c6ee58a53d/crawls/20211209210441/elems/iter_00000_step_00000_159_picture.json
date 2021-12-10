@@ -1,0 +1,56 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "picture",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "8hhEAazr4T2DdDW8Hm1/nw==\n",
+    "height": 400,
+    "hier_level": 0,
+    "human_hash": "picture_X260_Y211_W1440_H400",
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 1830,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 400.0,
+            "key": "260_211_1440_400_",
+            "tagName": "picture",
+            "text": "",
+            "width": 1440.0,
+            "x": 260.0,
+            "y": 211.0
+        },
+        "location": {
+            "x": 260.0,
+            "y": 211.0
+        },
+        "size": {
+            "height": 400.0,
+            "width": 1440.0
+        },
+        "tag_name": "picture",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "picture",
+    "text": "",
+    "transformed": true,
+    "width": 1440,
+    "x": 260,
+    "y": 211
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "NToAos6aAnVVLpo7iUKgQA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X730_Y870_W185_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/b/Kitchen-Countertops-Countertop-Support-Brackets/N-5yc1vZ2fkooad"
+            },
+            "backend_node_id": 7910,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "730_870_185_17_Countertop Support Brackets",
+            "tagName": "a",
+            "text": "Countertop Support Brackets",
+            "width": 185.0,
+            "x": 730.0,
+            "y": 870.0
+        },
+        "location": {
+            "x": 730.0,
+            "y": 870.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 185.0
+        },
+        "tag_name": "a",
+        "text": "Countertop Support Brackets"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Countertop Support Brackets",
+    "transformed": true,
+    "width": 185,
+    "x": 730,
+    "y": 870
+}

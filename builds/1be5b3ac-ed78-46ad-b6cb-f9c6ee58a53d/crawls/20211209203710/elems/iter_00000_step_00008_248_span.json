@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "u17uKIDTWOBnTMkKmbEcSg==\n",
+    "height": 34,
+    "hier_level": 0,
+    "human_hash": "span_X1264_Y833_W271_H34",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-pod__title__product"
+            },
+            "backend_node_id": 18170,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 34.0,
+            "key": "1264_833_271_34_Americana 2 oz. Cotton Ball Satin Multi-Surface Acrylic Paint",
+            "tagName": "span",
+            "text": "Americana 2 oz. Cotton Ball Satin Multi-Surface Acrylic Paint",
+            "width": 271.0,
+            "x": 1264.0,
+            "y": 833.0
+        },
+        "location": {
+            "x": 1264.0,
+            "y": 833.0
+        },
+        "size": {
+            "height": 34.0,
+            "width": 271.0
+        },
+        "tag_name": "span",
+        "text": "Americana 2 oz. Cotton Ball Satin Multi-Surface Acrylic Paint"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Americana 2 oz. Cotton Ball Satin Multi-Surface Acrylic Paint",
+    "transformed": true,
+    "width": 271,
+    "x": 1264,
+    "y": 833
+}

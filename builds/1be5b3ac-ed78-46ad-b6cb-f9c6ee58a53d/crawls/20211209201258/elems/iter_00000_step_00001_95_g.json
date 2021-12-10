@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "g",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "caiuXOGDmUmC3oth7iE12A==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "g_X298_Y156_W28_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "fill": "none",
+                "fill-rule": "evenodd",
+                "transform": "translate(1 1)"
+            },
+            "backend_node_id": 1306,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "298_156_28_28_",
+            "tagName": "g",
+            "text": "",
+            "width": 28.0,
+            "x": 298.0,
+            "y": 156.0
+        },
+        "location": {
+            "x": 298.0,
+            "y": 156.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 28.0
+        },
+        "tag_name": "g",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "g",
+    "text": "",
+    "transformed": true,
+    "width": 28,
+    "x": 298,
+    "y": 156
+}

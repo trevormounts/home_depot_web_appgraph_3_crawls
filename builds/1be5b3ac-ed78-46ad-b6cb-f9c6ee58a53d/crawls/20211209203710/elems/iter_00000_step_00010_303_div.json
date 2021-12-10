@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "MUt+UJlqQYXrTiQi87KN5A==\n",
+    "height": 230,
+    "hier_level": 0,
+    "human_hash": "div_X373_Y89_W330_H230",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ToolTip ToolTip--bottom",
+                "id": "tooltip-09998c4e-3b4d-82a8-e041-2dbd453b7814",
+                "style": "inset: 89px auto auto 373px;"
+            },
+            "backend_node_id": 19203,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 230.0,
+            "key": "373_89_330_230_Enter delivery ZIP Code   Update   Your ZIP Code helps us to provide  the most up-to-date  product and delivery information.",
+            "tagName": "div",
+            "text": "Enter delivery ZIP Code   Update   Your ZIP Code helps us to provide  the most up-to-date  product and delivery information.",
+            "width": 330.0,
+            "x": 373.0,
+            "y": 89.0
+        },
+        "location": {
+            "x": 373.0,
+            "y": 89.0
+        },
+        "size": {
+            "height": 230.0,
+            "width": 330.0
+        },
+        "tag_name": "div",
+        "text": "Enter delivery ZIP Code   Update   Your ZIP Code helps us to provide  the most up-to-date  product and delivery information."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Enter delivery ZIP Code   Update   Your ZIP Code helps us to provide  the most up-to-date  product and delivery information.",
+    "transformed": true,
+    "width": 330,
+    "x": 373,
+    "y": 89
+}

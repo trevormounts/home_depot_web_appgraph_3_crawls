@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "lRtaQPzOg4BBWVMxQ47gww==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "a_X876_Y185_W157_H22",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "homeDecorFurnitureFlyout__link",
+                "href": "//www.homedepot.com/b/Kitchen-Kitchenware/N-5yc1vZaqzo",
+                "id": "kitchenware-and-tableware"
+            },
+            "backend_node_id": 20597,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "876_185_157_22_Kitchenware & Tableware",
+            "tagName": "a",
+            "text": "Kitchenware & Tableware",
+            "width": 157.0,
+            "x": 876.0,
+            "y": 185.0
+        },
+        "location": {
+            "x": 876.0,
+            "y": 185.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 157.0
+        },
+        "tag_name": "a",
+        "text": "Kitchenware & Tableware"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Kitchenware & Tableware",
+    "transformed": true,
+    "width": 157,
+    "x": 876,
+    "y": 185
+}

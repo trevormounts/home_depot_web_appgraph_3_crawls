@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "mWv0jZfOv6KyLCWKtxSI9g==\n",
+    "height": 44,
+    "hier_level": 0,
+    "human_hash": "div_X1320_Y72_W360_H44",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Header3__collapser col__2-12 col__4-12--sm col__3-12--md col__3-12--lg"
+            },
+            "backend_node_id": 15994,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 44.0,
+            "key": "1320_72_360_44_My Account  Lists   Cart 0 items",
+            "tagName": "div",
+            "text": "My Account  Lists   Cart 0 items",
+            "width": 360.0,
+            "x": 1320.0,
+            "y": 72.0
+        },
+        "location": {
+            "x": 1320.0,
+            "y": 72.0
+        },
+        "size": {
+            "height": 44.0,
+            "width": 360.0
+        },
+        "tag_name": "div",
+        "text": "My Account  Lists   Cart 0 items"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "My Account  Lists   Cart 0 items",
+    "transformed": true,
+    "width": 360,
+    "x": 1320,
+    "y": 72
+}

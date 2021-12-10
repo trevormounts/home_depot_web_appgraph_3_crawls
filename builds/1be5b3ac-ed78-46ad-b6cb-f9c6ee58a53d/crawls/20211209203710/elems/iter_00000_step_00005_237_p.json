@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "RXGMYv0RWpTIbdBywOGXjA==\n",
+    "height": 21,
+    "hier_level": 0,
+    "human_hash": "p_X517_Y907_W351_H21",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 10198,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 21.0,
+            "key": "517_907_351_21_This project guide explains how to build utility shelves in your garage, including how to anchor them into the studs behind the wall and into the floor for extra support.",
+            "tagName": "p",
+            "text": "This project guide explains how to build utility shelves in your garage, including how to anchor them into the studs behind the wall and into the floor for extra support.",
+            "width": 351.0,
+            "x": 517.0,
+            "y": 907.0
+        },
+        "location": {
+            "x": 517.0,
+            "y": 907.0
+        },
+        "size": {
+            "height": 21.0,
+            "width": 351.0
+        },
+        "tag_name": "p",
+        "text": "This project guide explains how to build utility shelves in your garage, including how to anchor them into the studs behind the wall and into the floor for extra support."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "This project guide explains how to build utility shelves in your garage, including how to anchor them into the studs behind the wall and into the floor for extra support.",
+    "transformed": true,
+    "width": 351,
+    "x": 517,
+    "y": 907
+}

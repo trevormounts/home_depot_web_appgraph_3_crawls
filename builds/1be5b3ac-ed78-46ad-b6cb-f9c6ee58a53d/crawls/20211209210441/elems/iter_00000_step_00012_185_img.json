@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "XugmWRsfx/cuTYTS6PJ4ng==\n",
+    "height": 345,
+    "hier_level": 0,
+    "human_hash": "img_X250_Y484_W1420_H345",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "light up your outdoors. special buy savings on outdoor lighting. shop now.",
+                "class": "img--block stretchy stretchy",
+                "height": "700",
+                "loading": "lazy",
+                "src": "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/PostLDHeroes-OutdoorLighting-2609617-dsk.jpg",
+                "title": "",
+                "width": "2880"
+            },
+            "backend_node_id": 18829,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 345.0,
+            "key": "250_484_1420_345_",
+            "tagName": "img",
+            "text": "",
+            "width": 1420.0,
+            "x": 250.0,
+            "y": 484.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 484.0
+        },
+        "size": {
+            "height": 345.0,
+            "width": 1420.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 1420,
+    "x": 250,
+    "y": 484
+}

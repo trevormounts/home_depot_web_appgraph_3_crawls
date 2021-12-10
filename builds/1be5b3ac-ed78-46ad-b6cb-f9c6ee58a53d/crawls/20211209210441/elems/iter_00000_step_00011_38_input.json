@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "input",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "s9sMHrpbpExb96Ohek3N7A==\n",
+    "height": 36,
+    "hier_level": 0,
+    "human_hash": "input_X611_Y44_W668_H36",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "autocomplete": "off",
+                "class": "SearchBox__input",
+                "id": "headerSearch",
+                "required": "",
+                "type": "text"
+            },
+            "backend_node_id": 15966,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 36.0,
+            "key": "611_44_668_36_",
+            "tagName": "input",
+            "text": "",
+            "width": 668.0,
+            "x": 611.0,
+            "y": 44.0
+        },
+        "location": {
+            "x": 611.0,
+            "y": 44.0
+        },
+        "size": {
+            "height": 36.0,
+            "width": 668.0
+        },
+        "tag_name": "input",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "input",
+    "text": "",
+    "transformed": true,
+    "width": 668,
+    "x": 611,
+    "y": 44
+}

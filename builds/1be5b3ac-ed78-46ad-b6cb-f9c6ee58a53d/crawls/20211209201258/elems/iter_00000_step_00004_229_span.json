@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "U4g9L+TBz11ISACRwuHQVw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X908_Y699_W114_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__bold article-tile__article-list-page__article-listing__items__item__content__type"
+            },
+            "backend_node_id": 12293,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "908_699_114_17_Inspiration Guide",
+            "tagName": "span",
+            "text": "Inspiration Guide",
+            "width": 114.0,
+            "x": 908.0,
+            "y": 699.0
+        },
+        "location": {
+            "x": 908.0,
+            "y": 699.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 114.0
+        },
+        "tag_name": "span",
+        "text": "Inspiration Guide"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Inspiration Guide",
+    "transformed": true,
+    "width": 114,
+    "x": 908,
+    "y": 699
+}

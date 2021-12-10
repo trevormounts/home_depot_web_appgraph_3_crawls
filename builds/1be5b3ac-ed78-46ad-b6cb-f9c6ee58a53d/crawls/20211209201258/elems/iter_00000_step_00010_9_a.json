@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "umoCkp6c79Qabj9tgvOnDw==\n",
+    "height": 13,
+    "hier_level": 0,
+    "human_hash": "a_X1300_Y42_W55_H13",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "TaskLinks__link",
+                "href": "//www.homedepot.com/c/professional_contractor",
+                "id": "taskLinkPro"
+            },
+            "backend_node_id": 20542,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 13.0,
+            "key": "1300_42_55_13_For the Pro",
+            "tagName": "a",
+            "text": "For the Pro",
+            "width": 55.0,
+            "x": 1300.0,
+            "y": 42.0
+        },
+        "location": {
+            "x": 1300.0,
+            "y": 42.0
+        },
+        "size": {
+            "height": 13.0,
+            "width": 55.0
+        },
+        "tag_name": "a",
+        "text": "For the Pro"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "For the Pro",
+    "transformed": true,
+    "width": 55,
+    "x": 1300,
+    "y": 42
+}

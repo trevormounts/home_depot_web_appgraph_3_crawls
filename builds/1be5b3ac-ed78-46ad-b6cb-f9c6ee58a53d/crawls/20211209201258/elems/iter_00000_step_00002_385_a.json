@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "RIM3Gl4/ZTGtTIVB3zktbw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X970_Y343_W130_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/b/Playground-Equipment-Dog-Park-Equipment/N-5yc1vZc5pj"
+            },
+            "backend_node_id": 8442,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "970_343_130_17_Dog Park Equipment",
+            "tagName": "a",
+            "text": "Dog Park Equipment",
+            "width": 130.0,
+            "x": 970.0,
+            "y": 343.0
+        },
+        "location": {
+            "x": 970.0,
+            "y": 343.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 130.0
+        },
+        "tag_name": "a",
+        "text": "Dog Park Equipment"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Dog Park Equipment",
+    "transformed": true,
+    "width": 130,
+    "x": 970,
+    "y": 343
+}

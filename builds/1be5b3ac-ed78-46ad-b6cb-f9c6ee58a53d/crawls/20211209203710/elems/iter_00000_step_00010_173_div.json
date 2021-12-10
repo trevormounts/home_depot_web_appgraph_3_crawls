@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZLQ+foHR5YOnJZ2xYo2BDA==\n",
+    "height": 96,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y224_W812_H96",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-details"
+            },
+            "backend_node_id": 21073,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 96.0,
+            "key": "250_224_812_96_RYOBI ONE+ 18V Cordless Compact Glue Gun (Tool Only)   ( 511 )  Questions & Answers  (18)",
+            "tagName": "div",
+            "text": "RYOBI ONE+ 18V Cordless Compact Glue Gun (Tool Only)   ( 511 )  Questions & Answers  (18)",
+            "width": 812.0,
+            "x": 250.0,
+            "y": 224.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 224.0
+        },
+        "size": {
+            "height": 96.0,
+            "width": 812.0
+        },
+        "tag_name": "div",
+        "text": "RYOBI ONE+ 18V Cordless Compact Glue Gun (Tool Only)   ( 511 )  Questions & Answers  (18)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "RYOBI ONE+ 18V Cordless Compact Glue Gun (Tool Only)   ( 511 )  Questions & Answers  (18)",
+    "transformed": true,
+    "width": 812,
+    "x": 250,
+    "y": 224
+}

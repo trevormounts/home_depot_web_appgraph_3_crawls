@@ -1,0 +1,524 @@
+[
+    {
+        "hash": "85797a45c15d6de7912cfd73a9671c13"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "9Uqfq3kRnBwyxa+jgZJNzw==\n",
+                "height": 47,
+                "hier_level": 0,
+                "human_hash": "a_X418_Y124_W235_H47",
+                "human_readable": "a_418_124_235_47_a_ffffffffffffffffffffffff49cf000000000000ffffffffffffffffffffffff_ac2180d2195682023659a583adb260fb",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "ShoppingLinks__link",
+                            "data-id": "homeDecorFurniture",
+                            "href": "//www.homedepot.com/b/Home-Decor/N-5yc1vZas6p?cm_sp=d-flyout-Decor_and_Furniture"
+                        },
+                        "backend_node_id": 988,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 47.0,
+                        "key": "418_124_235_47_Home Decor, Furniture & Kitchenware",
+                        "tagName": "a",
+                        "text": "Home Decor, Furniture & Kitchenware",
+                        "width": 235.0,
+                        "x": 418.0,
+                        "y": 124.0
+                    },
+                    "location": {
+                        "x": 418.0,
+                        "y": 124.0
+                    },
+                    "size": {
+                        "height": 47.0,
+                        "width": 235.0
+                    },
+                    "tag_name": "a",
+                    "text": "Home Decor, Furniture & Kitchenware"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000dffffffff87fc03bc03fc00fc03fc00fc03fc03fffffffffffffdff7dff3",
+                "resource-id": "",
+                "screen_hash": "85797a45c15d6de7912cfd73a9671c13",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Home Decor, Furniture & Kitchenware",
+                "transformed": true,
+                "width": 235,
+                "x": 418,
+                "y": 124
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "NzcyODAzNDQ3MmM2NTIwZDg4MTg0MTY2MjE0NmFkMDA"
+    },
+    {
+        "hash": "14bbcbca9b233ae81e11bc413f1996d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "lUEbRBw45yYKzm8UVXT4PA==\n",
+                "height": 22,
+                "hier_level": 0,
+                "human_hash": "a_X1258_Y185_W50_H22",
+                "human_readable": "a_1258_185_50_22_a_ffffffffffffffffffff6ddf7dbf60046000690a61080000119cf3fcf3fcffff_856eba64831b8bbcd1132e784c5e8553",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "homeDecorFurnitureFlyout__link",
+                            "href": "//www.homedepot.com/b/Lighting/N-5yc1vZbvn5",
+                            "id": "lighting"
+                        },
+                        "backend_node_id": 5960,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 22.0,
+                        "key": "1258_185_50_22_Lighting",
+                        "tagName": "a",
+                        "text": "Lighting",
+                        "width": 50.0,
+                        "x": 1258.0,
+                        "y": 185.0
+                    },
+                    "location": {
+                        "x": 1258.0,
+                        "y": 185.0
+                    },
+                    "size": {
+                        "height": 22.0,
+                        "width": 50.0
+                    },
+                    "tag_name": "a",
+                    "text": "Lighting"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000ffffffffffffff8be003ff03ffaff3bbf193e0c7c187c087c187cfc7ffff",
+                "resource-id": "",
+                "screen_hash": "14bbcbca9b233ae81e11bc413f1996d2",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Lighting",
+                "transformed": true,
+                "width": 50,
+                "x": 1258,
+                "y": 185
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "OGY3OGI3NmZlMDIzOWE5MDg0ODU3ODdhZGZlZDM0YjE"
+    },
+    {
+        "hash": "6495dea0349bf33faf35a1d53f7020d8"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "t7IRQAUcC17MrvQiaK4GWA==\n",
+                "height": 17,
+                "hier_level": 0,
+                "human_hash": "a_X739_Y801_W94_H17",
+                "human_readable": "a_739_801_94_17_a_ffffffffffffffff7f777ff70080008001800180010001800200ffdeff9eff9e_324d3d1f7b5fe76d8ba55b25fd6a95a1",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "EtchAnchorLinks__list__item__link",
+                            "href": "#indoor"
+                        },
+                        "backend_node_id": 17128,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 17.0,
+                        "key": "739_801_94_17_Indoor Lighting",
+                        "tagName": "a",
+                        "text": "Indoor Lighting",
+                        "width": 94.0,
+                        "x": 739.0,
+                        "y": 801.0
+                    },
+                    "location": {
+                        "x": 739.0,
+                        "y": 801.0
+                    },
+                    "size": {
+                        "height": 17.0,
+                        "width": 94.0
+                    },
+                    "tag_name": "a",
+                    "text": "Indoor Lighting"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000dfffffffff83e383e283ff83f85ff803c803c803c803f803fc7fffffffff",
+                "resource-id": "",
+                "screen_hash": "6495dea0349bf33faf35a1d53f7020d8",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Indoor Lighting",
+                "transformed": true,
+                "width": 94,
+                "x": 739,
+                "y": 801
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "ZjUxOTUzZDU4ODE5NDExYTg0YzA3ODQ4ODhhMDcwZWI"
+    },
+    {
+        "hash": "80025eeb2342b9a2e634e8eba6cb4a90"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "t7IRQAUcC17MrvQiaK4GWA==\n",
+                "height": 17,
+                "hier_level": 0,
+                "human_hash": "a_X739_Y801_W94_H17",
+                "human_readable": "a_739_801_94_17_a_ffffffffffffffff7fffffff0380018001800180038003800200ffde0000ff9e_324d3d1f7b5fe76d8ba55b25fd6a95a1",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "EtchAnchorLinks__list__item__link",
+                            "href": "#indoor"
+                        },
+                        "backend_node_id": 17128,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 17.0,
+                        "key": "739_801_94_17_Indoor Lighting",
+                        "tagName": "a",
+                        "text": "Indoor Lighting",
+                        "width": 94.0,
+                        "x": 739.0,
+                        "y": 801.0
+                    },
+                    "location": {
+                        "x": 739.0,
+                        "y": 801.0
+                    },
+                    "size": {
+                        "height": 17.0,
+                        "width": 94.0
+                    },
+                    "tag_name": "a",
+                    "text": "Indoor Lighting"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000dfffffffff83e383e283ff83f85ff803c803c803c803f803fc7fffffffff",
+                "resource-id": "",
+                "screen_hash": "80025eeb2342b9a2e634e8eba6cb4a90",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Indoor Lighting",
+                "transformed": true,
+                "width": 94,
+                "x": 739,
+                "y": 801
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "NzQ0YjllZjM5MTg3Zjg5ZmFlNTkxNTE4NWE3ZGZkZDQ"
+    },
+    {
+        "hash": "80025eeb2342b9a2e634e8eba6cb4a90"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "u3HzRJ4MYFyb9ZOkEbNTpg==\n",
+                "height": 17,
+                "hier_level": 0,
+                "human_hash": "a_X965_Y801_W106_H17",
+                "human_readable": "a_965_801_106_17_a_ffffffffffffffff3ffb7fff0040808080808080008000800100ffdeffdeffde_0472c7b049e6a108a7cc5f08a6c15441",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "EtchAnchorLinks__list__item__link",
+                            "href": "#outdoor"
+                        },
+                        "backend_node_id": 17134,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 17.0,
+                        "key": "965_801_106_17_Outdoor Lighting",
+                        "tagName": "a",
+                        "text": "Outdoor Lighting",
+                        "width": 106.0,
+                        "x": 965.0,
+                        "y": 801.0
+                    },
+                    "location": {
+                        "x": 965.0,
+                        "y": 801.0
+                    },
+                    "size": {
+                        "height": 17.0,
+                        "width": 106.0
+                    },
+                    "tag_name": "a",
+                    "text": "Outdoor Lighting"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000dfffffffff83e383e283ff83f85ff803c803c803c803f803fc7fffffffff",
+                "resource-id": "",
+                "screen_hash": "80025eeb2342b9a2e634e8eba6cb4a90",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Outdoor Lighting",
+                "transformed": true,
+                "width": 106,
+                "x": 965,
+                "y": 801
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "YmVhNDFhYzQ4NmRhYjMzNGQyZDk2MDhmNjRmOTkxZjc"
+    },
+    {
+        "hash": "8a51330139078e3452020c20e6d6ec84"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "RwP3VUfkJlkJB6gFKH+YFQ==\n",
+                "height": 22,
+                "hier_level": 0,
+                "human_hash": "a_X500_Y738_W1160_H22",
+                "human_readable": "a_500_738_1160_22_a_ffffffffffff3fff1fff1fff1fff1fff1fff1fff1fff1fff1fff1fffdfffdfff_9b5b6e5ad176239d0592fa5c432f2494",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "etchVisualNavigationStory__card__title",
+                            "href": "/b/Lighting-Outdoor-Lighting/N-5yc1vZc7qv"
+                        },
+                        "backend_node_id": 17525,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 22.0,
+                        "key": "500_738_1160_22_Shop All Outdoor Lighting",
+                        "tagName": "a",
+                        "text": "Shop All Outdoor Lighting",
+                        "width": 1160.0,
+                        "x": 500.0,
+                        "y": 738.0
+                    },
+                    "location": {
+                        "x": 500.0,
+                        "y": 738.0
+                    },
+                    "size": {
+                        "height": 22.0,
+                        "width": 1160.0
+                    },
+                    "tag_name": "a",
+                    "text": "Shop All Outdoor Lighting"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffffffff01ff03ff0fffbfffffff003f003f003f003f003f003fffff3e3f9e3",
+                "resource-id": "",
+                "screen_hash": "8a51330139078e3452020c20e6d6ec84",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Shop All Outdoor Lighting",
+                "transformed": true,
+                "width": 1160,
+                "x": 500,
+                "y": 738
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "ZjZhMjJhNDgzOWI2NTY4YTc3NGZmYjVlNmRkZTRlY2E"
+    },
+    {
+        "hash": "b3c6244fcd8b8c7bd845100b02e50515"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "qVXJ8WG2sudJAhtVtHouTA==\n",
+                "height": 17,
+                "hier_level": 0,
+                "human_hash": "a_X260_Y912_W141_H17",
+                "human_readable": "a_260_912_141_17_a_ffffffffffffffff7c3f7dff0208020002100210021000000000fffbffdbffdb_c41fc288ec41e00688d13c9cf5b7892d",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "href": "/b/Lighting-Outdoor-Lighting-Outdoor-Ceiling-Lights/N-5yc1vZc7r5"
+                        },
+                        "backend_node_id": 20679,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 17.0,
+                        "key": "260_912_141_17_Outdoor Ceiling Lights",
+                        "tagName": "a",
+                        "text": "Outdoor Ceiling Lights",
+                        "width": 141.0,
+                        "x": 260.0,
+                        "y": 912.0
+                    },
+                    "location": {
+                        "x": 260.0,
+                        "y": 912.0
+                    },
+                    "size": {
+                        "height": 17.0,
+                        "width": 141.0
+                    },
+                    "tag_name": "a",
+                    "text": "Outdoor Ceiling Lights"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000ffffffffffffff83e283fe83fffff803e803e803f803d803f803ff3ff7ff",
+                "resource-id": "",
+                "screen_hash": "b3c6244fcd8b8c7bd845100b02e50515",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Outdoor Ceiling Lights",
+                "transformed": true,
+                "width": 141,
+                "x": 260,
+                "y": 912
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "YTQ2NTFlN2E1NDEwODY3Njk1NjdmODc1ZTQ5ODI5NmQ"
+    },
+    {
+        "hash": "407b8fa70bbb373a3e020ccb12edbb5b"
+    }
+]

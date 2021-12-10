@@ -1,0 +1,1 @@
+[{'level': 'WARNING', 'message': "https://www.homedepot.com/c/ah/how-to-make-fall-leaf-crafts-for-kids/9ba683603be9fa5395fab9013598578f 68 'webkitRequestAnimationFrame' is vendor-specific. Please use the standard 'requestAnimationFrame' instead.", 'timestamp': 1639100959449}]

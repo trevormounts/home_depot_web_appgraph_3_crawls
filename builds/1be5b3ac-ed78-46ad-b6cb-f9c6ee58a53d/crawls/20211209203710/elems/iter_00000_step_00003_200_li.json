@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "zoBaxmH1HHsbgAIZw06J3A==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "li_X1307_Y897_W333_H22",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "list__item "
+            },
+            "backend_node_id": 6073,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "1307_897_333_22_How to Decorate a Christmas Tree",
+            "tagName": "li",
+            "text": "How to Decorate a Christmas Tree",
+            "width": 333.0,
+            "x": 1307.0,
+            "y": 897.0
+        },
+        "location": {
+            "x": 1307.0,
+            "y": 897.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 333.0
+        },
+        "tag_name": "li",
+        "text": "How to Decorate a Christmas Tree"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "How to Decorate a Christmas Tree",
+    "transformed": true,
+    "width": 333,
+    "x": 1307,
+    "y": 897
+}

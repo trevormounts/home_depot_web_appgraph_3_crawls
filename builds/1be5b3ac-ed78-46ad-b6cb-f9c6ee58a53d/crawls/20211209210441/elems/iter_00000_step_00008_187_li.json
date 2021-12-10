@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "c7F2YBYrb4+p3KgzbVGBFw==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "li_X1090_Y801_W71_H23",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchAnchorLinks__list__item"
+            },
+            "backend_node_id": 17136,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "1090_801_71_23_Light Bulbs",
+            "tagName": "li",
+            "text": "Light Bulbs",
+            "width": 71.0,
+            "x": 1090.0,
+            "y": 801.0
+        },
+        "location": {
+            "x": 1090.0,
+            "y": 801.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 71.0
+        },
+        "tag_name": "li",
+        "text": "Light Bulbs"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Light Bulbs",
+    "transformed": true,
+    "width": 71,
+    "x": 1090,
+    "y": 801
+}

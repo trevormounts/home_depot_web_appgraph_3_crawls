@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/Dz23rBX4NztYYpShb1PnQ==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "img_X569_Y892_W228_H18",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "height": "18",
+                "src": "https://az1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_9XklsTFnQJkHzed",
+                "style": "width: 228px; height: 18px;",
+                "width": "228"
+            },
+            "backend_node_id": 12076,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "569_892_228_18_",
+            "tagName": "img",
+            "text": "",
+            "width": 228.0,
+            "x": 569.0,
+            "y": 892.0
+        },
+        "location": {
+            "x": 569.0,
+            "y": 892.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 228.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 228,
+    "x": 569,
+    "y": 892
+}

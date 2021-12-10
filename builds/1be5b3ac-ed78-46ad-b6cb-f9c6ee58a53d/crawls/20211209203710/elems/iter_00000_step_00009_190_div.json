@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "PhlIma6AriSW3XXc5dXwow==\n",
+    "height": 232,
+    "hier_level": 0,
+    "human_hash": "div_X1144_Y349_W440_H232",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "style": "padding-top: 10px; padding-bottom: 30px; border-bottom: 3px solid rgb(245, 245, 245);"
+            },
+            "backend_node_id": 18033,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 232.0,
+            "key": "1144_349_440_232_RYOBI ONE+ 18V Cordless Compact Glue Gun (Tool Only)  (510)  $ 19 97 $ 24 . 97  Save  $ 5 . 00  ( 20 %) Limit  3  per order Add To Cart",
+            "tagName": "div",
+            "text": "RYOBI ONE+ 18V Cordless Compact Glue Gun (Tool Only)  (510)  $ 19 97 $ 24 . 97  Save  $ 5 . 00  ( 20 %) Limit  3  per order Add To Cart",
+            "width": 440.0,
+            "x": 1144.0,
+            "y": 349.0
+        },
+        "location": {
+            "x": 1144.0,
+            "y": 349.0
+        },
+        "size": {
+            "height": 232.0,
+            "width": 440.0
+        },
+        "tag_name": "div",
+        "text": "RYOBI ONE+ 18V Cordless Compact Glue Gun (Tool Only)  (510)  $ 19 97 $ 24 . 97  Save  $ 5 . 00  ( 20 %) Limit  3  per order Add To Cart"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "RYOBI ONE+ 18V Cordless Compact Glue Gun (Tool Only)  (510)  $ 19 97 $ 24 . 97  Save  $ 5 . 00  ( 20 %) Limit  3  per order Add To Cart",
+    "transformed": true,
+    "width": 440,
+    "x": 1144,
+    "y": 349
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "avBpy2LInTb+sixxD2d3LA==\n",
+    "height": 40,
+    "hier_level": 0,
+    "human_hash": "li_X255_Y868_W220_H40",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": ""
+            },
+            "backend_node_id": 9529,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 40.0,
+            "key": "255_868_220_40_Varathane",
+            "tagName": "li",
+            "text": "Varathane",
+            "width": 220.0,
+            "x": 255.0,
+            "y": 868.0
+        },
+        "location": {
+            "x": 255.0,
+            "y": 868.0
+        },
+        "size": {
+            "height": 40.0,
+            "width": 220.0
+        },
+        "tag_name": "li",
+        "text": "Varathane"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Varathane",
+    "transformed": true,
+    "width": 220,
+    "x": 255,
+    "y": 868
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "N/bTLqU8t1JmxSm5YpW3ng==\n",
+    "height": 43,
+    "hier_level": 0,
+    "human_hash": "div_X1299_Y764_W351_H43",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__article-listing__items__item__content-requirements"
+            },
+            "backend_node_id": 14322,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 43.0,
+            "key": "1299_764_351_43_Difficulty Intermediate Time 2-4 hours",
+            "tagName": "div",
+            "text": "Difficulty Intermediate Time 2-4 hours",
+            "width": 351.0,
+            "x": 1299.0,
+            "y": 764.0
+        },
+        "location": {
+            "x": 1299.0,
+            "y": 764.0
+        },
+        "size": {
+            "height": 43.0,
+            "width": 351.0
+        },
+        "tag_name": "div",
+        "text": "Difficulty Intermediate Time 2-4 hours"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Difficulty Intermediate Time 2-4 hours",
+    "transformed": true,
+    "width": 351,
+    "x": 1299,
+    "y": 764
+}

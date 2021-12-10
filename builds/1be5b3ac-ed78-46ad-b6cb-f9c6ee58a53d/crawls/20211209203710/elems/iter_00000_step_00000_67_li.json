@@ -1,0 +1,58 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "S7flyQq4HC7UU0aRuIQuuw==\n",
+    "height": 47,
+    "hier_level": 0,
+    "human_hash": "li_X720_Y124_W185_H47",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ShoppingLinks__item"
+            },
+            "backend_node_id": 994,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 47.0,
+            "key": "720_124_185_47_DIY Projects & Ideas",
+            "tagName": "li",
+            "text": "DIY Projects & Ideas",
+            "width": 185.0,
+            "x": 720.0,
+            "y": 124.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 124.0
+        },
+        "size": {
+            "height": 47.0,
+            "width": 185.0
+        },
+        "tag_name": "li",
+        "text": "DIY Projects & Ideas"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "DIY Projects & Ideas",
+    "transformed": true,
+    "width": 185,
+    "x": 720,
+    "y": 124
+}

@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "j9NUAmpj8uZiKmna3vECuA==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "img_X902_Y494_W115_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "White in Outdoor Flush Mount Lights",
+                "class": "vis-nav__image stretchy",
+                "height": "1",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/catalog/productImages/300/bf/bf0b81fb-91c3-4b55-a8e3-fd6107c77195_300.jpg",
+                "title": "White in Outdoor Flush Mount Lights",
+                "width": "1"
+            },
+            "backend_node_id": 24359,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "902_494_115_115_",
+            "tagName": "img",
+            "text": "",
+            "width": 115.0,
+            "x": 902.0,
+            "y": 494.0
+        },
+        "location": {
+            "x": 902.0,
+            "y": 494.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 115.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 115,
+    "x": 902,
+    "y": 494
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "TzlUR0M8KlIGDFW4JGtrrg==\n",
+    "height": 13,
+    "hier_level": 0,
+    "human_hash": "h2_X1553_Y186_W122_H13",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-info-bar__detail--24WIp"
+            },
+            "backend_node_id": 21061,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 13.0,
+            "key": "1553_186_122_13_Store SKU # 1005559357",
+            "tagName": "h2",
+            "text": "Store SKU # 1005559357",
+            "width": 122.0,
+            "x": 1553.0,
+            "y": 186.0
+        },
+        "location": {
+            "x": 1553.0,
+            "y": 186.0
+        },
+        "size": {
+            "height": 13.0,
+            "width": 122.0
+        },
+        "tag_name": "h2",
+        "text": "Store SKU # 1005559357"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Store SKU # 1005559357",
+    "transformed": true,
+    "width": 122,
+    "x": 1553,
+    "y": 186
+}

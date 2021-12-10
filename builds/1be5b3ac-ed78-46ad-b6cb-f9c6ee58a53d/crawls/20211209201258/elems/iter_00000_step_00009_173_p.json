@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Jsxn5eY90133a0PMLiCIcA==\n",
+    "height": 136,
+    "hier_level": 0,
+    "human_hash": "p_X715_Y306_W372_H136",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 18888,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 136.0,
+            "key": "715_306_372_136_Dumbbells and other weights allow you to tone muscles while elliptical machines and treadmills offer a cardiovascular workout. Other equipment, such as abdominal machines and stretching machines, allow for a more specific focus. This guide helps you understand the different types of exercise equipment available for your home gym so you can be confident your choices will help you achieve your fitness goals.",
+            "tagName": "p",
+            "text": "Dumbbells and other weights allow you to tone muscles while elliptical machines and treadmills offer a cardiovascular workout. Other equipment, such as abdominal machines and stretching machines, allow for a more specific focus. This guide helps you understand the different types of exercise equipment available for your home gym so you can be confident your choices will help you achieve your fitness goals.",
+            "width": 372.0,
+            "x": 715.0,
+            "y": 306.0
+        },
+        "location": {
+            "x": 715.0,
+            "y": 306.0
+        },
+        "size": {
+            "height": 136.0,
+            "width": 372.0
+        },
+        "tag_name": "p",
+        "text": "Dumbbells and other weights allow you to tone muscles while elliptical machines and treadmills offer a cardiovascular workout. Other equipment, such as abdominal machines and stretching machines, allow for a more specific focus. This guide helps you understand the different types of exercise equipment available for your home gym so you can be confident your choices will help you achieve your fitness goals."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Dumbbells and other weights allow you to tone muscles while elliptical machines and treadmills offer a cardiovascular workout. Other equipment, such as abdominal machines and stretching machines, allow for a more specific focus. This guide helps you understand the different types of exercise equipment available for your home gym so you can be confident your choices will help you achieve your fitness goals.",
+    "transformed": true,
+    "width": 372,
+    "x": 715,
+    "y": 306
+}

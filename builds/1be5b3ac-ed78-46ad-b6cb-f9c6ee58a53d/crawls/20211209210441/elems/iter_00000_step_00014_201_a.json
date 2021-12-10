@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "30tblH+dYr/2ECThB/cF3Q==\n",
+    "height": 154,
+    "hier_level": 0,
+    "human_hash": "a_X685_Y494_W125_H154",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "vis-nav__link",
+                "href": "/b/Lighting-Outdoor-Lighting-Outdoor-Ceiling-Lights-Outdoor-Flush-Mount-Lights/Bronze/N-5yc1vZcdqjZ1z1164a",
+                "title": "Bronze in Outdoor Flush Mount Lights"
+            },
+            "backend_node_id": 26227,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 154.0,
+            "key": "685_494_125_154_Bronze in Outdoor Flush Mount Lights",
+            "tagName": "a",
+            "text": "Bronze in Outdoor Flush Mount Lights",
+            "width": 125.0,
+            "x": 685.0,
+            "y": 494.0
+        },
+        "location": {
+            "x": 685.0,
+            "y": 494.0
+        },
+        "size": {
+            "height": 154.0,
+            "width": 125.0
+        },
+        "tag_name": "a",
+        "text": "Bronze in Outdoor Flush Mount Lights"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Bronze in Outdoor Flush Mount Lights",
+    "transformed": true,
+    "width": 125,
+    "x": 685,
+    "y": 494
+}

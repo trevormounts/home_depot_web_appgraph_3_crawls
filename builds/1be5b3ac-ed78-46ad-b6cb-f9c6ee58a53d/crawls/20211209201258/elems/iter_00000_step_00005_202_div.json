@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "EVyQsjmLndDfYhyBTcxGeg==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y725_W237_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-group-root--i3en1",
+                "data-testid": "filter-group"
+            },
+            "backend_node_id": 12115,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "250_725_237_115_Brand   Bonnie Plants",
+            "tagName": "div",
+            "text": "Brand   Bonnie Plants",
+            "width": 237.0,
+            "x": 250.0,
+            "y": 725.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 725.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 237.0
+        },
+        "tag_name": "div",
+        "text": "Brand   Bonnie Plants"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Brand   Bonnie Plants",
+    "transformed": true,
+    "width": 237,
+    "x": 250,
+    "y": 725
+}

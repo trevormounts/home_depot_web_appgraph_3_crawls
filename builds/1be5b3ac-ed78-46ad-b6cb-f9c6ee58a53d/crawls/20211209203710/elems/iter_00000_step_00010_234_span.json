@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "yzk01syYlEizTtgnAEJ9sA==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "span_X1374_Y471_W184_H20",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 21224,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "1374_471_184_20_Delivering to:  33135  |  Change",
+            "tagName": "span",
+            "text": "Delivering to:  33135  |  Change",
+            "width": 184.0,
+            "x": 1374.0,
+            "y": 471.0
+        },
+        "location": {
+            "x": 1374.0,
+            "y": 471.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 184.0
+        },
+        "tag_name": "span",
+        "text": "Delivering to:  33135  |  Change"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Delivering to:  33135  |  Change",
+    "transformed": true,
+    "width": 184,
+    "x": 1374,
+    "y": 471
+}

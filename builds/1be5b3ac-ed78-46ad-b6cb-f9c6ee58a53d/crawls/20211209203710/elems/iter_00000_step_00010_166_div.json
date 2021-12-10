@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "VD0/vsR5dcHvMtZnx1d55g==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "div_X598_Y181_W116_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "breadcrumb__item--1-UXD"
+            },
+            "backend_node_id": 21046,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "598_181_116_17_Adhesives & Tape",
+            "tagName": "div",
+            "text": "Adhesives & Tape",
+            "width": 116.0,
+            "x": 598.0,
+            "y": 181.0
+        },
+        "location": {
+            "x": 598.0,
+            "y": 181.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 116.0
+        },
+        "tag_name": "div",
+        "text": "Adhesives & Tape"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Adhesives & Tape",
+    "transformed": true,
+    "width": 116,
+    "x": 598,
+    "y": 181
+}

@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/urnLtXC2qLlpZC7RfjQug==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X517_Y914_W296_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__default-link",
+                "href": "/b/Exercise-Equipment/N-5yc1vZcern"
+            },
+            "backend_node_id": 15690,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "517_914_296_17_SHOP ALL EXERCISE & FITNESS EQUIPMENT",
+            "tagName": "a",
+            "text": "SHOP ALL EXERCISE & FITNESS EQUIPMENT",
+            "width": 296.0,
+            "x": 517.0,
+            "y": 914.0
+        },
+        "location": {
+            "x": 517.0,
+            "y": 914.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 296.0
+        },
+        "tag_name": "a",
+        "text": "SHOP ALL EXERCISE & FITNESS EQUIPMENT"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "SHOP ALL EXERCISE & FITNESS EQUIPMENT",
+    "transformed": true,
+    "width": 296,
+    "x": 517,
+    "y": 914
+}

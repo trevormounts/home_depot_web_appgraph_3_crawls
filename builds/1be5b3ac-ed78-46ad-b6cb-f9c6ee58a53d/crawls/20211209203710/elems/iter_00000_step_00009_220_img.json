@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "HXH30AzpKbGrZ2RDPTYhcw==\n",
+    "height": 90,
+    "hier_level": 0,
+    "human_hash": "img_X1154_Y601_W90_H90",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Oversized Carpenter Pencil",
+                "class": "stretchy",
+                "height": "400",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/productImages/2343293b-bcb1-4f54-83a1-556b2013cb3a/svn/the-home-depot-writing-utensils-10351-64_400.jpg",
+                "title": "Oversized Carpenter Pencil",
+                "width": "400"
+            },
+            "backend_node_id": 16003,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 90.0,
+            "key": "1154_601_90_90_",
+            "tagName": "img",
+            "text": "",
+            "width": 90.0,
+            "x": 1154.0,
+            "y": 601.0
+        },
+        "location": {
+            "x": 1154.0,
+            "y": 601.0
+        },
+        "size": {
+            "height": 90.0,
+            "width": 90.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 90,
+    "x": 1154,
+    "y": 601
+}

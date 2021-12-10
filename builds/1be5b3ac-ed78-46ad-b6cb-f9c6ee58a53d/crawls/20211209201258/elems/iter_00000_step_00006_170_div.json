@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "NNk2G5L0KD9JglDvZ4GOYQ==\n",
+    "height": 142,
+    "hier_level": 0,
+    "human_hash": "div_X240_Y268_W1440_H142",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col__12-12 col__12-12--xs col__12-12--sm col__12-12--md col__12-12--lg"
+            },
+            "backend_node_id": 15396,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 142.0,
+            "key": "240_268_1440_142_Featured  ( 20 ) Gift Ideas  ( 18 )",
+            "tagName": "div",
+            "text": "Featured  ( 20 ) Gift Ideas  ( 18 )",
+            "width": 1440.0,
+            "x": 240.0,
+            "y": 268.0
+        },
+        "location": {
+            "x": 240.0,
+            "y": 268.0
+        },
+        "size": {
+            "height": 142.0,
+            "width": 1440.0
+        },
+        "tag_name": "div",
+        "text": "Featured  ( 20 ) Gift Ideas  ( 18 )"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Featured  ( 20 ) Gift Ideas  ( 18 )",
+    "transformed": true,
+    "width": 1440,
+    "x": 240,
+    "y": 268
+}

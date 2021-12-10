@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Qj7pmQFAFR3Vq6UglFEDfg==\n",
+    "height": 54,
+    "hier_level": 0,
+    "human_hash": "div_X334_Y55_W154_H54",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "MyStore deliveryZipSeparator MyStore--localized",
+                "id": "myStore"
+            },
+            "backend_node_id": 502,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 54.0,
+            "key": "334_55_154_54_You're shopping Miami (calle Ocho)  OPEN  until 10 pm",
+            "tagName": "div",
+            "text": "You're shopping Miami (calle Ocho)  OPEN  until 10 pm",
+            "width": 154.0,
+            "x": 334.0,
+            "y": 55.0
+        },
+        "location": {
+            "x": 334.0,
+            "y": 55.0
+        },
+        "size": {
+            "height": 54.0,
+            "width": 154.0
+        },
+        "tag_name": "div",
+        "text": "You're shopping Miami (calle Ocho)  OPEN  until 10 pm"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "You're shopping Miami (calle Ocho)  OPEN  until 10 pm",
+    "transformed": true,
+    "width": 154,
+    "x": 334,
+    "y": 55
+}

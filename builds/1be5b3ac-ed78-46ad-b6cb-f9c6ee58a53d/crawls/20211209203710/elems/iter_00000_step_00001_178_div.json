@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "sGJb6Dz6wVgZ0ojYZMbKFQ==\n",
+    "height": 46,
+    "hier_level": 0,
+    "human_hash": "div_X367_Y842_W505_H46",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sbotd__text-title"
+            },
+            "backend_node_id": 2049,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 46.0,
+            "key": "367_842_505_46_Flooring and Tile Starting at $1.69/sq. ft.",
+            "tagName": "div",
+            "text": "Flooring and Tile Starting at $1.69/sq. ft.",
+            "width": 505.0,
+            "x": 367.0,
+            "y": 842.0
+        },
+        "location": {
+            "x": 367.0,
+            "y": 842.0
+        },
+        "size": {
+            "height": 46.0,
+            "width": 505.0
+        },
+        "tag_name": "div",
+        "text": "Flooring and Tile Starting at $1.69/sq. ft."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Flooring and Tile Starting at $1.69/sq. ft.",
+    "transformed": true,
+    "width": 505,
+    "x": 367,
+    "y": 842
+}

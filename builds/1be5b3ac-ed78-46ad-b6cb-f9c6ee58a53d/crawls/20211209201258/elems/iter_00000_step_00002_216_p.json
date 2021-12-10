@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "v2e4EDw1cf6ceKh3uG0USw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "p_X250_Y700_W220_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 6545,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "250_700_220_17_Mini Fridges",
+            "tagName": "p",
+            "text": "Mini Fridges",
+            "width": 220.0,
+            "x": 250.0,
+            "y": 700.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 700.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 220.0
+        },
+        "tag_name": "p",
+        "text": "Mini Fridges"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Mini Fridges",
+    "transformed": true,
+    "width": 220,
+    "x": 250,
+    "y": 700
+}

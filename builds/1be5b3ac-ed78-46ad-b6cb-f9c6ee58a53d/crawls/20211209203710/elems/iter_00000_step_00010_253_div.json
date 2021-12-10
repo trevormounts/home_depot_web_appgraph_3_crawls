@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2JKN+YgmgL9A0HdmlvgwIQ==\n",
+    "height": 34,
+    "hier_level": 0,
+    "human_hash": "div_X1271_Y567_W120_H34",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fulfillment__sub-title"
+            },
+            "backend_node_id": 21253,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 34.0,
+            "key": "1271_567_120_34_Get it by Tue, Dec 14",
+            "tagName": "div",
+            "text": "Get it by Tue, Dec 14",
+            "width": 120.0,
+            "x": 1271.0,
+            "y": 567.0
+        },
+        "location": {
+            "x": 1271.0,
+            "y": 567.0
+        },
+        "size": {
+            "height": 34.0,
+            "width": 120.0
+        },
+        "tag_name": "div",
+        "text": "Get it by Tue, Dec 14"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Get it by Tue, Dec 14",
+    "transformed": true,
+    "width": 120,
+    "x": 1271,
+    "y": 567
+}

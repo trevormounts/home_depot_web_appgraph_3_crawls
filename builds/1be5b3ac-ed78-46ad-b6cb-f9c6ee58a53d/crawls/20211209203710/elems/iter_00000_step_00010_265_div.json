@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "zKvASsfgdWnxMa3y0yoqQw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "div_X1416_Y584_W140_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "delivery__timeline u__bold"
+            },
+            "backend_node_id": 21268,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1416_584_140_17_tomorrow",
+            "tagName": "div",
+            "text": "tomorrow",
+            "width": 140.0,
+            "x": 1416.0,
+            "y": 584.0
+        },
+        "location": {
+            "x": 1416.0,
+            "y": 584.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 140.0
+        },
+        "tag_name": "div",
+        "text": "tomorrow"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "tomorrow",
+    "transformed": true,
+    "width": 140,
+    "x": 1416,
+    "y": 584
+}

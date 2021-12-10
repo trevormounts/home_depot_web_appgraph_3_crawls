@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Acw5URBezvQji9lr7H71pA==\n",
+    "height": 130,
+    "hier_level": 0,
+    "human_hash": "ul_X255_Y515_W220_H130",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tag-list--i3en1"
+            },
+            "backend_node_id": 15430,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 130.0,
+            "key": "255_515_220_130_Buying Guides  Project Guides  Inspiration Guides",
+            "tagName": "ul",
+            "text": "Buying Guides  Project Guides  Inspiration Guides",
+            "width": 220.0,
+            "x": 255.0,
+            "y": 515.0
+        },
+        "location": {
+            "x": 255.0,
+            "y": 515.0
+        },
+        "size": {
+            "height": 130.0,
+            "width": 220.0
+        },
+        "tag_name": "ul",
+        "text": "Buying Guides  Project Guides  Inspiration Guides"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "Buying Guides  Project Guides  Inspiration Guides",
+    "transformed": true,
+    "width": 220,
+    "x": 255,
+    "y": 515
+}

@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "aUTdTxH9ZbzpWXWN/FcLJA==\n",
+    "height": 51,
+    "hier_level": 0,
+    "human_hash": "button_X1640_Y273_W30_H51",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "carousel__next",
+                "type": "button"
+            },
+            "backend_node_id": 15365,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 51.0,
+            "key": "1640_273_30_51_",
+            "tagName": "button",
+            "text": "",
+            "width": 30.0,
+            "x": 1640.0,
+            "y": 273.0
+        },
+        "location": {
+            "x": 1640.0,
+            "y": 273.0
+        },
+        "size": {
+            "height": 51.0,
+            "width": 30.0
+        },
+        "tag_name": "button",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "",
+    "transformed": true,
+    "width": 30,
+    "x": 1640,
+    "y": 273
+}

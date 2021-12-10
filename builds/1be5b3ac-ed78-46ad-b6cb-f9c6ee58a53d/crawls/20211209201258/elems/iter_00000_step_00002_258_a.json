@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "54H4j6ufbVNsDcYbjEsnMA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X490_Y428_W37_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/b/Electrical-Power-Distribution-Fuses/N-5yc1vZbtvm"
+            },
+            "backend_node_id": 7195,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "490_428_37_17_Fuses",
+            "tagName": "a",
+            "text": "Fuses",
+            "width": 37.0,
+            "x": 490.0,
+            "y": 428.0
+        },
+        "location": {
+            "x": 490.0,
+            "y": 428.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 37.0
+        },
+        "tag_name": "a",
+        "text": "Fuses"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Fuses",
+    "transformed": true,
+    "width": 37,
+    "x": 490,
+    "y": 428
+}

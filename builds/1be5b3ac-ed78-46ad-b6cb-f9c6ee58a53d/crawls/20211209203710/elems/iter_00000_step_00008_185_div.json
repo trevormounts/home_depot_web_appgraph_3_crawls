@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "MpqjmhjIVIsZZevfEpJVGA==\n",
+    "height": 34,
+    "hier_level": 0,
+    "human_hash": "div_X742_Y874_W60_H34",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-testid": "duration"
+            },
+            "backend_node_id": 17761,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 34.0,
+            "key": "742_874_60_34_Duration 2-4 hours",
+            "tagName": "div",
+            "text": "Duration 2-4 hours",
+            "width": 60.0,
+            "x": 742.0,
+            "y": 874.0
+        },
+        "location": {
+            "x": 742.0,
+            "y": 874.0
+        },
+        "size": {
+            "height": 34.0,
+            "width": 60.0
+        },
+        "tag_name": "div",
+        "text": "Duration 2-4 hours"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Duration 2-4 hours",
+    "transformed": true,
+    "width": 60,
+    "x": 742,
+    "y": 874
+}

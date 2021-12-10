@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "RwP3VUfkJlkJB6gFKH+YFQ==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "a_X500_Y738_W1160_H22",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "etchVisualNavigationStory__card__title",
+                "href": "/b/Lighting-Outdoor-Lighting/N-5yc1vZc7qv"
+            },
+            "backend_node_id": 17525,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "500_738_1160_22_Shop All Outdoor Lighting",
+            "tagName": "a",
+            "text": "Shop All Outdoor Lighting",
+            "width": 1160.0,
+            "x": 500.0,
+            "y": 738.0
+        },
+        "location": {
+            "x": 500.0,
+            "y": 738.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 1160.0
+        },
+        "tag_name": "a",
+        "text": "Shop All Outdoor Lighting"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Shop All Outdoor Lighting",
+    "transformed": true,
+    "width": 1160,
+    "x": 500,
+    "y": 738
+}

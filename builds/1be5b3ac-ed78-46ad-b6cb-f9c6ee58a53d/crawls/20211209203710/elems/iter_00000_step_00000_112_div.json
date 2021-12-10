@@ -1,0 +1,58 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "7isTlXnMJIKAPMVDREEhrQ==\n",
+    "height": 1,
+    "hier_level": 0,
+    "human_hash": "div_X300_Y456_W300_H1",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "SimpleFlyout__divider"
+            },
+            "backend_node_id": 1445,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 1.0,
+            "key": "300_456_300_1_",
+            "tagName": "div",
+            "text": "",
+            "width": 300.0,
+            "x": 300.0,
+            "y": 456.0
+        },
+        "location": {
+            "x": 300.0,
+            "y": 456.0
+        },
+        "size": {
+            "height": 1.0,
+            "width": 300.0
+        },
+        "tag_name": "div",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "",
+    "transformed": true,
+    "width": 300,
+    "x": 300,
+    "y": 456
+}

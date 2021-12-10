@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Y0d/VCkpjtZU7WprfIKCcA==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "img_X1561_Y372_W9_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Open Menu",
+                "class": "product-pod-mini__caret__image",
+                "height": "15",
+                "loading": "lazy",
+                "src": "https://assets.homedepot-static.com/images/v1/caret-orange.svg",
+                "width": "9"
+            },
+            "backend_node_id": 16002,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "1561_372_9_15_",
+            "tagName": "img",
+            "text": "",
+            "width": 9.0,
+            "x": 1561.0,
+            "y": 372.0
+        },
+        "location": {
+            "x": 1561.0,
+            "y": 372.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 9.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 9,
+    "x": 1561,
+    "y": 372
+}

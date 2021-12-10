@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "GdJ6kXEzb/HZFJoE9897xQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "h2_X265_Y484_W112_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 12075,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "265_484_112_17_Information Type",
+            "tagName": "h2",
+            "text": "Information Type",
+            "width": 112.0,
+            "x": 265.0,
+            "y": 484.0
+        },
+        "location": {
+            "x": 265.0,
+            "y": 484.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 112.0
+        },
+        "tag_name": "h2",
+        "text": "Information Type"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Information Type",
+    "transformed": true,
+    "width": 112,
+    "x": 265,
+    "y": 484
+}

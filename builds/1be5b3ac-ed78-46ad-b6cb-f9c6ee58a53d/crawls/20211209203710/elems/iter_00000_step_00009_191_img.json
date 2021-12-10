@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "1a2OE5RU3enA8g2AXFakJw==\n",
+    "height": 90,
+    "hier_level": 0,
+    "human_hash": "img_X1154_Y369_W90_H90",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "ONE+ 18V Cordless Compact Glue Gun (Tool Only)",
+                "class": "stretchy",
+                "height": "400",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/productImages/e2ec0bfe-6a33-4b19-b0fa-a1d47894e2cb/svn/ryobi-adhesives-tape-p306-64_400.jpg",
+                "title": "ONE+ 18V Cordless Compact Glue Gun (Tool Only)",
+                "width": "400"
+            },
+            "backend_node_id": 16001,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 90.0,
+            "key": "1154_369_90_90_",
+            "tagName": "img",
+            "text": "",
+            "width": 90.0,
+            "x": 1154.0,
+            "y": 369.0
+        },
+        "location": {
+            "x": 1154.0,
+            "y": 369.0
+        },
+        "size": {
+            "height": 90.0,
+            "width": 90.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 90,
+    "x": 1154,
+    "y": 369
+}

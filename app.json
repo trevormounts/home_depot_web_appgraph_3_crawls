@@ -3,5 +3,8 @@
     "created": "2021-12-10 00:34:48.247643",
     "default_package": null,
     "name": "Home Depot ",
-    "platform": "web"
+    "platform": "web",
+    "rehash_reasons": [
+        "py3"
+    ]
 }

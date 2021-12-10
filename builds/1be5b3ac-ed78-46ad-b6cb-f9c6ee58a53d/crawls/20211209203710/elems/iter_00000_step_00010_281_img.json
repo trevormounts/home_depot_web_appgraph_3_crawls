@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "6C5JvW9cxMrx5DS2flRB9A==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "img_X1110_Y784_W34_H48",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "",
+                "aria-hidden": "true",
+                "class": "product-add-ons-pod__icon",
+                "height": "47",
+                "loading": "lazy",
+                "src": "https://assets.homedepot-static.com/images/v1/hdpp-allstate.svg",
+                "width": "34"
+            },
+            "backend_node_id": 19211,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "1110_784_34_48_",
+            "tagName": "img",
+            "text": "",
+            "width": 34.0,
+            "x": 1110.0,
+            "y": 784.0
+        },
+        "location": {
+            "x": 1110.0,
+            "y": 784.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 34.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 34,
+    "x": 1110,
+    "y": 784
+}

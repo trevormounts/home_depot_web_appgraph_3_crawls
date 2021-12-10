@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "rjIGXeyJeBBtCtshOwTkJw==\n",
+    "height": 229,
+    "hier_level": 0,
+    "human_hash": "div_X898_Y689_W371_H229",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__article-listing__items__item__content"
+            },
+            "backend_node_id": 15695,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 229.0,
+            "key": "898_689_371_229_Project Guide How to Build a Chicken Coop  Difficulty Advanced Time Over 1 day  If you want to raise chickens, you\u2019ll need to provide them with a cozy, well-sheltered place to roost. These instructions will show you how.  Building your own chicken coop is a pretty involved project, so we\u2019ve divided the instructions into three weekly installments, with the idea that most of us will want to take consecutive weekends to tackle each. This week we\u2019re focusing on gathering and preparing the pieces you\u2019ll need. We\u2019ll publish parts two and three in the coming weeks, so check back in each Monday for more.",
+            "tagName": "div",
+            "text": "Project Guide How to Build a Chicken Coop  Difficulty Advanced Time Over 1 day  If you want to raise chickens, you\u2019ll need to provide them with a cozy, well-sheltered place to roost. These instructions will show you how.  Building your own chicken coop is a pretty involved project, so we\u2019ve divided the instructions into three weekly installments, with the idea that most of us will want to take consecutive weekends to tackle each. This week we\u2019re focusing on gathering and preparing the pieces you\u2019ll need. We\u2019ll publish parts two and three in the coming weeks, so check back in each Monday for more.",
+            "width": 371.0,
+            "x": 898.0,
+            "y": 689.0
+        },
+        "location": {
+            "x": 898.0,
+            "y": 689.0
+        },
+        "size": {
+            "height": 229.0,
+            "width": 371.0
+        },
+        "tag_name": "div",
+        "text": "Project Guide How to Build a Chicken Coop  Difficulty Advanced Time Over 1 day  If you want to raise chickens, you\u2019ll need to provide them with a cozy, well-sheltered place to roost. These instructions will show you how.  Building your own chicken coop is a pretty involved project, so we\u2019ve divided the instructions into three weekly installments, with the idea that most of us will want to take consecutive weekends to tackle each. This week we\u2019re focusing on gathering and preparing the pieces you\u2019ll need. We\u2019ll publish parts two and three in the coming weeks, so check back in each Monday for more."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Project Guide How to Build a Chicken Coop  Difficulty Advanced Time Over 1 day  If you want to raise chickens, you\u2019ll need to provide them with a cozy, well-sheltered place to roost. These instructions will show you how.  Building your own chicken coop is a pretty involved project, so we\u2019ve divided the instructions into three weekly installments, with the idea that most of us will want to take consecutive weekends to tackle each. This week we\u2019re focusing on gathering and preparing the pieces you\u2019ll need. We\u2019ll publish parts two and three in the coming weeks, so check back in each Monday for more.",
+    "transformed": true,
+    "width": 371,
+    "x": 898,
+    "y": 689
+}

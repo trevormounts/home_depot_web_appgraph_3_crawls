@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ew4D/UI8zwZQR/XCVoWQmw==\n",
+    "height": 460,
+    "hier_level": 0,
+    "human_hash": "div_X240_Y191_W1440_H460",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "grid isBound",
+                "data-module-id": "grid_thd_1255",
+                "id": "hp_sponsored__hero__wrapper"
+            },
+            "backend_node_id": 1707,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 460.0,
+            "key": "240_191_1440_460_",
+            "tagName": "div",
+            "text": "",
+            "width": 1440.0,
+            "x": 240.0,
+            "y": 191.0
+        },
+        "location": {
+            "x": 240.0,
+            "y": 191.0
+        },
+        "size": {
+            "height": 460.0,
+            "width": 1440.0
+        },
+        "tag_name": "div",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "",
+    "transformed": true,
+    "width": 1440,
+    "x": 240,
+    "y": 191
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tU8FM4eiAakoF847XylyBA==\n",
+    "height": 63,
+    "hier_level": 0,
+    "human_hash": "div_X367_Y842_W525_H63",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sbotd__text"
+            },
+            "backend_node_id": 2047,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 63.0,
+            "key": "367_842_525_63_Flooring and Tile Starting at $1.69/sq. ft.  \n                  Free Delivery.  Today Only.",
+            "tagName": "div",
+            "text": "Flooring and Tile Starting at $1.69/sq. ft.  \n                  Free Delivery.  Today Only.",
+            "width": 525.0,
+            "x": 367.0,
+            "y": 842.0
+        },
+        "location": {
+            "x": 367.0,
+            "y": 842.0
+        },
+        "size": {
+            "height": 63.0,
+            "width": 525.0
+        },
+        "tag_name": "div",
+        "text": "Flooring and Tile Starting at $1.69/sq. ft.  \n                  Free Delivery.  Today Only."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Flooring and Tile Starting at $1.69/sq. ft.  \n                  Free Delivery.  Today Only.",
+    "transformed": true,
+    "width": 525,
+    "x": 367,
+    "y": 842
+}

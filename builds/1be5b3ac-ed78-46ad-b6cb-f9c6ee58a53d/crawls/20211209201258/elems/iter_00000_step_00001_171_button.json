@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "kMqymzA7JR9dd/jtc88a2g==\n",
+    "height": 10,
+    "hier_level": 0,
+    "human_hash": "button_X991_Y626_W10_H10",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "owl-dot",
+                "role": "button"
+            },
+            "backend_node_id": 1966,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 10.0,
+            "key": "991_626_10_10_",
+            "tagName": "button",
+            "text": "",
+            "width": 10.0,
+            "x": 991.0,
+            "y": 626.0
+        },
+        "location": {
+            "x": 991.0,
+            "y": 626.0
+        },
+        "size": {
+            "height": 10.0,
+            "width": 10.0
+        },
+        "tag_name": "button",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "",
+    "transformed": true,
+    "width": 10,
+    "x": 991,
+    "y": 626
+}

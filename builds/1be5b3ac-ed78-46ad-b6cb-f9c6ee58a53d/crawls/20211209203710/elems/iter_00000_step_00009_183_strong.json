@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "strong",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZZ4CjstyK1v9jISHJg/BPw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "strong_X742_Y874_W53_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 17763,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "742_874_53_17_Duration",
+            "tagName": "strong",
+            "text": "Duration",
+            "width": 53.0,
+            "x": 742.0,
+            "y": 874.0
+        },
+        "location": {
+            "x": 742.0,
+            "y": 874.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 53.0
+        },
+        "tag_name": "strong",
+        "text": "Duration"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "strong",
+    "text": "Duration",
+    "transformed": true,
+    "width": 53,
+    "x": 742,
+    "y": 874
+}

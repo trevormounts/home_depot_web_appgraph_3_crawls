@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "SlKD1CuVG9bBN1TC+N9iGQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X1426_Y706_W72_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__bold"
+            },
+            "backend_node_id": 21294,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1426_706_72_17_tomorrow.",
+            "tagName": "span",
+            "text": "tomorrow.",
+            "width": 72.0,
+            "x": 1426.0,
+            "y": 706.0
+        },
+        "location": {
+            "x": 1426.0,
+            "y": 706.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 72.0
+        },
+        "tag_name": "span",
+        "text": "tomorrow."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "tomorrow.",
+    "transformed": true,
+    "width": 72,
+    "x": 1426,
+    "y": 706
+}

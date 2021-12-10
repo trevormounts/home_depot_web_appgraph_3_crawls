@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "GBSU3k7xT3gvmmDTvyYErA==\n",
+    "height": 16,
+    "hier_level": 0,
+    "human_hash": "div_X796_Y724_W65_H16",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-pod__badge--wrapper",
+                "data-testid": "product-default-badge"
+            },
+            "backend_node_id": 29017,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 16.0,
+            "key": "796_724_65_16_Top Rated",
+            "tagName": "div",
+            "text": "Top Rated",
+            "width": 65.0,
+            "x": 796.0,
+            "y": 724.0
+        },
+        "location": {
+            "x": 796.0,
+            "y": 724.0
+        },
+        "size": {
+            "height": 16.0,
+            "width": 65.0
+        },
+        "tag_name": "div",
+        "text": "Top Rated"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Top Rated",
+    "transformed": true,
+    "width": 65,
+    "x": 796,
+    "y": 724
+}

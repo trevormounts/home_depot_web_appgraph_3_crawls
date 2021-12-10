@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jxTiT8KzAIh3HepyUXWtRA==\n",
+    "height": 45,
+    "hier_level": 0,
+    "human_hash": "button_X255_Y470_W220_H45",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-header--i3en1",
+                "type": "button"
+            },
+            "backend_node_id": 15426,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 45.0,
+            "key": "255_470_220_45_Information Type",
+            "tagName": "button",
+            "text": "Information Type",
+            "width": 220.0,
+            "x": 255.0,
+            "y": 470.0
+        },
+        "location": {
+            "x": 255.0,
+            "y": 470.0
+        },
+        "size": {
+            "height": 45.0,
+            "width": 220.0
+        },
+        "tag_name": "button",
+        "text": "Information Type"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Information Type",
+    "transformed": true,
+    "width": 220,
+    "x": 255,
+    "y": 470
+}

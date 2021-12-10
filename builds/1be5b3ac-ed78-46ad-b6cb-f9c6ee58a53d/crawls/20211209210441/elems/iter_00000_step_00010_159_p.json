@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tC0A5KTKJyiffiQo9P0twg==\n",
+    "height": 75,
+    "hier_level": 0,
+    "human_hash": "p_X1307_Y30_W333_H75",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchCopyBlockHeader__heading u__large u__display-font--black"
+            },
+            "backend_node_id": 17504,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 75.0,
+            "key": "1307_30_333_75_NEW & TRENDING OUTDOOR LIGHTING",
+            "tagName": "p",
+            "text": "NEW & TRENDING OUTDOOR LIGHTING",
+            "width": 333.0,
+            "x": 1307.0,
+            "y": 30.0
+        },
+        "location": {
+            "x": 1307.0,
+            "y": 30.0
+        },
+        "size": {
+            "height": 75.0,
+            "width": 333.0
+        },
+        "tag_name": "p",
+        "text": "NEW & TRENDING OUTDOOR LIGHTING"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "NEW & TRENDING OUTDOOR LIGHTING",
+    "transformed": true,
+    "width": 333,
+    "x": 1307,
+    "y": 30
+}

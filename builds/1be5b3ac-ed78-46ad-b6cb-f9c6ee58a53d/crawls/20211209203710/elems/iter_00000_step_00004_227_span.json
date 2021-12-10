@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "9Ttd3/mnGvHil9rdndlb2A==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X562_Y784_W63_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__article-listing__items__item__content-requirements__content__text",
+                "data-testid": "difficulty-text"
+            },
+            "backend_node_id": 10175,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "562_784_63_17_Advanced",
+            "tagName": "span",
+            "text": "Advanced",
+            "width": 63.0,
+            "x": 562.0,
+            "y": 784.0
+        },
+        "location": {
+            "x": 562.0,
+            "y": 784.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 63.0
+        },
+        "tag_name": "span",
+        "text": "Advanced"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Advanced",
+    "transformed": true,
+    "width": 63,
+    "x": 562,
+    "y": 784
+}

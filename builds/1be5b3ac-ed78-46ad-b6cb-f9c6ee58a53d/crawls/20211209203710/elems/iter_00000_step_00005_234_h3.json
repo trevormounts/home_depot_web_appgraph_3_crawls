@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h3",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/E3jWh9gblGYVCHnni++kw==\n",
+    "height": 63,
+    "hier_level": 0,
+    "human_hash": "h3_X517_Y823_W351_H63",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__article-listing__items__item__content-requirements-intro-projectGuide"
+            },
+            "backend_node_id": 10190,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 63.0,
+            "key": "517_823_351_63_Manufactured shelving usually doesn\u2019t offer spacing flexibility and easy reconfiguration. Consider building your own utility  shelves  to fit the exact space you have available. Since you'll anchor it to the ceiling joists and the floor, it'll be sturdier under a heavy load than most freestanding garage shelves. You can also dress it up with the simple addition of side panels and stock trim molding on the face frame.  This project guide explains how to build utility shelves in your garage, including how to anchor them into the studs behind the wall and into the floor for extra support.",
+            "tagName": "h3",
+            "text": "Manufactured shelving usually doesn\u2019t offer spacing flexibility and easy reconfiguration. Consider building your own utility  shelves  to fit the exact space you have available. Since you'll anchor it to the ceiling joists and the floor, it'll be sturdier under a heavy load than most freestanding garage shelves. You can also dress it up with the simple addition of side panels and stock trim molding on the face frame.  This project guide explains how to build utility shelves in your garage, including how to anchor them into the studs behind the wall and into the floor for extra support.",
+            "width": 351.0,
+            "x": 517.0,
+            "y": 823.0
+        },
+        "location": {
+            "x": 517.0,
+            "y": 823.0
+        },
+        "size": {
+            "height": 63.0,
+            "width": 351.0
+        },
+        "tag_name": "h3",
+        "text": "Manufactured shelving usually doesn\u2019t offer spacing flexibility and easy reconfiguration. Consider building your own utility  shelves  to fit the exact space you have available. Since you'll anchor it to the ceiling joists and the floor, it'll be sturdier under a heavy load than most freestanding garage shelves. You can also dress it up with the simple addition of side panels and stock trim molding on the face frame.  This project guide explains how to build utility shelves in your garage, including how to anchor them into the studs behind the wall and into the floor for extra support."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h3",
+    "text": "Manufactured shelving usually doesn\u2019t offer spacing flexibility and easy reconfiguration. Consider building your own utility  shelves  to fit the exact space you have available. Since you'll anchor it to the ceiling joists and the floor, it'll be sturdier under a heavy load than most freestanding garage shelves. You can also dress it up with the simple addition of side panels and stock trim molding on the face frame.  This project guide explains how to build utility shelves in your garage, including how to anchor them into the studs behind the wall and into the floor for extra support.",
+    "transformed": true,
+    "width": 351,
+    "x": 517,
+    "y": 823
+}

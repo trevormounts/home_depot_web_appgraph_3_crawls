@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "DQReRA/+mdw0SlbUfP6EFA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X1299_Y677_W91_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__bold article-tile__article-list-page__article-listing__items__item__content__type"
+            },
+            "backend_node_id": 10245,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1299_677_91_17_Project Guide",
+            "tagName": "span",
+            "text": "Project Guide",
+            "width": 91.0,
+            "x": 1299.0,
+            "y": 677.0
+        },
+        "location": {
+            "x": 1299.0,
+            "y": 677.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 91.0
+        },
+        "tag_name": "span",
+        "text": "Project Guide"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Project Guide",
+    "transformed": true,
+    "width": 91,
+    "x": 1299,
+    "y": 677
+}

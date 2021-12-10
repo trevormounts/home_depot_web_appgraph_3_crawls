@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "WU6/UYg888lVWTSPrZ4KFA==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "div_X0_Y0_W1920_H32",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "MessageBar MessageBar--web",
+                "id": "messageBar"
+            },
+            "backend_node_id": 34,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "0_0_1920_32_FREE DELIVERY Over One Million Items Eligible",
+            "tagName": "div",
+            "text": "FREE DELIVERY Over One Million Items Eligible",
+            "width": 1920.0,
+            "x": 0.0,
+            "y": 0.0
+        },
+        "location": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 1920.0
+        },
+        "tag_name": "div",
+        "text": "FREE DELIVERY Over One Million Items Eligible"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "FREE DELIVERY Over One Million Items Eligible",
+    "transformed": true,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+}

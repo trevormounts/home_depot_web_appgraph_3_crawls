@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Vb8voa5pNyUBCkI12A1fXg==\n",
+    "height": 85,
+    "hier_level": 0,
+    "human_hash": "div_X1102_Y649_W457_H85",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 21277,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 85.0,
+            "key": "1102_649_457_85_27  in stock at  Miami (calle Ocho)  Check Nearby Stores This item may not be available for pickup until  tomorrow.",
+            "tagName": "div",
+            "text": "27  in stock at  Miami (calle Ocho)  Check Nearby Stores This item may not be available for pickup until  tomorrow.",
+            "width": 457.0,
+            "x": 1102.0,
+            "y": 649.0
+        },
+        "location": {
+            "x": 1102.0,
+            "y": 649.0
+        },
+        "size": {
+            "height": 85.0,
+            "width": 457.0
+        },
+        "tag_name": "div",
+        "text": "27  in stock at  Miami (calle Ocho)  Check Nearby Stores This item may not be available for pickup until  tomorrow."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "27  in stock at  Miami (calle Ocho)  Check Nearby Stores This item may not be available for pickup until  tomorrow.",
+    "transformed": true,
+    "width": 457,
+    "x": 1102,
+    "y": 649
+}

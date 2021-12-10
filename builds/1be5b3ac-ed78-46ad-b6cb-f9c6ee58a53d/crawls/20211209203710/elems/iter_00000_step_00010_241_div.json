@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Avw0pu5n7VmHxr/lD3qFJQ==\n",
+    "height": 131,
+    "hier_level": 0,
+    "human_hash": "div_X1102_Y508_W568_H131",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fulfillment__content-wrapper card-deck"
+            },
+            "backend_node_id": 21232,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 131.0,
+            "key": "1102_508_568_131_Store Pickup Available FREE  Ship to Home Get it by Tue, Dec 14 FREE  Scheduled Delivery As soon as tomorrow Starting at  $ 8.99",
+            "tagName": "div",
+            "text": "Store Pickup Available FREE  Ship to Home Get it by Tue, Dec 14 FREE  Scheduled Delivery As soon as tomorrow Starting at  $ 8.99",
+            "width": 568.0,
+            "x": 1102.0,
+            "y": 508.0
+        },
+        "location": {
+            "x": 1102.0,
+            "y": 508.0
+        },
+        "size": {
+            "height": 131.0,
+            "width": 568.0
+        },
+        "tag_name": "div",
+        "text": "Store Pickup Available FREE  Ship to Home Get it by Tue, Dec 14 FREE  Scheduled Delivery As soon as tomorrow Starting at  $ 8.99"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Store Pickup Available FREE  Ship to Home Get it by Tue, Dec 14 FREE  Scheduled Delivery As soon as tomorrow Starting at  $ 8.99",
+    "transformed": true,
+    "width": 568,
+    "x": 1102,
+    "y": 508
+}

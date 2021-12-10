@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "NVQmsIzsYYY6dSQdvlZ7FA==\n",
+    "height": 68,
+    "hier_level": 0,
+    "human_hash": "p_X715_Y459_W372_H68",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 17159,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 68.0,
+            "key": "715_459_372_68_Safety:  Always test equipment before purchasing, if possible. You want to make sure that it operates smoothly and, in the case of treadmills and ellipticals, has a solid, secure base.",
+            "tagName": "p",
+            "text": "Safety:  Always test equipment before purchasing, if possible. You want to make sure that it operates smoothly and, in the case of treadmills and ellipticals, has a solid, secure base.",
+            "width": 372.0,
+            "x": 715.0,
+            "y": 459.0
+        },
+        "location": {
+            "x": 715.0,
+            "y": 459.0
+        },
+        "size": {
+            "height": 68.0,
+            "width": 372.0
+        },
+        "tag_name": "p",
+        "text": "Safety:  Always test equipment before purchasing, if possible. You want to make sure that it operates smoothly and, in the case of treadmills and ellipticals, has a solid, secure base."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Safety:  Always test equipment before purchasing, if possible. You want to make sure that it operates smoothly and, in the case of treadmills and ellipticals, has a solid, secure base.",
+    "transformed": true,
+    "width": 372,
+    "x": 715,
+    "y": 459
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "xFXunzOuRMLMfpsKH5+96g==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "span_X640_Y122_W300_H22",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "SimpleFlyout__header"
+            },
+            "backend_node_id": 20383,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "640_122_300_22_All Departments",
+            "tagName": "span",
+            "text": "All Departments",
+            "width": 300.0,
+            "x": 640.0,
+            "y": 122.0
+        },
+        "location": {
+            "x": 640.0,
+            "y": 122.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 300.0
+        },
+        "tag_name": "span",
+        "text": "All Departments"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "All Departments",
+    "transformed": true,
+    "width": 300,
+    "x": 640,
+    "y": 122
+}

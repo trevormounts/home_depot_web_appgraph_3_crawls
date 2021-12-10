@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "RAIOmdph2UPDd/FyDVFfnw==\n",
+    "height": 30,
+    "hier_level": 0,
+    "human_hash": "div_X1264_Y408_W273_H30",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "grid productPod__flex product-pod__ratings"
+            },
+            "backend_node_id": 18054,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 30.0,
+            "key": "1264_408_273_30_(510)",
+            "tagName": "div",
+            "text": "(510)",
+            "width": 273.0,
+            "x": 1264.0,
+            "y": 408.0
+        },
+        "location": {
+            "x": 1264.0,
+            "y": 408.0
+        },
+        "size": {
+            "height": 30.0,
+            "width": 273.0
+        },
+        "tag_name": "div",
+        "text": "(510)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "(510)",
+    "transformed": true,
+    "width": 273,
+    "x": 1264,
+    "y": 408
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "YYFyCQRqzLiNwaJzXeXhsg==\n",
+    "height": 34,
+    "hier_level": 0,
+    "human_hash": "span_X1266_Y501_W269_H34",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "bttn__content"
+            },
+            "backend_node_id": 18096,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 34.0,
+            "key": "1266_501_269_34_Add To Cart",
+            "tagName": "span",
+            "text": "Add To Cart",
+            "width": 269.0,
+            "x": 1266.0,
+            "y": 501.0
+        },
+        "location": {
+            "x": 1266.0,
+            "y": 501.0
+        },
+        "size": {
+            "height": 34.0,
+            "width": 269.0
+        },
+        "tag_name": "span",
+        "text": "Add To Cart"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Add To Cart",
+    "transformed": true,
+    "width": 269,
+    "x": 1266,
+    "y": 501
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ellipse",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "nKwsmNIV++1qpwiriCdMkg==\n",
+    "height": 2,
+    "hier_level": 0,
+    "human_hash": "ellipse_X311_Y163_W3_H2",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "cx": "9.9266",
+                "cy": "4.4773",
+                "fill": "#333",
+                "rx": "1.1956",
+                "ry": "1.1213"
+            },
+            "backend_node_id": 1315,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 2.0,
+            "key": "311_163_3_2_",
+            "tagName": "ellipse",
+            "text": "",
+            "width": 3.0,
+            "x": 311.0,
+            "y": 163.0
+        },
+        "location": {
+            "x": 311.0,
+            "y": 163.0
+        },
+        "size": {
+            "height": 2.0,
+            "width": 3.0
+        },
+        "tag_name": "ellipse",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ellipse",
+    "text": "",
+    "transformed": true,
+    "width": 3,
+    "x": 311,
+    "y": 163
+}

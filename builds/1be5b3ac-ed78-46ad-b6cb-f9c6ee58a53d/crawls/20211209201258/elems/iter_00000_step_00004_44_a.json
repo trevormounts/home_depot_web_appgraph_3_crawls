@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tSbM4FHByoRIrgh9IKI9iQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X1310_Y86_W44_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "SearchBox__cancel",
+                "href": "#cancel",
+                "title": "Cancel and Close Search"
+            },
+            "backend_node_id": 10922,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1310_86_44_17_Cancel",
+            "tagName": "a",
+            "text": "Cancel",
+            "width": 44.0,
+            "x": 1310.0,
+            "y": 86.0
+        },
+        "location": {
+            "x": 1310.0,
+            "y": 86.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 44.0
+        },
+        "tag_name": "a",
+        "text": "Cancel"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Cancel",
+    "transformed": true,
+    "width": 44,
+    "x": 1310,
+    "y": 86
+}

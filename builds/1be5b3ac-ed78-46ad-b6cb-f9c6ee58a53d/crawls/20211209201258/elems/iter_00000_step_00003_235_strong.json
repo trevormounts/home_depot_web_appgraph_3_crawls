@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "strong",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "5sm37w/rnxWO6TSFovKUCA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "strong_X250_Y887_W129_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 6589,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "250_887_129_17_Automotive Supplies",
+            "tagName": "strong",
+            "text": "Automotive Supplies",
+            "width": 129.0,
+            "x": 250.0,
+            "y": 887.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 887.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 129.0
+        },
+        "tag_name": "strong",
+        "text": "Automotive Supplies"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "strong",
+    "text": "Automotive Supplies",
+    "transformed": true,
+    "width": 129,
+    "x": 250,
+    "y": 887
+}

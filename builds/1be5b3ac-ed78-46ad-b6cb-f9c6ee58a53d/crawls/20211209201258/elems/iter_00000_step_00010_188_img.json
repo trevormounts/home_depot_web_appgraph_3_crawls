@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Wi1++y2URE/Y7x8LkL+nlA==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "img_X902_Y446_W115_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "DIRECT WICKER",
+                "class": "vis-nav__image stretchy",
+                "height": "1",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/catalog/productImages/300/5b/5bbd2e47-d8c6-4e57-9d0e-dc9ed6df9884_300.jpg",
+                "title": "DIRECT WICKER",
+                "width": "1"
+            },
+            "backend_node_id": 20107,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "902_446_115_115_",
+            "tagName": "img",
+            "text": "",
+            "width": 115.0,
+            "x": 902.0,
+            "y": 446.0
+        },
+        "location": {
+            "x": 902.0,
+            "y": 446.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 115.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 115,
+    "x": 902,
+    "y": 446
+}

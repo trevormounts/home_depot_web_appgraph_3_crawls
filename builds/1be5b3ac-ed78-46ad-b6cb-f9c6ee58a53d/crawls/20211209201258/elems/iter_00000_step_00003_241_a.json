@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "sTIRrO1qQBgXJbywaMmHnQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X490_Y292_W56_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/b/Electrical-Batteries/N-5yc1vZc28m"
+            },
+            "backend_node_id": 7161,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "490_292_56_17_Batteries",
+            "tagName": "a",
+            "text": "Batteries",
+            "width": 56.0,
+            "x": 490.0,
+            "y": 292.0
+        },
+        "location": {
+            "x": 490.0,
+            "y": 292.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 56.0
+        },
+        "tag_name": "a",
+        "text": "Batteries"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Batteries",
+    "transformed": true,
+    "width": 56,
+    "x": 490,
+    "y": 292
+}

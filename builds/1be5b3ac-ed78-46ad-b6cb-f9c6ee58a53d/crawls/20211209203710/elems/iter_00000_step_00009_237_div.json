@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "LhY/BEapcUisGxFPpkwiMQ==\n",
+    "height": 26,
+    "hier_level": 0,
+    "human_hash": "div_X1302_Y675_W78_H26",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price__was-price"
+            },
+            "backend_node_id": 18135,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 26.0,
+            "key": "1302_675_78_26_22 \u00a2 Save  04 \u00a2  ( 18 %)",
+            "tagName": "div",
+            "text": "22 \u00a2 Save  04 \u00a2  ( 18 %)",
+            "width": 78.0,
+            "x": 1302.0,
+            "y": 675.0
+        },
+        "location": {
+            "x": 1302.0,
+            "y": 675.0
+        },
+        "size": {
+            "height": 26.0,
+            "width": 78.0
+        },
+        "tag_name": "div",
+        "text": "22 \u00a2 Save  04 \u00a2  ( 18 %)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "22 \u00a2 Save  04 \u00a2  ( 18 %)",
+    "transformed": true,
+    "width": 78,
+    "x": 1302,
+    "y": 675
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "6mAkPal2EbMvDrcLp3uTgQ==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "li_X946_Y689_W125_H23",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchAnchorLinks__list__item"
+            },
+            "backend_node_id": 5869,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "946_689_125_23_Featured  Inspiration",
+            "tagName": "li",
+            "text": "Featured  Inspiration",
+            "width": 125.0,
+            "x": 946.0,
+            "y": 689.0
+        },
+        "location": {
+            "x": 946.0,
+            "y": 689.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 125.0
+        },
+        "tag_name": "li",
+        "text": "Featured  Inspiration"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Featured  Inspiration",
+    "transformed": true,
+    "width": 125,
+    "x": 946,
+    "y": 689
+}

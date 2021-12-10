@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h1",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "BIxMaT769GvQlXZ2Td7pgQ==\n",
+    "height": 35,
+    "hier_level": 0,
+    "human_hash": "h1_X250_Y384_W256_H35",
+    "human_readable": "h1_250_384_256_35_h1_ffffffffffff7e7f7efffffe81000000020089808b0081800000520fffffffff_d05a74902f45215560fa34f480ce4b01",
+    "image_path": "MTA1YzI4OGFhOWI5ZWI5ZjQyODNkYTI0NDVmYzlmN2M.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "results-header__keyword"
+            },
+            "backend_node_id": 21868,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 35.0,
+            "key": "250_384_256_35_Exercise Equipment",
+            "tagName": "h1",
+            "text": "Exercise Equipment",
+            "width": 256.0,
+            "x": 250.0,
+            "y": 384.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 384.0
+        },
+        "size": {
+            "height": 35.0,
+            "width": 256.0
+        },
+        "tag_name": "h1",
+        "text": "Exercise Equipment"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "94621e211f213a16e59766cc1de77bb3",
+    "scrollable": false,
+    "tag_name": "h1",
+    "text": "Exercise Equipment",
+    "transformed": true,
+    "width": 256,
+    "x": 250,
+    "y": 384
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ta9zLdPQ3Xefe54YS9rLBA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "div_X334_Y72_W129_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "MyStore__store"
+            },
+            "backend_node_id": 4643,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "334_72_129_17_Miami (calle Ocho)",
+            "tagName": "div",
+            "text": "Miami (calle Ocho)",
+            "width": 129.0,
+            "x": 334.0,
+            "y": 72.0
+        },
+        "location": {
+            "x": 334.0,
+            "y": 72.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 129.0
+        },
+        "tag_name": "div",
+        "text": "Miami (calle Ocho)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Miami (calle Ocho)",
+    "transformed": true,
+    "width": 129,
+    "x": 334,
+    "y": 72
+}

@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZpVxJ0ugnrG5sc1B9mR/qQ==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "img_X1405_Y784_W25_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "information tooltip",
+                "class": "product-add-on-tooltip-content__label__suffix",
+                "height": "1",
+                "src": "https://assets.homedepot-static.com/images/v1/info.svg",
+                "width": "1"
+            },
+            "backend_node_id": 19212,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "1405_784_25_15_",
+            "tagName": "img",
+            "text": "",
+            "width": 25.0,
+            "x": 1405.0,
+            "y": 784.0
+        },
+        "location": {
+            "x": 1405.0,
+            "y": 784.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 25.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 25,
+    "x": 1405,
+    "y": 784
+}

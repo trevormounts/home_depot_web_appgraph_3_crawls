@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "pHwCeK3cFTvHzdSDaASX9g==\n",
+    "height": 55,
+    "hier_level": 0,
+    "human_hash": "div_X682_Y864_W412_H55",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-info__details__timeDifficulty__duration--wGH8W"
+            },
+            "backend_node_id": 17756,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 55.0,
+            "key": "682_864_412_55_Duration 2-4 hours",
+            "tagName": "div",
+            "text": "Duration 2-4 hours",
+            "width": 412.0,
+            "x": 682.0,
+            "y": 864.0
+        },
+        "location": {
+            "x": 682.0,
+            "y": 864.0
+        },
+        "size": {
+            "height": 55.0,
+            "width": 412.0
+        },
+        "tag_name": "div",
+        "text": "Duration 2-4 hours"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Duration 2-4 hours",
+    "transformed": true,
+    "width": 412,
+    "x": 682,
+    "y": 864
+}

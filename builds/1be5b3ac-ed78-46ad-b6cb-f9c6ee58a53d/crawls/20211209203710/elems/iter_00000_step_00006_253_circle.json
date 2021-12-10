@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "circle",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "380frNUJznmjv0v8sxOfZg==\n",
+    "height": 25,
+    "hier_level": 0,
+    "human_hash": "circle_X1485_Y772_W25_H25",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "cx": "17.5",
+                "cy": "17.5",
+                "fill": "#FFF",
+                "r": "16.739"
+            },
+            "backend_node_id": 14337,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 25.0,
+            "key": "1485_772_25_25_",
+            "tagName": "circle",
+            "text": "",
+            "width": 25.0,
+            "x": 1485.0,
+            "y": 772.0
+        },
+        "location": {
+            "x": 1485.0,
+            "y": 772.0
+        },
+        "size": {
+            "height": 25.0,
+            "width": 25.0
+        },
+        "tag_name": "circle",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "circle",
+    "text": "",
+    "transformed": true,
+    "width": 25,
+    "x": 1485,
+    "y": 772
+}

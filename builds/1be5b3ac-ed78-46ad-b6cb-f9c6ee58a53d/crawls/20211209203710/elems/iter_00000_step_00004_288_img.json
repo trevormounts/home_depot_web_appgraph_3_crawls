@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/F0bmeAWb1Xy1IgP4SX/sA==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "img_X1249_Y872_W328_H42",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "height": "42",
+                "src": "https://az1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_4GyKQFUpqSuKYcZ",
+                "style": "width: 328px; height: 42px;",
+                "width": "328"
+            },
+            "backend_node_id": 12074,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "1249_872_328_42_",
+            "tagName": "img",
+            "text": "",
+            "width": 328.0,
+            "x": 1249.0,
+            "y": 872.0
+        },
+        "location": {
+            "x": 1249.0,
+            "y": 872.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 328.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 328,
+    "x": 1249,
+    "y": 872
+}

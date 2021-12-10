@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "PoDzQNLv2Gliw3yMh83jUw==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "div_X280_Y906_W183_H20",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "checkbox-btn"
+            },
+            "backend_node_id": 26327,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "280_906_183_20_Next-Day Delivery (11)",
+            "tagName": "div",
+            "text": "Next-Day Delivery (11)",
+            "width": 183.0,
+            "x": 280.0,
+            "y": 906.0
+        },
+        "location": {
+            "x": 280.0,
+            "y": 906.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 183.0
+        },
+        "tag_name": "div",
+        "text": "Next-Day Delivery (11)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Next-Day Delivery (11)",
+    "transformed": true,
+    "width": 183,
+    "x": 280,
+    "y": 906
+}

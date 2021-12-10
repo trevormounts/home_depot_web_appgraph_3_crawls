@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "FCx1f47/iqNRv5ao+Z2Qlg==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "img_X690_Y494_W115_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Bronze in Outdoor Flush Mount Lights",
+                "class": "vis-nav__image stretchy",
+                "height": "1",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/catalog/productImages/300/34/3479505d-0db8-4277-a972-28f0d32f0b0c_300.jpg",
+                "title": "Bronze in Outdoor Flush Mount Lights",
+                "width": "1"
+            },
+            "backend_node_id": 24358,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "690_494_115_115_",
+            "tagName": "img",
+            "text": "",
+            "width": 115.0,
+            "x": 690.0,
+            "y": 494.0
+        },
+        "location": {
+            "x": 690.0,
+            "y": 494.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 115.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 115,
+    "x": 690,
+    "y": 494
+}

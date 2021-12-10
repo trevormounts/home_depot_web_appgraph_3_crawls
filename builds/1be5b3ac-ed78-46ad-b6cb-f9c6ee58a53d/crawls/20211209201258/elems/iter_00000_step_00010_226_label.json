@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/IW+8CTCovs2NvRBpEKYgQ==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "label_X270_Y750_W178_H20",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "checkbox-btn__label",
+                "for": "fake-0"
+            },
+            "backend_node_id": 21965,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "270_750_178_20_In Stock at Store Today",
+            "tagName": "label",
+            "text": "In Stock at Store Today",
+            "width": 178.0,
+            "x": 270.0,
+            "y": 750.0
+        },
+        "location": {
+            "x": 270.0,
+            "y": 750.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 178.0
+        },
+        "tag_name": "label",
+        "text": "In Stock at Store Today"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "In Stock at Store Today",
+    "transformed": true,
+    "width": 178,
+    "x": 270,
+    "y": 750
+}

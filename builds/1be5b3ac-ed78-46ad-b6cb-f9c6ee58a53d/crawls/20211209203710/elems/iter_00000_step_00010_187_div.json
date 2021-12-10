@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "x9r5bdbYyQ55IEke/BI7nw==\n",
+    "height": 25,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y295_W812_H25",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-details__review"
+            },
+            "backend_node_id": 21093,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 25.0,
+            "key": "250_295_812_25_( 511 )  Questions & Answers  (18)",
+            "tagName": "div",
+            "text": "( 511 )  Questions & Answers  (18)",
+            "width": 812.0,
+            "x": 250.0,
+            "y": 295.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 295.0
+        },
+        "size": {
+            "height": 25.0,
+            "width": 812.0
+        },
+        "tag_name": "div",
+        "text": "( 511 )  Questions & Answers  (18)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "( 511 )  Questions & Answers  (18)",
+    "transformed": true,
+    "width": 812,
+    "x": 250,
+    "y": 295
+}

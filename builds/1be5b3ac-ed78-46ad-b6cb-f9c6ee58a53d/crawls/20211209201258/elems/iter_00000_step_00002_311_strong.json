@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "strong",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Mvdw72WS5HLfDB1lrqlnog==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "strong_X730_Y275_W143_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 7785,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "730_275_143_17_Home Projects & Ideas",
+            "tagName": "strong",
+            "text": "Home Projects & Ideas",
+            "width": 143.0,
+            "x": 730.0,
+            "y": 275.0
+        },
+        "location": {
+            "x": 730.0,
+            "y": 275.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 143.0
+        },
+        "tag_name": "strong",
+        "text": "Home Projects & Ideas"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "strong",
+    "text": "Home Projects & Ideas",
+    "transformed": true,
+    "width": 143,
+    "x": 730,
+    "y": 275
+}

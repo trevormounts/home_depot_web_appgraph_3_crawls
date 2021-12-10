@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "z5kSQ7DPRM0PD0DIe1B4Ow==\n",
+    "height": 30,
+    "hier_level": 0,
+    "human_hash": "div_X438_Y274_W250_H30",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "DeliveryZipDropDown__info--text"
+            },
+            "backend_node_id": 19199,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 30.0,
+            "key": "438_274_250_30_Your ZIP Code helps us to provide  the most up-to-date  product and delivery information.",
+            "tagName": "div",
+            "text": "Your ZIP Code helps us to provide  the most up-to-date  product and delivery information.",
+            "width": 250.0,
+            "x": 438.0,
+            "y": 274.0
+        },
+        "location": {
+            "x": 438.0,
+            "y": 274.0
+        },
+        "size": {
+            "height": 30.0,
+            "width": 250.0
+        },
+        "tag_name": "div",
+        "text": "Your ZIP Code helps us to provide  the most up-to-date  product and delivery information."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Your ZIP Code helps us to provide  the most up-to-date  product and delivery information.",
+    "transformed": true,
+    "width": 250,
+    "x": 438,
+    "y": 274
+}

@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "3CTN+8dWWfx9UMy6BA48Gw==\n",
+    "height": 88,
+    "hier_level": 0,
+    "human_hash": "img_X254_Y465_W88_H88",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "ryobi-adhesives-tape-p306-e1",
+                "class": "",
+                "height": "88",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/productImages/4afc33ec-6234-4203-abb9-91d28c0ba7a6/svn/ryobi-adhesives-tape-p306-e1_100.jpg",
+                "width": "88"
+            },
+            "backend_node_id": 19168,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 88.0,
+            "key": "254_465_88_88_",
+            "tagName": "img",
+            "text": "",
+            "width": 88.0,
+            "x": 254.0,
+            "y": 465.0
+        },
+        "location": {
+            "x": 254.0,
+            "y": 465.0
+        },
+        "size": {
+            "height": 88.0,
+            "width": 88.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 88,
+    "x": 254,
+    "y": 465
+}

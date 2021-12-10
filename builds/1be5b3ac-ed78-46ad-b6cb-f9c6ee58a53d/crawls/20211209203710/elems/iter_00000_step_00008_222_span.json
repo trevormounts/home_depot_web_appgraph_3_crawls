@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "IFraYXf1x7anz5IvViqzgA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X1264_Y601_W113_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-pod__title__brand--bold"
+            },
+            "backend_node_id": 18114,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1264_601_113_17_The Home Depot",
+            "tagName": "span",
+            "text": "The Home Depot",
+            "width": 113.0,
+            "x": 1264.0,
+            "y": 601.0
+        },
+        "location": {
+            "x": 1264.0,
+            "y": 601.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 113.0
+        },
+        "tag_name": "span",
+        "text": "The Home Depot"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "The Home Depot",
+    "transformed": true,
+    "width": 113,
+    "x": 1264,
+    "y": 601
+}

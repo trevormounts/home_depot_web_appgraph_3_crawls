@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "vn7VCY87KJ+8lQRGv7X0fQ==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "div_X1106_Y519_W140_H48",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fulfillment__head"
+            },
+            "backend_node_id": 21237,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "1106_519_140_48_Store Pickup",
+            "tagName": "div",
+            "text": "Store Pickup",
+            "width": 140.0,
+            "x": 1106.0,
+            "y": 519.0
+        },
+        "location": {
+            "x": 1106.0,
+            "y": 519.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 140.0
+        },
+        "tag_name": "div",
+        "text": "Store Pickup"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Store Pickup",
+    "transformed": true,
+    "width": 140,
+    "x": 1106,
+    "y": 519
+}

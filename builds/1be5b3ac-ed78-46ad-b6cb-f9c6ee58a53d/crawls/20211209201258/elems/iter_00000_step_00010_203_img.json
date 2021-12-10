@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tKVhzc284pg23xOF5Nsj1w==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "img_X1540_Y446_W115_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Shop Savings",
+                "class": "vis-nav__image stretchy",
+                "height": "1",
+                "loading": "lazy",
+                "src": "https://assets.thdstatic.com/images/special-buy--pod.jpg",
+                "title": "Shop Savings",
+                "width": "1"
+            },
+            "backend_node_id": 20110,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "1540_446_115_115_",
+            "tagName": "img",
+            "text": "",
+            "width": 115.0,
+            "x": 1540.0,
+            "y": 446.0
+        },
+        "location": {
+            "x": 1540.0,
+            "y": 446.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 115.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 115,
+    "x": 1540,
+    "y": 446
+}

@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "fDh0DexJ72RdIeWMOMfBeg==\n",
+    "height": 50,
+    "hier_level": 0,
+    "human_hash": "img_X254_Y590_W88_H50",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "6257679698001",
+                "class": "",
+                "height": "50",
+                "loading": "lazy",
+                "src": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/47595201-8165-4385-8b2e-38d35d1a884c/d0fad39e-2a4e-49d9-8795-db3af2030bd3/88x50/match/image.jpg",
+                "width": "88"
+            },
+            "backend_node_id": 19177,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 50.0,
+            "key": "254_590_88_50_",
+            "tagName": "img",
+            "text": "",
+            "width": 88.0,
+            "x": 254.0,
+            "y": 590.0
+        },
+        "location": {
+            "x": 254.0,
+            "y": 590.0
+        },
+        "size": {
+            "height": 50.0,
+            "width": 88.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 88,
+    "x": 254,
+    "y": 590
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "R5PC31ZCkzPjX08y6mMsWA==\n",
+    "height": 14,
+    "hier_level": 0,
+    "human_hash": "span_X335_Y301_W24_H14",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-details__review-count"
+            },
+            "backend_node_id": 21098,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 14.0,
+            "key": "335_301_24_14_( 511 )",
+            "tagName": "span",
+            "text": "( 511 )",
+            "width": 24.0,
+            "x": 335.0,
+            "y": 301.0
+        },
+        "location": {
+            "x": 335.0,
+            "y": 301.0
+        },
+        "size": {
+            "height": 14.0,
+            "width": 24.0
+        },
+        "tag_name": "span",
+        "text": "( 511 )"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "( 511 )",
+    "transformed": true,
+    "width": 24,
+    "x": 335,
+    "y": 301
+}

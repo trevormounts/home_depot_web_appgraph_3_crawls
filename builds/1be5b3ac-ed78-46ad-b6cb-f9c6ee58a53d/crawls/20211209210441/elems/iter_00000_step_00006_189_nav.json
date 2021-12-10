@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "nav",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "u33BNXNUvykLWs3rhPyWBQ==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "nav_X260_Y854_W200_H32",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "customNav__container"
+            },
+            "backend_node_id": 17146,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "260_854_200_32_Shop All Lighting",
+            "tagName": "nav",
+            "text": "Shop All Lighting",
+            "width": 200.0,
+            "x": 260.0,
+            "y": 854.0
+        },
+        "location": {
+            "x": 260.0,
+            "y": 854.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 200.0
+        },
+        "tag_name": "nav",
+        "text": "Shop All Lighting"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "nav",
+    "text": "Shop All Lighting",
+    "transformed": true,
+    "width": 200,
+    "x": 260,
+    "y": 854
+}

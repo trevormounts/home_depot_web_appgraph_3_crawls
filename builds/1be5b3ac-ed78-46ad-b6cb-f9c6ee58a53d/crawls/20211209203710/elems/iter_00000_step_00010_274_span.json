@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "aibG5vlws9PsC4iHqkfZ7w==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X1190_Y649_W132_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__bold"
+            },
+            "backend_node_id": 21283,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1190_649_132_17_Miami (calle Ocho)",
+            "tagName": "span",
+            "text": "Miami (calle Ocho)",
+            "width": 132.0,
+            "x": 1190.0,
+            "y": 649.0
+        },
+        "location": {
+            "x": 1190.0,
+            "y": 649.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 132.0
+        },
+        "tag_name": "span",
+        "text": "Miami (calle Ocho)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Miami (calle Ocho)",
+    "transformed": true,
+    "width": 132,
+    "x": 1190,
+    "y": 649
+}

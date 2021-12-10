@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "k8hByedw1MgKw6oI8o3K+g==\n",
+    "height": 137,
+    "hier_level": 0,
+    "human_hash": "a_X1322_Y494_W125_H137",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "vis-nav__link",
+                "href": "/b/Lighting-Outdoor-Lighting-Outdoor-Ceiling-Lights/Dusk-to-Dawn/N-5yc1vZc7r5Z1z0u5o6",
+                "title": "Dusk to Dawn"
+            },
+            "backend_node_id": 26242,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 137.0,
+            "key": "1322_494_125_137_Dusk to Dawn",
+            "tagName": "a",
+            "text": "Dusk to Dawn",
+            "width": 125.0,
+            "x": 1322.0,
+            "y": 494.0
+        },
+        "location": {
+            "x": 1322.0,
+            "y": 494.0
+        },
+        "size": {
+            "height": 137.0,
+            "width": 125.0
+        },
+        "tag_name": "a",
+        "text": "Dusk to Dawn"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Dusk to Dawn",
+    "transformed": true,
+    "width": 125,
+    "x": 1322,
+    "y": 494
+}

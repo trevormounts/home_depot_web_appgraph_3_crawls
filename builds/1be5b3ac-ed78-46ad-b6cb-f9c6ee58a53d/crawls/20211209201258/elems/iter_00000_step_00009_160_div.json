@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "32CHCx5LO9NyFAqDXkes+Q==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y171_W1430_H42",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-breadcrumbs col__12-12 col__12-12--xs col__12-12--sm col__12-12--md col__12-12--lg"
+            },
+            "backend_node_id": 18857,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "250_171_1430_42_Home DIY Projects & Ideas Trending Featured",
+            "tagName": "div",
+            "text": "Home DIY Projects & Ideas Trending Featured",
+            "width": 1430.0,
+            "x": 250.0,
+            "y": 171.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 171.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 1430.0
+        },
+        "tag_name": "div",
+        "text": "Home DIY Projects & Ideas Trending Featured"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Home DIY Projects & Ideas Trending Featured",
+    "transformed": true,
+    "width": 1430,
+    "x": 250,
+    "y": 171
+}

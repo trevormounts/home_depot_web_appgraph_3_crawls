@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "xZ7oNiq2xTwIXbfODN+XhQ==\n",
+    "height": 451,
+    "hier_level": 0,
+    "human_hash": "div_X507_Y448_W371_H451",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__article-listing__items__item--alp"
+            },
+            "backend_node_id": 14254,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 451.0,
+            "key": "507_448_371_451_Project Guide How to Make Fall Leaf Crafts for Kids   Difficulty Beginner Time 2-4 hours  As the leaves start to change and the weather gets crisp, it\u2019s only fair to want to bring a bit of autumn inside. These easy fall craft ideas for kids call for just a few items like leaves gathered from outside, paint and paper plates. This guide will show you how to bring the beauty of fall indoors while creating artwork that can double as seasonal artwork for the fridge or the mantel.",
+            "tagName": "div",
+            "text": "Project Guide How to Make Fall Leaf Crafts for Kids   Difficulty Beginner Time 2-4 hours  As the leaves start to change and the weather gets crisp, it\u2019s only fair to want to bring a bit of autumn inside. These easy fall craft ideas for kids call for just a few items like leaves gathered from outside, paint and paper plates. This guide will show you how to bring the beauty of fall indoors while creating artwork that can double as seasonal artwork for the fridge or the mantel.",
+            "width": 371.0,
+            "x": 507.0,
+            "y": 448.0
+        },
+        "location": {
+            "x": 507.0,
+            "y": 448.0
+        },
+        "size": {
+            "height": 451.0,
+            "width": 371.0
+        },
+        "tag_name": "div",
+        "text": "Project Guide How to Make Fall Leaf Crafts for Kids   Difficulty Beginner Time 2-4 hours  As the leaves start to change and the weather gets crisp, it\u2019s only fair to want to bring a bit of autumn inside. These easy fall craft ideas for kids call for just a few items like leaves gathered from outside, paint and paper plates. This guide will show you how to bring the beauty of fall indoors while creating artwork that can double as seasonal artwork for the fridge or the mantel."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Project Guide How to Make Fall Leaf Crafts for Kids   Difficulty Beginner Time 2-4 hours  As the leaves start to change and the weather gets crisp, it\u2019s only fair to want to bring a bit of autumn inside. These easy fall craft ideas for kids call for just a few items like leaves gathered from outside, paint and paper plates. This guide will show you how to bring the beauty of fall indoors while creating artwork that can double as seasonal artwork for the fridge or the mantel.",
+    "transformed": true,
+    "width": 371,
+    "x": 507,
+    "y": 448
+}

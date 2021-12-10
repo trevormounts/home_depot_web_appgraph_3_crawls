@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "8kcZY6WSV9cbF1Q7+I3y6g==\n",
+    "height": 87,
+    "hier_level": 0,
+    "human_hash": "a_X908_Y677_W351_H87",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__header__quick-guide-links-container__quick-guide-card-link",
+                "href": "/c/ai/3-diy-christmas-ornament-ideas-/9ba683603be9fa5395fab901f9753495"
+            },
+            "backend_node_id": 14302,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 87.0,
+            "key": "908_677_351_87_Inspiration Guide 3 DIY Christmas Ornament Ideas",
+            "tagName": "a",
+            "text": "Inspiration Guide 3 DIY Christmas Ornament Ideas",
+            "width": 351.0,
+            "x": 908.0,
+            "y": 677.0
+        },
+        "location": {
+            "x": 908.0,
+            "y": 677.0
+        },
+        "size": {
+            "height": 87.0,
+            "width": 351.0
+        },
+        "tag_name": "a",
+        "text": "Inspiration Guide 3 DIY Christmas Ornament Ideas"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Inspiration Guide 3 DIY Christmas Ornament Ideas",
+    "transformed": true,
+    "width": 351,
+    "x": 908,
+    "y": 677
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "PqjkFSQnm8c4CdcjuvRT/g==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "div_X1167_Y833_W328_H20",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-add-ons-pod__content__group-wrapper__radio"
+            },
+            "backend_node_id": 21313,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "1167_833_328_20_2 Year /  $3.00",
+            "tagName": "div",
+            "text": "2 Year /  $3.00",
+            "width": 328.0,
+            "x": 1167.0,
+            "y": 833.0
+        },
+        "location": {
+            "x": 1167.0,
+            "y": 833.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 328.0
+        },
+        "tag_name": "div",
+        "text": "2 Year /  $3.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "2 Year /  $3.00",
+    "transformed": true,
+    "width": 328,
+    "x": 1167,
+    "y": 833
+}
