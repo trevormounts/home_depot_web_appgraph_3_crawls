@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "EpWUmZK4GZ0oBPVDJhYCnw==\n",
+    "height": 471,
+    "hier_level": 0,
+    "human_hash": "div_X1279_Y438_W391_H471",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col__12-12 col__6-12--xs col__4-12--sm col__4-12--md col__4-12--lg"
+            },
+            "backend_node_id": 14311,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 471.0,
+            "key": "1279_438_391_471_Project Guide How to Build a DIY Toy Box  Difficulty Intermediate Time 2-4 hours  This guide will show you how to build a slat-style toy box that can be adapted to all kinds of storage around your home. Substitute treated wood and exterior fasteners and it\u2019s a deck box. Make it without the lid for a planter. Use a different paint scheme and it fits into the mud room.",
+            "tagName": "div",
+            "text": "Project Guide How to Build a DIY Toy Box  Difficulty Intermediate Time 2-4 hours  This guide will show you how to build a slat-style toy box that can be adapted to all kinds of storage around your home. Substitute treated wood and exterior fasteners and it\u2019s a deck box. Make it without the lid for a planter. Use a different paint scheme and it fits into the mud room.",
+            "width": 391.0,
+            "x": 1279.0,
+            "y": 438.0
+        },
+        "location": {
+            "x": 1279.0,
+            "y": 438.0
+        },
+        "size": {
+            "height": 471.0,
+            "width": 391.0
+        },
+        "tag_name": "div",
+        "text": "Project Guide How to Build a DIY Toy Box  Difficulty Intermediate Time 2-4 hours  This guide will show you how to build a slat-style toy box that can be adapted to all kinds of storage around your home. Substitute treated wood and exterior fasteners and it\u2019s a deck box. Make it without the lid for a planter. Use a different paint scheme and it fits into the mud room."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Project Guide How to Build a DIY Toy Box  Difficulty Intermediate Time 2-4 hours  This guide will show you how to build a slat-style toy box that can be adapted to all kinds of storage around your home. Substitute treated wood and exterior fasteners and it\u2019s a deck box. Make it without the lid for a planter. Use a different paint scheme and it fits into the mud room.",
+    "transformed": true,
+    "width": 391,
+    "x": 1279,
+    "y": 438
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "KMITc0ougpi9b9G5Z/iyow==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y249_W812_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-details__brand-collection"
+            },
+            "backend_node_id": 21075,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "250_249_812_17_RYOBI",
+            "tagName": "div",
+            "text": "RYOBI",
+            "width": 812.0,
+            "x": 250.0,
+            "y": 249.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 249.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 812.0
+        },
+        "tag_name": "div",
+        "text": "RYOBI"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "RYOBI",
+    "transformed": true,
+    "width": 812,
+    "x": 250,
+    "y": 249
+}

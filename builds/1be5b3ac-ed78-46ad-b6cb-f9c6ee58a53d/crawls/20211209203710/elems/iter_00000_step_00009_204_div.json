@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "LATin9KjflZzHlPVbpm+qg==\n",
+    "height": 52,
+    "hier_level": 0,
+    "human_hash": "div_X1264_Y438_W273_H52",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price__wrapper"
+            },
+            "backend_node_id": 18062,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 52.0,
+            "key": "1264_438_273_52_$ 19 97 $ 24 . 97  Save  $ 5 . 00  ( 20 %) Limit  3  per order",
+            "tagName": "div",
+            "text": "$ 19 97 $ 24 . 97  Save  $ 5 . 00  ( 20 %) Limit  3  per order",
+            "width": 273.0,
+            "x": 1264.0,
+            "y": 438.0
+        },
+        "location": {
+            "x": 1264.0,
+            "y": 438.0
+        },
+        "size": {
+            "height": 52.0,
+            "width": 273.0
+        },
+        "tag_name": "div",
+        "text": "$ 19 97 $ 24 . 97  Save  $ 5 . 00  ( 20 %) Limit  3  per order"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "$ 19 97 $ 24 . 97  Save  $ 5 . 00  ( 20 %) Limit  3  per order",
+    "transformed": true,
+    "width": 273,
+    "x": 1264,
+    "y": 438
+}

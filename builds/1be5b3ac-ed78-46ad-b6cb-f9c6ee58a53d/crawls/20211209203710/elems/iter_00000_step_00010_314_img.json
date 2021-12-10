@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "gDO9rZb20ZRMZ67nUMuDSA==\n",
+    "height": 25,
+    "hier_level": 0,
+    "human_hash": "img_X388_Y276_W37_H25",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "truck delivery zip drop down",
+                "class": "DeliveryZipDropDown__icn--truck",
+                "src": "https://assets.thdstatic.com/images/v1/truck-icon-orange.svg"
+            },
+            "backend_node_id": 19201,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 25.0,
+            "key": "388_276_37_25_",
+            "tagName": "img",
+            "text": "",
+            "width": 37.0,
+            "x": 388.0,
+            "y": 276.0
+        },
+        "location": {
+            "x": 388.0,
+            "y": 276.0
+        },
+        "size": {
+            "height": 25.0,
+            "width": 37.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 37,
+    "x": 388,
+    "y": 276
+}

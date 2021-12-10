@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "oVO0l+h5ti2tA52JQ6yqgQ==\n",
+    "height": 37,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y218_W293_H37",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "section-heading__title"
+            },
+            "backend_node_id": 5849,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 37.0,
+            "key": "250_218_293_37_DIY Projects and Ideas",
+            "tagName": "div",
+            "text": "DIY Projects and Ideas",
+            "width": 293.0,
+            "x": 250.0,
+            "y": 218.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 218.0
+        },
+        "size": {
+            "height": 37.0,
+            "width": 293.0
+        },
+        "tag_name": "div",
+        "text": "DIY Projects and Ideas"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "DIY Projects and Ideas",
+    "transformed": true,
+    "width": 293,
+    "x": 250,
+    "y": 218
+}

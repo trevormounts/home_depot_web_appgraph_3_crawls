@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "on8nuX/XwT3yOmPSmnUoGQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X1140_Y706_W359_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 19187,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1140_706_359_17_This item may not be available for pickup until  tomorrow.",
+            "tagName": "span",
+            "text": "This item may not be available for pickup until  tomorrow.",
+            "width": 359.0,
+            "x": 1140.0,
+            "y": 706.0
+        },
+        "location": {
+            "x": 1140.0,
+            "y": 706.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 359.0
+        },
+        "tag_name": "span",
+        "text": "This item may not be available for pickup until  tomorrow."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "This item may not be available for pickup until  tomorrow.",
+    "transformed": true,
+    "width": 359,
+    "x": 1140,
+    "y": 706
+}

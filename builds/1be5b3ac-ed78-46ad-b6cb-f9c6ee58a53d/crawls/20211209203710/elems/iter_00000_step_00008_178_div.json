@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "GJLmpqO2S3+S57D0AD1g3A==\n",
+    "height": 34,
+    "hier_level": 0,
+    "human_hash": "div_X354_Y874_W56_H34",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-testid": "difficulty"
+            },
+            "backend_node_id": 17750,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 34.0,
+            "key": "354_874_56_34_Difficulty Beginner",
+            "tagName": "div",
+            "text": "Difficulty Beginner",
+            "width": 56.0,
+            "x": 354.0,
+            "y": 874.0
+        },
+        "location": {
+            "x": 354.0,
+            "y": 874.0
+        },
+        "size": {
+            "height": 34.0,
+            "width": 56.0
+        },
+        "tag_name": "div",
+        "text": "Difficulty Beginner"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Difficulty Beginner",
+    "transformed": true,
+    "width": 56,
+    "x": 354,
+    "y": 874
+}

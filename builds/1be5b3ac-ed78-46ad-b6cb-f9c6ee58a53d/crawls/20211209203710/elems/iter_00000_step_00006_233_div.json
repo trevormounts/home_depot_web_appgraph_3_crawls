@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+eQqL981J85qfY7lS+yBlg==\n",
+    "height": 471,
+    "hier_level": 0,
+    "human_hash": "div_X888_Y438_W391_H471",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col__12-12 col__6-12--xs col__4-12--sm col__4-12--md col__4-12--lg"
+            },
+            "backend_node_id": 14294,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 471.0,
+            "key": "888_438_391_471_Inspiration Guide 3 DIY Christmas Ornament Ideas   Save a little room on the tree for the charm of a homemade ornament \u2013 especially one that you can make with your family. From popsicle stick star ornaments to salt dough ornaments, these DIY Christmas ornaments will make your tree feel extra special this holiday season. This guide will show you how to create three different kinds of DIY Christmas ornaments that are sure to make your tree all the more personal this year.",
+            "tagName": "div",
+            "text": "Inspiration Guide 3 DIY Christmas Ornament Ideas   Save a little room on the tree for the charm of a homemade ornament \u2013 especially one that you can make with your family. From popsicle stick star ornaments to salt dough ornaments, these DIY Christmas ornaments will make your tree feel extra special this holiday season. This guide will show you how to create three different kinds of DIY Christmas ornaments that are sure to make your tree all the more personal this year.",
+            "width": 391.0,
+            "x": 888.0,
+            "y": 438.0
+        },
+        "location": {
+            "x": 888.0,
+            "y": 438.0
+        },
+        "size": {
+            "height": 471.0,
+            "width": 391.0
+        },
+        "tag_name": "div",
+        "text": "Inspiration Guide 3 DIY Christmas Ornament Ideas   Save a little room on the tree for the charm of a homemade ornament \u2013 especially one that you can make with your family. From popsicle stick star ornaments to salt dough ornaments, these DIY Christmas ornaments will make your tree feel extra special this holiday season. This guide will show you how to create three different kinds of DIY Christmas ornaments that are sure to make your tree all the more personal this year."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Inspiration Guide 3 DIY Christmas Ornament Ideas   Save a little room on the tree for the charm of a homemade ornament \u2013 especially one that you can make with your family. From popsicle stick star ornaments to salt dough ornaments, these DIY Christmas ornaments will make your tree feel extra special this holiday season. This guide will show you how to create three different kinds of DIY Christmas ornaments that are sure to make your tree all the more personal this year.",
+    "transformed": true,
+    "width": 391,
+    "x": 888,
+    "y": 438
+}

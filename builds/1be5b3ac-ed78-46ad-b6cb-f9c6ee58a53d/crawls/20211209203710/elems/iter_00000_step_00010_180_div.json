@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "aQYzs3Q2sbEKESJF+c2HKg==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y266_W690_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-details__badge-title--wrapper"
+            },
+            "backend_node_id": 21082,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "250_266_690_24_ONE+ 18V Cordless Compact Glue Gun (Tool Only)",
+            "tagName": "div",
+            "text": "ONE+ 18V Cordless Compact Glue Gun (Tool Only)",
+            "width": 690.0,
+            "x": 250.0,
+            "y": 266.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 266.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 690.0
+        },
+        "tag_name": "div",
+        "text": "ONE+ 18V Cordless Compact Glue Gun (Tool Only)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "ONE+ 18V Cordless Compact Glue Gun (Tool Only)",
+    "transformed": true,
+    "width": 690,
+    "x": 250,
+    "y": 266
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "3u0cJm2itB/4/Y1X21Wgqg==\n",
+    "height": 400,
+    "hier_level": 0,
+    "human_hash": "img_X260_Y211_W1440_H400",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "\"RENOVATING. REFRESHING. REBUILDING. 50,000+ veteran homes & facilities positively impacted LEARN MORE>\"",
+                "class": "stretchy",
+                "src": "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/20211202-Foundation-2.jpg",
+                "title": "hero4"
+            },
+            "backend_node_id": 1880,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 400.0,
+            "key": "260_211_1440_400_",
+            "tagName": "img",
+            "text": "",
+            "width": 1440.0,
+            "x": 260.0,
+            "y": 211.0
+        },
+        "location": {
+            "x": 260.0,
+            "y": 211.0
+        },
+        "size": {
+            "height": 400.0,
+            "width": 1440.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 1440,
+    "x": 260,
+    "y": 211
+}

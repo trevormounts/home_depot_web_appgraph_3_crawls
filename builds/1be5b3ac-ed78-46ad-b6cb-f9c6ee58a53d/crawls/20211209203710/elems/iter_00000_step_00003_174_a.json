@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "DUlp1xynv04fqSm0fXin7Q==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X766_Y689_W160_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchAnchorLinks__list__item__link",
+                "href": "#outdoorguides"
+            },
+            "backend_node_id": 5867,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "766_689_160_17_Featured Outdoor Guides",
+            "tagName": "a",
+            "text": "Featured Outdoor Guides",
+            "width": 160.0,
+            "x": 766.0,
+            "y": 689.0
+        },
+        "location": {
+            "x": 766.0,
+            "y": 689.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 160.0
+        },
+        "tag_name": "a",
+        "text": "Featured Outdoor Guides"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Featured Outdoor Guides",
+    "transformed": true,
+    "width": 160,
+    "x": 766,
+    "y": 689
+}

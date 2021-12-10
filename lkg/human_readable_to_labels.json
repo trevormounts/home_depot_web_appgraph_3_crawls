@@ -9,14 +9,29 @@
         "a_250_428_60_17_a_ffffffffffffbfff06bf52bf4208620002090200420242100200bfffffffffff_c435e88db266bf91be849ea636418627": [
             "lnk_gift_ideas"
         ],
+        "a_260_887_69_21_a_ffffffffffffffff395f395f410041004100410001000100b788ffffffffffff_38f5c54110e162c24a40cb782d256afa": [
+            "lnk_craft_ideas"
+        ],
+        "a_470_318_200_21_a_ffffffffffffffffe227e007e007e007e007e007e007f007fdfffdffffffffff_bb7c52f5f92a35b93c82a51d30160d9b": [
+            "tab_holiday_crafts"
+        ],
+        "a_517_677_351_146_a_0fff0ffff9170003feffffffffffffffffffffff870f271f0787c7c7ffffffff_bda01e17a08b13ee60ecce8cea7c009a": [
+            "lnk_fall_leaf_crafts"
+        ],
         "a_517_699_351_87_a_dfff0fff0fffffff1b9700010001ffffffffffffffffffffffffffffffffffff_c8a7c553ddc51aa6fdb121d3a7d3a172": [
             "lnk_best_excercise_equipment"
         ],
         "a_715_544_296_17_a_ffffffffffffffff000011801190100010001000119030000000ffffffffffff_8de59af1935870370c69df3435fca279": [
             "lnk_shop_all_exercise_equipment"
         ],
+        "a_720_124_128_47_a_ffffffffffffffffffffffff07cf000000000000fdffffffffffffffffffffff_6aae75e030d12dede551ddc1f6c2051e": [
+            "ddm_diy_projects_ideas"
+        ],
         "h1_250_384_256_35_h1_ffffffffffff7e7f7efffffe81000000020089808b0081800000520fffffffff_d05a74902f45215560fa34f480ce4b01": [
             "ttl_exercise_equipment"
+        ],
+        "img_1154_369_90_90_img_ffffffffffdffc0ff81ff81ffe1fff1ff03ff03ff81ff81ff83ffcffffffffff_9d4568c009d203ab10e33ea9953a0264": [
+            "img_ryobi_glue_gun"
         ]
     },
     "screens": {}

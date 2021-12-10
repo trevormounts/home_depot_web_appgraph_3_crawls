@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "u+Lr5PErtn18uK1e7Uw0nQ==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "span_X250_Y300_W109_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-details__BVRR-rating-normal-image",
+                "id": "product-details__review__target"
+            },
+            "backend_node_id": 21095,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "250_300_109_15_( 511 )",
+            "tagName": "span",
+            "text": "( 511 )",
+            "width": 109.0,
+            "x": 250.0,
+            "y": 300.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 300.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 109.0
+        },
+        "tag_name": "span",
+        "text": "( 511 )"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "( 511 )",
+    "transformed": true,
+    "width": 109,
+    "x": 250,
+    "y": 300
+}

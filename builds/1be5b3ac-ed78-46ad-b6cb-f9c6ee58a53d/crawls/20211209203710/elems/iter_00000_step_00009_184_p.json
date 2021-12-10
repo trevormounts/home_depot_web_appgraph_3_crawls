@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "OMUKEQ/6w/KG3Vpn7OAJzw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "p_X742_Y874_W60_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 17762,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "742_874_60_17_Duration",
+            "tagName": "p",
+            "text": "Duration",
+            "width": 60.0,
+            "x": 742.0,
+            "y": 874.0
+        },
+        "location": {
+            "x": 742.0,
+            "y": 874.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 60.0
+        },
+        "tag_name": "p",
+        "text": "Duration"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Duration",
+    "transformed": true,
+    "width": 60,
+    "x": 742,
+    "y": 874
+}

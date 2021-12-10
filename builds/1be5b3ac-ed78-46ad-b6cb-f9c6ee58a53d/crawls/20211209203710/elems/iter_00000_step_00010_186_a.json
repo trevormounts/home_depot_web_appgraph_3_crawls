@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/PrbswnFIGDwE7VUgvYtbQ==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "a_X250_Y300_W126_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-expanded": "false",
+                "class": "product-details__rating-container",
+                "href": "#product-section-rr",
+                "title": "4.7 out of 5"
+            },
+            "backend_node_id": 21094,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "250_300_126_15_( 511 )",
+            "tagName": "a",
+            "text": "( 511 )",
+            "width": 126.0,
+            "x": 250.0,
+            "y": 300.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 300.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 126.0
+        },
+        "tag_name": "a",
+        "text": "( 511 )"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "( 511 )",
+    "transformed": true,
+    "width": 126,
+    "x": 250,
+    "y": 300
+}

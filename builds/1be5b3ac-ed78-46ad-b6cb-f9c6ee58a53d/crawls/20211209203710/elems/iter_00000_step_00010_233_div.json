@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "suCSqbki68agsr3rTf2Jug==\n",
+    "height": 293,
+    "hier_level": 0,
+    "human_hash": "div_X1092_Y461_W588_H293",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "buybox__card"
+            },
+            "backend_node_id": 21219,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 293.0,
+            "key": "1092_461_588_293_How to Get It Delivering to:  33135  |  Change   Store Pickup Available FREE  Ship to Home Get it by Tue, Dec 14 FREE  Scheduled Delivery As soon as tomorrow Starting at  $ 8.99 27  in stock at  Miami (calle Ocho)  Check Nearby Stores This item may not be available for pickup until  tomorrow.",
+            "tagName": "div",
+            "text": "How to Get It Delivering to:  33135  |  Change   Store Pickup Available FREE  Ship to Home Get it by Tue, Dec 14 FREE  Scheduled Delivery As soon as tomorrow Starting at  $ 8.99 27  in stock at  Miami (calle Ocho)  Check Nearby Stores This item may not be available for pickup until  tomorrow.",
+            "width": 588.0,
+            "x": 1092.0,
+            "y": 461.0
+        },
+        "location": {
+            "x": 1092.0,
+            "y": 461.0
+        },
+        "size": {
+            "height": 293.0,
+            "width": 588.0
+        },
+        "tag_name": "div",
+        "text": "How to Get It Delivering to:  33135  |  Change   Store Pickup Available FREE  Ship to Home Get it by Tue, Dec 14 FREE  Scheduled Delivery As soon as tomorrow Starting at  $ 8.99 27  in stock at  Miami (calle Ocho)  Check Nearby Stores This item may not be available for pickup until  tomorrow."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "How to Get It Delivering to:  33135  |  Change   Store Pickup Available FREE  Ship to Home Get it by Tue, Dec 14 FREE  Scheduled Delivery As soon as tomorrow Starting at  $ 8.99 27  in stock at  Miami (calle Ocho)  Check Nearby Stores This item may not be available for pickup until  tomorrow.",
+    "transformed": true,
+    "width": 588,
+    "x": 1092,
+    "y": 461
+}

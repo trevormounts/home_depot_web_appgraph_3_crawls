@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "WIAStVWQUr8XWjM3kRVGjw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "div_X1102_Y649_W457_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 21278,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1102_649_457_17_27  in stock at  Miami (calle Ocho)",
+            "tagName": "div",
+            "text": "27  in stock at  Miami (calle Ocho)",
+            "width": 457.0,
+            "x": 1102.0,
+            "y": 649.0
+        },
+        "location": {
+            "x": 1102.0,
+            "y": 649.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 457.0
+        },
+        "tag_name": "div",
+        "text": "27  in stock at  Miami (calle Ocho)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "27  in stock at  Miami (calle Ocho)",
+    "transformed": true,
+    "width": 457,
+    "x": 1102,
+    "y": 649
+}

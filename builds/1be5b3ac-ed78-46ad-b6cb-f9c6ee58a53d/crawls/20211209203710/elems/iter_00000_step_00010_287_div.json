@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jz6NdwJ/88pWWR+jpqdgbw==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "div_X1167_Y779_W328_H22",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-add-ons-pod__content__main"
+            },
+            "backend_node_id": 21302,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "1167_779_328_22_Protect This Item Learn more",
+            "tagName": "div",
+            "text": "Protect This Item Learn more",
+            "width": 328.0,
+            "x": 1167.0,
+            "y": 779.0
+        },
+        "location": {
+            "x": 1167.0,
+            "y": 779.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 328.0
+        },
+        "tag_name": "div",
+        "text": "Protect This Item Learn more"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Protect This Item Learn more",
+    "transformed": true,
+    "width": 328,
+    "x": 1167,
+    "y": 779
+}

@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "TByLiQYGCI8ihhlt0texVg==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "a_X1554_Y82_W116_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "MyCart",
+                "href": "//www.homedepot.com/mycart/home",
+                "id": "headerCart"
+            },
+            "backend_node_id": 5036,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1554_82_116_24_Cart 0 items",
+            "tagName": "a",
+            "text": "Cart 0 items",
+            "width": 116.0,
+            "x": 1554.0,
+            "y": 82.0
+        },
+        "location": {
+            "x": 1554.0,
+            "y": 82.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 116.0
+        },
+        "tag_name": "a",
+        "text": "Cart 0 items"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Cart 0 items",
+    "transformed": true,
+    "width": 116,
+    "x": 1554,
+    "y": 82
+}

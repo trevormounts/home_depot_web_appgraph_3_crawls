@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "mwwpLX11mUvI57I5POQvxQ==\n",
+    "height": 394,
+    "hier_level": 0,
+    "human_hash": "img_X250_Y275_W1420_H394",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "DIY HOLIDAY FUN  FOR ALL Step-By-Step How-To  Guides & Inspiration",
+                "class": "img--block stretchy stretchy",
+                "height": "400",
+                "loading": "lazy",
+                "src": "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/diy-2021q4-hero-dskf.png",
+                "title": "",
+                "width": "1440"
+            },
+            "backend_node_id": 4127,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 394.0,
+            "key": "250_275_1420_394_",
+            "tagName": "img",
+            "text": "",
+            "width": 1420.0,
+            "x": 250.0,
+            "y": 275.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 275.0
+        },
+        "size": {
+            "height": 394.0,
+            "width": 1420.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 1420,
+    "x": 250,
+    "y": 275
+}

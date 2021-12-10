@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "nav",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "TOIR5vryfRvGf1C6CtO2jg==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "nav_X260_Y742_W200_H22",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "customNav__container"
+            },
+            "backend_node_id": 5885,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "260_742_200_22_Activites for Kids",
+            "tagName": "nav",
+            "text": "Activites for Kids",
+            "width": 200.0,
+            "x": 260.0,
+            "y": 742.0
+        },
+        "location": {
+            "x": 260.0,
+            "y": 742.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 200.0
+        },
+        "tag_name": "nav",
+        "text": "Activites for Kids"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "nav",
+    "text": "Activites for Kids",
+    "transformed": true,
+    "width": 200,
+    "x": 260,
+    "y": 742
+}

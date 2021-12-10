@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "TE533hgd64loMVnEDaBA7Q==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "label_X1167_Y868_W328_H20",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "radio-btn__label--1GLGD",
+                "for": "hdpp-decline__checkbox"
+            },
+            "backend_node_id": 21325,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "1167_868_328_20_No thanks",
+            "tagName": "label",
+            "text": "No thanks",
+            "width": 328.0,
+            "x": 1167.0,
+            "y": 868.0
+        },
+        "location": {
+            "x": 1167.0,
+            "y": 868.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 328.0
+        },
+        "tag_name": "label",
+        "text": "No thanks"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "No thanks",
+    "transformed": true,
+    "width": 328,
+    "x": 1167,
+    "y": 868
+}

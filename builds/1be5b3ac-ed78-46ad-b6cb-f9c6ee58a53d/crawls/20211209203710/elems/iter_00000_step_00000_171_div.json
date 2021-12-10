@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "v7b6HaonJnUq7z3ZEFke+w==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y661_W1420_H20",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchRecommendations etch-analytics  certona-content \n   col__12-12",
+                "data-module-id": "Recommendations_thd_1993",
+                "data-showmore": "",
+                "id": "hp_sponsored__banner"
+            },
+            "backend_node_id": 1987,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "250_661_1420_20_",
+            "tagName": "div",
+            "text": "",
+            "width": 1420.0,
+            "x": 250.0,
+            "y": 661.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 661.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 1420.0
+        },
+        "tag_name": "div",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "",
+    "transformed": true,
+    "width": 1420,
+    "x": 250,
+    "y": 661
+}

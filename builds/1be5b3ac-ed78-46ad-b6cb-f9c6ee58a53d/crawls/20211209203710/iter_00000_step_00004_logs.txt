@@ -1,0 +1,1 @@
+[{'level': 'WARNING', 'message': "https://www.homedepot.com/c/alp/craft-ideas/1cd8 68 'webkitRequestAnimationFrame' is vendor-specific. Please use the standard 'requestAnimationFrame' instead.", 'timestamp': 1639100828401}]

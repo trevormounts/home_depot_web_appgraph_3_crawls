@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "3W0GHRMzxsCatGWV1rq4SA==\n",
+    "height": 21,
+    "hier_level": 0,
+    "human_hash": "a_X470_Y318_W200_H21",
+    "human_readable": "a_470_318_200_21_a_ffffffffffffffffe227e007e007e007e007e007e007f007fdfffdffffffffff_bb7c52f5f92a35b93c82a51d30160d9b",
+    "image_path": "OTk5NDgzMzY1Y2I0MWVmMTJmNGZiZDRjNjI0ZjEwMDE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-listing-link--3d28H",
+                "href": "/c/alp/craft-ideas-holiday-crafts/1cd8-y1os"
+            },
+            "backend_node_id": 9432,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 21.0,
+            "key": "470_318_200_21_Holiday Crafts  ( 32 )",
+            "tagName": "a",
+            "text": "Holiday Crafts  ( 32 )",
+            "width": 200.0,
+            "x": 470.0,
+            "y": 318.0
+        },
+        "location": {
+            "x": 470.0,
+            "y": 318.0
+        },
+        "size": {
+            "height": 21.0,
+            "width": 200.0
+        },
+        "tag_name": "a",
+        "text": "Holiday Crafts  ( 32 )"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b197c5a0fe51ed898298cd1c1a510e9c",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Holiday Crafts  ( 32 )",
+    "transformed": true,
+    "width": 200,
+    "x": 470,
+    "y": 318
+}

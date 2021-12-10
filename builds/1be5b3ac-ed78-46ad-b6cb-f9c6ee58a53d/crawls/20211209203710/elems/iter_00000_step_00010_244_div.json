@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "CI3zOHYgz00AIjk02tnefQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "div_X1106_Y567_W140_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fulfillment__sub-title"
+            },
+            "backend_node_id": 21241,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1106_567_140_17_Available",
+            "tagName": "div",
+            "text": "Available",
+            "width": 140.0,
+            "x": 1106.0,
+            "y": 567.0
+        },
+        "location": {
+            "x": 1106.0,
+            "y": 567.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 140.0
+        },
+        "tag_name": "div",
+        "text": "Available"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Available",
+    "transformed": true,
+    "width": 140,
+    "x": 1106,
+    "y": 567
+}

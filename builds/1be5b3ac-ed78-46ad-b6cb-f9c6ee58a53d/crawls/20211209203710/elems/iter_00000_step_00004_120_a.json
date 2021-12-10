@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ur/oupP1Y6bQ9pBJaiA12w==\n",
+    "height": 37,
+    "hier_level": 0,
+    "human_hash": "a_X280_Y457_W340_H37",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "SimpleFlyout__link",
+                "href": "//www.homedepot.com/l/"
+            },
+            "backend_node_id": 9169,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 37.0,
+            "key": "280_457_340_37_Store Finder",
+            "tagName": "a",
+            "text": "Store Finder",
+            "width": 340.0,
+            "x": 280.0,
+            "y": 457.0
+        },
+        "location": {
+            "x": 280.0,
+            "y": 457.0
+        },
+        "size": {
+            "height": 37.0,
+            "width": 340.0
+        },
+        "tag_name": "a",
+        "text": "Store Finder"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Store Finder",
+    "transformed": true,
+    "width": 340,
+    "x": 280,
+    "y": 457
+}

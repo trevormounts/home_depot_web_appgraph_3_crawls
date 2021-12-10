@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "XaUU90oTh+tkFMUEiz+H+w==\n",
+    "height": 65,
+    "hier_level": 0,
+    "human_hash": "div_X1106_Y519_W140_H65",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__center"
+            },
+            "backend_node_id": 21236,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 65.0,
+            "key": "1106_519_140_65_Store Pickup Available",
+            "tagName": "div",
+            "text": "Store Pickup Available",
+            "width": 140.0,
+            "x": 1106.0,
+            "y": 519.0
+        },
+        "location": {
+            "x": 1106.0,
+            "y": 519.0
+        },
+        "size": {
+            "height": 65.0,
+            "width": 140.0
+        },
+        "tag_name": "div",
+        "text": "Store Pickup Available"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Store Pickup Available",
+    "transformed": true,
+    "width": 140,
+    "x": 1106,
+    "y": 519
+}

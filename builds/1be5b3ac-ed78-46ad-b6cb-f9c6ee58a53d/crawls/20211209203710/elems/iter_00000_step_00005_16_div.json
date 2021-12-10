@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "4Ufs0eRmdwBVrLl5hyWfZQ==\n",
+    "height": 39,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y75_W340_H39",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Header3__group",
+                "id": "deliveryStoreAndZip"
+            },
+            "backend_node_id": 8150,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 39.0,
+            "key": "250_75_340_39_You're shopping Miami (calle Ocho)  OPEN  until 10 pm  Delivering to  33135",
+            "tagName": "div",
+            "text": "You're shopping Miami (calle Ocho)  OPEN  until 10 pm  Delivering to  33135",
+            "width": 340.0,
+            "x": 250.0,
+            "y": 75.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 75.0
+        },
+        "size": {
+            "height": 39.0,
+            "width": 340.0
+        },
+        "tag_name": "div",
+        "text": "You're shopping Miami (calle Ocho)  OPEN  until 10 pm  Delivering to  33135"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "You're shopping Miami (calle Ocho)  OPEN  until 10 pm  Delivering to  33135",
+    "transformed": true,
+    "width": 340,
+    "x": 250,
+    "y": 75
+}

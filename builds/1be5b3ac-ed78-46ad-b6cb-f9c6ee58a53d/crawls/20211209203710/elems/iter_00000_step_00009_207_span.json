@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "KSqMk7FhmjuMuGkK4mrwdQ==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "span_X1297_Y448_W13_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price__format"
+            },
+            "backend_node_id": 18070,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "1297_448_13_15_97",
+            "tagName": "span",
+            "text": "97",
+            "width": 13.0,
+            "x": 1297.0,
+            "y": 448.0
+        },
+        "location": {
+            "x": 1297.0,
+            "y": 448.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 13.0
+        },
+        "tag_name": "span",
+        "text": "97"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "97",
+    "transformed": true,
+    "width": 13,
+    "x": 1297,
+    "y": 448
+}

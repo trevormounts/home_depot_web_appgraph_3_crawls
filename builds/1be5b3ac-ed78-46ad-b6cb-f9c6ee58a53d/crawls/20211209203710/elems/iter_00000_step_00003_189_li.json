@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Te4D9atT44XSBp3KXtczaw==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "li_X260_Y803_W200_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "list__item--padding-none"
+            },
+            "backend_node_id": 5899,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "260_803_200_27_Cleaning Tips",
+            "tagName": "li",
+            "text": "Cleaning Tips",
+            "width": 200.0,
+            "x": 260.0,
+            "y": 803.0
+        },
+        "location": {
+            "x": 260.0,
+            "y": 803.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 200.0
+        },
+        "tag_name": "li",
+        "text": "Cleaning Tips"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Cleaning Tips",
+    "transformed": true,
+    "width": 200,
+    "x": 260,
+    "y": 803
+}

@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "input",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "7NmLEEavr6mmHPM+OjP/Ag==\n",
+    "height": 40,
+    "hier_level": 0,
+    "human_hash": "input_X388_Y152_W300_H40",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "autocapitalize": "off",
+                "autocomplete": "off",
+                "autocorrect": "off",
+                "class": "DeliveryZipDropDown__input",
+                "id": "deliveryZipInput",
+                "maxlength": "5",
+                "placeholder": "Enter Zip Code",
+                "type": "tel",
+                "value": ""
+            },
+            "backend_node_id": 19196,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 40.0,
+            "key": "388_152_300_40_",
+            "tagName": "input",
+            "text": "",
+            "width": 300.0,
+            "x": 388.0,
+            "y": 152.0
+        },
+        "location": {
+            "x": 388.0,
+            "y": 152.0
+        },
+        "size": {
+            "height": 40.0,
+            "width": 300.0
+        },
+        "tag_name": "input",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "input",
+    "text": "",
+    "transformed": true,
+    "width": 300,
+    "x": 388,
+    "y": 152
+}

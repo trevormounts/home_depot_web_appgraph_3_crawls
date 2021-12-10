@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "bp3Ea74nn6wOdaY41+Bjow==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "li_X594_Y689_W152_H23",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchAnchorLinks__list__item"
+            },
+            "backend_node_id": 5863,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "594_689_152_23_Featured Project Guides",
+            "tagName": "li",
+            "text": "Featured Project Guides",
+            "width": 152.0,
+            "x": 594.0,
+            "y": 689.0
+        },
+        "location": {
+            "x": 594.0,
+            "y": 689.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 152.0
+        },
+        "tag_name": "li",
+        "text": "Featured Project Guides"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Featured Project Guides",
+    "transformed": true,
+    "width": 152,
+    "x": 594,
+    "y": 689
+}

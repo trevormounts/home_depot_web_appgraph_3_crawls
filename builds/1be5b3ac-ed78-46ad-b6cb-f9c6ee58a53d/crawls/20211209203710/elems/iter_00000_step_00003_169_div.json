@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "eWrtTh56PAqNJaMCYuesqA==\n",
+    "height": 457,
+    "hier_level": 0,
+    "human_hash": "div_X240_Y265_W1440_H457",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "grid isBound zone-card",
+                "id": "WC"
+            },
+            "backend_node_id": 5854,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 457.0,
+            "key": "240_265_1440_457_Featured Project Guides Featured Outdoor Guides Featured  Inspiration DIY Categories Let Us Help You",
+            "tagName": "div",
+            "text": "Featured Project Guides Featured Outdoor Guides Featured  Inspiration DIY Categories Let Us Help You",
+            "width": 1440.0,
+            "x": 240.0,
+            "y": 265.0
+        },
+        "location": {
+            "x": 240.0,
+            "y": 265.0
+        },
+        "size": {
+            "height": 457.0,
+            "width": 1440.0
+        },
+        "tag_name": "div",
+        "text": "Featured Project Guides Featured Outdoor Guides Featured  Inspiration DIY Categories Let Us Help You"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Featured Project Guides Featured Outdoor Guides Featured  Inspiration DIY Categories Let Us Help You",
+    "transformed": true,
+    "width": 1440,
+    "x": 240,
+    "y": 265
+}

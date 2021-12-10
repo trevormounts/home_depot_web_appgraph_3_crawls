@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+773gWMBF8cmRqshCuMLKA==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "div_X1080_Y181_W600_H23",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-info-bar--hide-mobile u__flex-end"
+            },
+            "backend_node_id": 21051,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "1080_181_600_23_Internet # 313948121 Model # P306 Store SKU # 1005559357",
+            "tagName": "div",
+            "text": "Internet # 313948121 Model # P306 Store SKU # 1005559357",
+            "width": 600.0,
+            "x": 1080.0,
+            "y": 181.0
+        },
+        "location": {
+            "x": 1080.0,
+            "y": 181.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 600.0
+        },
+        "tag_name": "div",
+        "text": "Internet # 313948121 Model # P306 Store SKU # 1005559357"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Internet # 313948121 Model # P306 Store SKU # 1005559357",
+    "transformed": true,
+    "width": 600,
+    "x": 1080,
+    "y": 181
+}

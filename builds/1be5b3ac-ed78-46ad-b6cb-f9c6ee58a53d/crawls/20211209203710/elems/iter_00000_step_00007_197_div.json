@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tplp3PV1woUiAjCUZfFmww==\n",
+    "height": 155,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y703_W237_H155",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-group-root--i3en1",
+                "data-testid": "filter-group"
+            },
+            "backend_node_id": 14010,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 155.0,
+            "key": "250_703_237_155_Brand   Ryobi  Glidden Premium",
+            "tagName": "div",
+            "text": "Brand   Ryobi  Glidden Premium",
+            "width": 237.0,
+            "x": 250.0,
+            "y": 703.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 703.0
+        },
+        "size": {
+            "height": 155.0,
+            "width": 237.0
+        },
+        "tag_name": "div",
+        "text": "Brand   Ryobi  Glidden Premium"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Brand   Ryobi  Glidden Premium",
+    "transformed": true,
+    "width": 237,
+    "x": 250,
+    "y": 703
+}

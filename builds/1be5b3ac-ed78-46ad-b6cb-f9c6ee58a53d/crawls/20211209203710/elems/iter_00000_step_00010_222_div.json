@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "zpx/UkXllXPEkPdD5LeYRA==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "div_X1092_Y292_W588_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "zone-card overflow consumer-credit-messaging__card col__12-12",
+                "data-lg-name": "consumer-card-messaging",
+                "name": "consumer-card-messaging"
+            },
+            "backend_node_id": 21197,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "1092_292_588_15_",
+            "tagName": "div",
+            "text": "",
+            "width": 588.0,
+            "x": 1092.0,
+            "y": 292.0
+        },
+        "location": {
+            "x": 1092.0,
+            "y": 292.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 588.0
+        },
+        "tag_name": "div",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "",
+    "transformed": true,
+    "width": 588,
+    "x": 1092,
+    "y": 292
+}

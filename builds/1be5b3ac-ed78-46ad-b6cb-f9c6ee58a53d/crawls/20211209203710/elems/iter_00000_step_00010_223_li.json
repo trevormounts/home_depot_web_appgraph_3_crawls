@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "i+nJ6jZjpezQ17LaGjEpqw==\n",
+    "height": 26,
+    "hier_level": 0,
+    "human_hash": "li_X1122_Y332_W548_H26",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "list__item"
+            },
+            "backend_node_id": 21202,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 26.0,
+            "key": "1122_332_548_26_Over 100 Mini Glue Sticks Per Battery Charge On a 4 Ah Battery",
+            "tagName": "li",
+            "text": "Over 100 Mini Glue Sticks Per Battery Charge On a 4 Ah Battery",
+            "width": 548.0,
+            "x": 1122.0,
+            "y": 332.0
+        },
+        "location": {
+            "x": 1122.0,
+            "y": 332.0
+        },
+        "size": {
+            "height": 26.0,
+            "width": 548.0
+        },
+        "tag_name": "li",
+        "text": "Over 100 Mini Glue Sticks Per Battery Charge On a 4 Ah Battery"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Over 100 Mini Glue Sticks Per Battery Charge On a 4 Ah Battery",
+    "transformed": true,
+    "width": 548,
+    "x": 1122,
+    "y": 332
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "yvtsAnyfHU+THAKmA4khgA==\n",
+    "height": 100,
+    "hier_level": 0,
+    "human_hash": "button_X632_Y525_W100_H100",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Play Button",
+                "aria-label": "play video",
+                "class": "video-player__play-button--rQqBV",
+                "type": "button"
+            },
+            "backend_node_id": 17739,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 100.0,
+            "key": "632_525_100_100_",
+            "tagName": "button",
+            "text": "",
+            "width": 100.0,
+            "x": 632.0,
+            "y": 525.0
+        },
+        "location": {
+            "x": 632.0,
+            "y": 525.0
+        },
+        "size": {
+            "height": 100.0,
+            "width": 100.0
+        },
+        "tag_name": "button",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "",
+    "transformed": true,
+    "width": 100,
+    "x": 632,
+    "y": 525
+}

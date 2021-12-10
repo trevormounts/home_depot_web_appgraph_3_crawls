@@ -1,5 +1,5 @@
 {
-    "Feature Gift Idea": {
+    "Featured Gift Idea": {
         "description": "",
         "is_deactivated": false,
         "steps": [
@@ -76,6 +76,6 @@
         ],
         "tags": [],
         "temp_id": "983609b2-5956-11ec-94f2-149d997d94ba",
-        "title": "Feature Gift Idea"
+        "title": "Featured Gift Idea"
     }
 }

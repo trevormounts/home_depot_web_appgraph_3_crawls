@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "632JOa8eeCEKuOdmGZZHFg==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X1090_Y689_W94_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "EtchAnchorLinks__list__item__link",
+                "href": "#DIYcategories"
+            },
+            "backend_node_id": 5873,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1090_689_94_17_DIY Categories",
+            "tagName": "a",
+            "text": "DIY Categories",
+            "width": 94.0,
+            "x": 1090.0,
+            "y": 689.0
+        },
+        "location": {
+            "x": 1090.0,
+            "y": 689.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 94.0
+        },
+        "tag_name": "a",
+        "text": "DIY Categories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "DIY Categories",
+    "transformed": true,
+    "width": 94,
+    "x": 1090,
+    "y": 689
+}

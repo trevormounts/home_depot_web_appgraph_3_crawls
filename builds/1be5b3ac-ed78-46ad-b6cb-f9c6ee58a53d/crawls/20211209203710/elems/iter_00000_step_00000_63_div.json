@@ -1,0 +1,58 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ahtqs3Dk0gInIOQlRhzN/Q==\n",
+    "height": 47,
+    "hier_level": 0,
+    "human_hash": "div_X240_Y124_W1440_H47",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "grid flush hide show--sm"
+            },
+            "backend_node_id": 974,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 47.0,
+            "key": "240_124_1440_47_All Departments Home Decor, Furniture & Kitchenware DIY Projects & Ideas Project Calculators Installation & Services Specials & Offers Local Ad & Catalog",
+            "tagName": "div",
+            "text": "All Departments Home Decor, Furniture & Kitchenware DIY Projects & Ideas Project Calculators Installation & Services Specials & Offers Local Ad & Catalog",
+            "width": 1440.0,
+            "x": 240.0,
+            "y": 124.0
+        },
+        "location": {
+            "x": 240.0,
+            "y": 124.0
+        },
+        "size": {
+            "height": 47.0,
+            "width": 1440.0
+        },
+        "tag_name": "div",
+        "text": "All Departments Home Decor, Furniture & Kitchenware DIY Projects & Ideas Project Calculators Installation & Services Specials & Offers Local Ad & Catalog"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "All Departments Home Decor, Furniture & Kitchenware DIY Projects & Ideas Project Calculators Installation & Services Specials & Offers Local Ad & Catalog",
+    "transformed": true,
+    "width": 1440,
+    "x": 240,
+    "y": 124
+}

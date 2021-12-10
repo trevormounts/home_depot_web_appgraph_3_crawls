@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Gh5yVguKJxCHkfTlySoRiQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "p_X499_Y55_W78_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 19792,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "499_55_78_17_Delivering to",
+            "tagName": "p",
+            "text": "Delivering to",
+            "width": 78.0,
+            "x": 499.0,
+            "y": 55.0
+        },
+        "location": {
+            "x": 499.0,
+            "y": 55.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 78.0
+        },
+        "tag_name": "p",
+        "text": "Delivering to"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Delivering to",
+    "transformed": true,
+    "width": 78,
+    "x": 499,
+    "y": 55
+}

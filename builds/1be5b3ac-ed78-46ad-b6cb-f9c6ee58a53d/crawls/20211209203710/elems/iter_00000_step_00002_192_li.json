@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "VymxWZ1odSnJb5NI84Myaw==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "li_X260_Y830_W200_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "list__item--padding-none"
+            },
+            "backend_node_id": 5902,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "260_830_200_27_Moving Tips",
+            "tagName": "li",
+            "text": "Moving Tips",
+            "width": 200.0,
+            "x": 260.0,
+            "y": 830.0
+        },
+        "location": {
+            "x": 260.0,
+            "y": 830.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 200.0
+        },
+        "tag_name": "li",
+        "text": "Moving Tips"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Moving Tips",
+    "transformed": true,
+    "width": 200,
+    "x": 260,
+    "y": 830
+}

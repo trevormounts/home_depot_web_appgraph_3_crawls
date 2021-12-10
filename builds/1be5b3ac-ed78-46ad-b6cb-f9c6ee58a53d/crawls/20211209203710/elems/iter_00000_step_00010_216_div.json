@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2xngkW+ewHt7dSk5YT/fkw==\n",
+    "height": 51,
+    "hier_level": 0,
+    "human_hash": "div_X1204_Y230_W116_H51",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 21170,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 51.0,
+            "key": "1204_230_116_51_Limit  3  per order $ 24 . 97 Save  $ 5 . 00  ( 20 %)",
+            "tagName": "div",
+            "text": "Limit  3  per order $ 24 . 97 Save  $ 5 . 00  ( 20 %)",
+            "width": 116.0,
+            "x": 1204.0,
+            "y": 230.0
+        },
+        "location": {
+            "x": 1204.0,
+            "y": 230.0
+        },
+        "size": {
+            "height": 51.0,
+            "width": 116.0
+        },
+        "tag_name": "div",
+        "text": "Limit  3  per order $ 24 . 97 Save  $ 5 . 00  ( 20 %)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Limit  3  per order $ 24 . 97 Save  $ 5 . 00  ( 20 %)",
+    "transformed": true,
+    "width": 116,
+    "x": 1204,
+    "y": 230
+}

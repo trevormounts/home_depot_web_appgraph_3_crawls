@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Ik7h1X+RplgCy5rPl1Rfkg==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "div_X1106_Y611_W140_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__center card-messaging-bottom u__bold"
+            },
+            "backend_node_id": 21244,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1106_611_140_17_FREE",
+            "tagName": "div",
+            "text": "FREE",
+            "width": 140.0,
+            "x": 1106.0,
+            "y": 611.0
+        },
+        "location": {
+            "x": 1106.0,
+            "y": 611.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 140.0
+        },
+        "tag_name": "div",
+        "text": "FREE"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "FREE",
+    "transformed": true,
+    "width": 140,
+    "x": 1106,
+    "y": 611
+}

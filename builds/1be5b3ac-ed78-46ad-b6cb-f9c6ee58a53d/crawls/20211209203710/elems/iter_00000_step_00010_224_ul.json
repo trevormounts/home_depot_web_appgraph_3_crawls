@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "11kDpLBtH7axTSBgOCvWdw==\n",
+    "height": 104,
+    "hier_level": 0,
+    "human_hash": "ul_X1122_Y332_W548_H104",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "salient-points list list--type-square"
+            },
+            "backend_node_id": 21201,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 104.0,
+            "key": "1122_332_548_104_Over 100 Mini Glue Sticks Per Battery Charge On a 4 Ah Battery Lightweight Ergonomic Glue Gun Tool with No Hassle Of a Cord Over 225 ONE+ Tools \u2013 All Work With Any RYOBI 18V ONE+ Battery View More Details",
+            "tagName": "ul",
+            "text": "Over 100 Mini Glue Sticks Per Battery Charge On a 4 Ah Battery Lightweight Ergonomic Glue Gun Tool with No Hassle Of a Cord Over 225 ONE+ Tools \u2013 All Work With Any RYOBI 18V ONE+ Battery View More Details",
+            "width": 548.0,
+            "x": 1122.0,
+            "y": 332.0
+        },
+        "location": {
+            "x": 1122.0,
+            "y": 332.0
+        },
+        "size": {
+            "height": 104.0,
+            "width": 548.0
+        },
+        "tag_name": "ul",
+        "text": "Over 100 Mini Glue Sticks Per Battery Charge On a 4 Ah Battery Lightweight Ergonomic Glue Gun Tool with No Hassle Of a Cord Over 225 ONE+ Tools \u2013 All Work With Any RYOBI 18V ONE+ Battery View More Details"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "Over 100 Mini Glue Sticks Per Battery Charge On a 4 Ah Battery Lightweight Ergonomic Glue Gun Tool with No Hassle Of a Cord Over 225 ONE+ Tools \u2013 All Work With Any RYOBI 18V ONE+ Battery View More Details",
+    "transformed": true,
+    "width": 548,
+    "x": 1122,
+    "y": 332
+}

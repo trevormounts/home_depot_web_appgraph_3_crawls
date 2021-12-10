@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "1jP1t+xUX4pxN/261Y56ug==\n",
+    "height": 109,
+    "hier_level": 0,
+    "human_hash": "div_X1102_Y779_W568_H109",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-add-ons-pod__content"
+            },
+            "backend_node_id": 21299,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 109.0,
+            "key": "1102_779_568_109_Protect This Item Learn more  Select a Home Depot Protection Plan by Allstate for:  2 Year /  $3.00  No thanks",
+            "tagName": "div",
+            "text": "Protect This Item Learn more  Select a Home Depot Protection Plan by Allstate for:  2 Year /  $3.00  No thanks",
+            "width": 568.0,
+            "x": 1102.0,
+            "y": 779.0
+        },
+        "location": {
+            "x": 1102.0,
+            "y": 779.0
+        },
+        "size": {
+            "height": 109.0,
+            "width": 568.0
+        },
+        "tag_name": "div",
+        "text": "Protect This Item Learn more  Select a Home Depot Protection Plan by Allstate for:  2 Year /  $3.00  No thanks"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Protect This Item Learn more  Select a Home Depot Protection Plan by Allstate for:  2 Year /  $3.00  No thanks",
+    "transformed": true,
+    "width": 568,
+    "x": 1102,
+    "y": 779
+}

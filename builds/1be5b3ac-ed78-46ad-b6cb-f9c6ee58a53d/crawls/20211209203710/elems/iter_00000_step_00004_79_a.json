@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "0GLe05ffwRzz66Eqeh+kvg==\n",
+    "height": 47,
+    "hier_level": 0,
+    "human_hash": "a_X1307_Y124_W108_H47",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ShoppingLinks__link",
+                "data-id": "specialOffers",
+                "href": "//www.homedepot.com/c/Savings_Center"
+            },
+            "backend_node_id": 8733,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 47.0,
+            "key": "1307_124_108_47_Specials & Offers",
+            "tagName": "a",
+            "text": "Specials & Offers",
+            "width": 108.0,
+            "x": 1307.0,
+            "y": 124.0
+        },
+        "location": {
+            "x": 1307.0,
+            "y": 124.0
+        },
+        "size": {
+            "height": 47.0,
+            "width": 108.0
+        },
+        "tag_name": "a",
+        "text": "Specials & Offers"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Specials & Offers",
+    "transformed": true,
+    "width": 108,
+    "x": 1307,
+    "y": 124
+}

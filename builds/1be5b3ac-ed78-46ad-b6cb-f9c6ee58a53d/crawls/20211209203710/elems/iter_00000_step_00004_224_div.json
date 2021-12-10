@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "kmsJetmZjy7Q1fxgxNhxpA==\n",
+    "height": 43,
+    "hier_level": 0,
+    "human_hash": "div_X517_Y764_W175_H43",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col__6-12--xs col__12-12 article-tile__article-list-page__article-listing__items__item__content-requirements__content__difficulty"
+            },
+            "backend_node_id": 10166,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 43.0,
+            "key": "517_764_175_43_Difficulty Advanced",
+            "tagName": "div",
+            "text": "Difficulty Advanced",
+            "width": 175.0,
+            "x": 517.0,
+            "y": 764.0
+        },
+        "location": {
+            "x": 517.0,
+            "y": 764.0
+        },
+        "size": {
+            "height": 43.0,
+            "width": 175.0
+        },
+        "tag_name": "div",
+        "text": "Difficulty Advanced"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Difficulty Advanced",
+    "transformed": true,
+    "width": 175,
+    "x": 517,
+    "y": 764
+}

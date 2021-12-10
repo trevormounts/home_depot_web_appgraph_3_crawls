@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "oSmfgL50+yj+crcLigBkSA==\n",
+    "height": 13,
+    "hier_level": 0,
+    "human_hash": "div_X1264_Y472_W273_H13",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price__qty-limit"
+            },
+            "backend_node_id": 18090,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 13.0,
+            "key": "1264_472_273_13_Limit  3  per order",
+            "tagName": "div",
+            "text": "Limit  3  per order",
+            "width": 273.0,
+            "x": 1264.0,
+            "y": 472.0
+        },
+        "location": {
+            "x": 1264.0,
+            "y": 472.0
+        },
+        "size": {
+            "height": 13.0,
+            "width": 273.0
+        },
+        "tag_name": "div",
+        "text": "Limit  3  per order"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Limit  3  per order",
+    "transformed": true,
+    "width": 273,
+    "x": 1264,
+    "y": 472
+}

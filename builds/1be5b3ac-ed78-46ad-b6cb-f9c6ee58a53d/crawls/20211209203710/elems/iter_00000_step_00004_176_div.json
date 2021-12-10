@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "sw88Qz0ihIEMEF5zg11njA==\n",
+    "height": 235,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y448_W237_H235",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-group-root--i3en1",
+                "data-testid": "filter-group"
+            },
+            "backend_node_id": 9454,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 235.0,
+            "key": "250_448_237_235_Information Type   Buying Guides  Project Guides  Inspiration Guides  Influencer Guides",
+            "tagName": "div",
+            "text": "Information Type   Buying Guides  Project Guides  Inspiration Guides  Influencer Guides",
+            "width": 237.0,
+            "x": 250.0,
+            "y": 448.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 448.0
+        },
+        "size": {
+            "height": 235.0,
+            "width": 237.0
+        },
+        "tag_name": "div",
+        "text": "Information Type   Buying Guides  Project Guides  Inspiration Guides  Influencer Guides"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Information Type   Buying Guides  Project Guides  Inspiration Guides  Influencer Guides",
+    "transformed": true,
+    "width": 237,
+    "x": 250,
+    "y": 448
+}

@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "KC0Yjtt6vOwAohar2E1zcQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X1102_Y666_W134_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 21287,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1102_666_134_17_Check Nearby Stores",
+            "tagName": "span",
+            "text": "Check Nearby Stores",
+            "width": 134.0,
+            "x": 1102.0,
+            "y": 666.0
+        },
+        "location": {
+            "x": 1102.0,
+            "y": 666.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 134.0
+        },
+        "tag_name": "span",
+        "text": "Check Nearby Stores"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Check Nearby Stores",
+    "transformed": true,
+    "width": 134,
+    "x": 1102,
+    "y": 666
+}

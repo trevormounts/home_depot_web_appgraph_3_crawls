@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "w/AgI2PmHhc8BYmQB0JBsw==\n",
+    "height": 82,
+    "hier_level": 0,
+    "human_hash": "div_X1416_Y519_W140_H82",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__center"
+            },
+            "backend_node_id": 19175,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 82.0,
+            "key": "1416_519_140_82_Scheduled Delivery As soon as tomorrow",
+            "tagName": "div",
+            "text": "Scheduled Delivery As soon as tomorrow",
+            "width": 140.0,
+            "x": 1416.0,
+            "y": 519.0
+        },
+        "location": {
+            "x": 1416.0,
+            "y": 519.0
+        },
+        "size": {
+            "height": 82.0,
+            "width": 140.0
+        },
+        "tag_name": "div",
+        "text": "Scheduled Delivery As soon as tomorrow"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Scheduled Delivery As soon as tomorrow",
+    "transformed": true,
+    "width": 140,
+    "x": 1416,
+    "y": 519
+}

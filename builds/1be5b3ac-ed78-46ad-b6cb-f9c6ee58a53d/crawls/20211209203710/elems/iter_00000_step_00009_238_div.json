@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "K6wPZh35dzfigwKCf5wkOA==\n",
+    "height": 13,
+    "hier_level": 0,
+    "human_hash": "div_X1302_Y688_W78_H13",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u__text--success"
+            },
+            "backend_node_id": 18140,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 13.0,
+            "key": "1302_688_78_13_Save  04 \u00a2  ( 18 %)",
+            "tagName": "div",
+            "text": "Save  04 \u00a2  ( 18 %)",
+            "width": 78.0,
+            "x": 1302.0,
+            "y": 688.0
+        },
+        "location": {
+            "x": 1302.0,
+            "y": 688.0
+        },
+        "size": {
+            "height": 13.0,
+            "width": 78.0
+        },
+        "tag_name": "div",
+        "text": "Save  04 \u00a2  ( 18 %)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Save  04 \u00a2  ( 18 %)",
+    "transformed": true,
+    "width": 78,
+    "x": 1302,
+    "y": 688
+}

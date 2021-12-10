@@ -1,0 +1,381 @@
+[
+    {
+        "hash": "84c3e445cfd1b4d77c9e66447f9fa7a9"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "lrZw8f3jdh9FPemxH1UChg==\n",
+                "height": 47,
+                "hier_level": 0,
+                "human_hash": "a_X720_Y124_W128_H47",
+                "human_readable": "a_720_124_128_47_a_ffffffffffffffffffffffff07cf000000000000fdffffffffffffffffffffff_6aae75e030d12dede551ddc1f6c2051e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "ShoppingLinks__link",
+                            "data-id": "diyProjectsIdeas",
+                            "href": "//www.homedepot.com/c/diy_projects_and_ideas"
+                        },
+                        "backend_node_id": 996,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 47.0,
+                        "key": "720_124_128_47_DIY Projects & Ideas",
+                        "tagName": "a",
+                        "text": "DIY Projects & Ideas",
+                        "width": 128.0,
+                        "x": 720.0,
+                        "y": 124.0
+                    },
+                    "location": {
+                        "x": 720.0,
+                        "y": 124.0
+                    },
+                    "size": {
+                        "height": 47.0,
+                        "width": 128.0
+                    },
+                    "tag_name": "a",
+                    "text": "DIY Projects & Ideas"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000fffffffffa0fe003d803f803f803f827f803f8c3ffffffffffffdfffdff7",
+                "resource-id": "",
+                "screen_hash": "84c3e445cfd1b4d77c9e66447f9fa7a9",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "DIY Projects & Ideas",
+                "transformed": true,
+                "width": 128,
+                "x": 720,
+                "y": 124
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "YzRjNjQzN2Y4NGI0YmIwODZkOTFiNWY2NDlkOGM3ZmI"
+    },
+    {
+        "hash": "54a1cbb3afacfd6f79f8592dec564957"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "Nxb1E3wI+mURM5uH1FxL/Q==\n",
+                "height": 21,
+                "hier_level": 0,
+                "human_hash": "a_X260_Y887_W69_H21",
+                "human_readable": "a_260_887_69_21_a_ffffffffffffffff395f395f410041004100410001000100b788ffffffffffff_38f5c54110e162c24a40cb782d256afa",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "customNav__heading",
+                            "href": "https://www.homedepot.com/c/alp/craft-ideas/1cd8"
+                        },
+                        "backend_node_id": 5910,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 21.0,
+                        "key": "260_887_69_21_Craft Ideas",
+                        "tagName": "a",
+                        "text": "Craft Ideas",
+                        "width": 69.0,
+                        "x": 260.0,
+                        "y": 887.0
+                    },
+                    "location": {
+                        "x": 260.0,
+                        "y": 887.0
+                    },
+                    "size": {
+                        "height": 21.0,
+                        "width": 69.0
+                    },
+                    "tag_name": "a",
+                    "text": "Craft Ideas"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000fffffffffffffcfff803ee03ee03ee03ee03fc83fff3fc3fd807f80ff01f",
+                "resource-id": "",
+                "screen_hash": "54a1cbb3afacfd6f79f8592dec564957",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Craft Ideas",
+                "transformed": true,
+                "width": 69,
+                "x": 260,
+                "y": 887
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "NWRlY2M0MmI5YWJlNTk0NzAxYzg2NTUzN2Q3MTUwMjE"
+    },
+    {
+        "hash": "ad1c2986cd8a9de7db719d2a1f6c26b5"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "3W0GHRMzxsCatGWV1rq4SA==\n",
+                "height": 21,
+                "hier_level": 0,
+                "human_hash": "a_X470_Y318_W200_H21",
+                "human_readable": "a_470_318_200_21_a_ffffffffffffffffe227e007e007e007e007e007e007f007fdfffdffffffffff_bb7c52f5f92a35b93c82a51d30160d9b",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "article-listing-link--3d28H",
+                            "href": "/c/alp/craft-ideas-holiday-crafts/1cd8-y1os"
+                        },
+                        "backend_node_id": 9432,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 21.0,
+                        "key": "470_318_200_21_Holiday Crafts  ( 32 )",
+                        "tagName": "a",
+                        "text": "Holiday Crafts  ( 32 )",
+                        "width": 200.0,
+                        "x": 470.0,
+                        "y": 318.0
+                    },
+                    "location": {
+                        "x": 470.0,
+                        "y": 318.0
+                    },
+                    "size": {
+                        "height": 21.0,
+                        "width": 200.0
+                    },
+                    "tag_name": "a",
+                    "text": "Holiday Crafts  ( 32 )"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000dfffffffdffffffffffffffff013f003f003f003f907ffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "ad1c2986cd8a9de7db719d2a1f6c26b5",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Holiday Crafts  ( 32 )",
+                "transformed": true,
+                "width": 200,
+                "x": 470,
+                "y": 318
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "OTk5NDgzMzY1Y2I0MWVmMTJmNGZiZDRjNjI0ZjEwMDE"
+    },
+    {
+        "hash": "d88af1091216a88c6ac187611f3d59b6"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "dE9AxSauYMyNyvIQAuOEvg==\n",
+                "height": 146,
+                "hier_level": 0,
+                "human_hash": "a_X517_Y677_W351_H146",
+                "human_readable": "a_517_677_351_146_a_0fff0ffff9170003feffffffffffffffffffffff870f271f0787c7c7ffffffff_bda01e17a08b13ee60ecce8cea7c009a",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "article-tile__article-list-page__header__quick-guide-links-container__quick-guide-card-link",
+                            "href": "/c/ah/how-to-make-fall-leaf-crafts-for-kids/9ba683603be9fa5395fab9013598578f"
+                        },
+                        "backend_node_id": 14263,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 146.0,
+                        "key": "517_677_351_146_Project Guide How to Make Fall Leaf Crafts for Kids   Difficulty Beginner Time 2-4 hours",
+                        "tagName": "a",
+                        "text": "Project Guide How to Make Fall Leaf Crafts for Kids   Difficulty Beginner Time 2-4 hours",
+                        "width": 351.0,
+                        "x": 517.0,
+                        "y": 677.0
+                    },
+                    "location": {
+                        "x": 517.0,
+                        "y": 677.0
+                    },
+                    "size": {
+                        "height": 146.0,
+                        "width": 351.0
+                    },
+                    "tag_name": "a",
+                    "text": "Project Guide How to Make Fall Leaf Crafts for Kids   Difficulty Beginner Time 2-4 hours"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000dfffffffdffffffffffffffff01ff013f003f003f01ffffffffffffff9e3",
+                "resource-id": "",
+                "screen_hash": "d88af1091216a88c6ac187611f3d59b6",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Project Guide How to Make Fall Leaf Crafts for Kids   Difficulty Beginner Time 2-4 hours",
+                "transformed": true,
+                "width": 351,
+                "x": 517,
+                "y": 677
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "YzE2MmE4NWUxMjAwZTM0N2U2ZjdkNmVkZTNhODM2YWM"
+    },
+    {
+        "hash": "e677e11f0bb3aefad3eb1174759b5d8c"
+    },
+    {
+        "action_info": {
+            "elem_class": "img",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "img",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "1a2OE5RU3enA8g2AXFakJw==\n",
+                "height": 90,
+                "hier_level": 0,
+                "human_hash": "img_X1154_Y369_W90_H90",
+                "human_readable": "img_1154_369_90_90_img_ffffffffffdffc0ff81ff81ffe1fff1ff03ff03ff81ff81ff83ffcffffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "alt": "ONE+ 18V Cordless Compact Glue Gun (Tool Only)",
+                            "class": "stretchy",
+                            "height": "400",
+                            "loading": "lazy",
+                            "src": "https://images.thdstatic.com/productImages/e2ec0bfe-6a33-4b19-b0fa-a1d47894e2cb/svn/ryobi-adhesives-tape-p306-64_400.jpg",
+                            "title": "ONE+ 18V Cordless Compact Glue Gun (Tool Only)",
+                            "width": "400"
+                        },
+                        "backend_node_id": 16001,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 90.0,
+                        "key": "1154_369_90_90_",
+                        "tagName": "img",
+                        "text": "",
+                        "width": 90.0,
+                        "x": 1154.0,
+                        "y": 369.0
+                    },
+                    "location": {
+                        "x": 1154.0,
+                        "y": 369.0
+                    },
+                    "size": {
+                        "height": 90.0,
+                        "width": 90.0
+                    },
+                    "tag_name": "img",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000ffffffffffffffffc07fc07fc17fc17fd07fc07fc07fc07fc07fc07fffff",
+                "resource-id": "",
+                "screen_hash": "e677e11f0bb3aefad3eb1174759b5d8c",
+                "scrollable": false,
+                "tag_name": "img",
+                "text": "",
+                "transformed": true,
+                "width": 90,
+                "x": 1154,
+                "y": 369
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "ZTQ4NjhiMjE4YTc1NjM2OTkzZGRiODFhYzhlY2Y4ZmM"
+    },
+    {
+        "hash": "9a638a4b9798e4d854bb5ee4fdf21927"
+    }
+]
