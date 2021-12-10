@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "M4ztVnJe8u74cgoLevPciw==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "img_X1328_Y446_W115_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "SereneLife",
+                "class": "vis-nav__image stretchy",
+                "height": "1",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/catalog/productImages/300/fe/fe477878-10df-4648-a799-e30d0d807ca7_300.jpg",
+                "title": "SereneLife",
+                "width": "1"
+            },
+            "backend_node_id": 20109,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "1328_446_115_115_",
+            "tagName": "img",
+            "text": "",
+            "width": 115.0,
+            "x": 1328.0,
+            "y": 446.0
+        },
+        "location": {
+            "x": 1328.0,
+            "y": 446.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 115.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 115,
+    "x": 1328,
+    "y": 446
+}

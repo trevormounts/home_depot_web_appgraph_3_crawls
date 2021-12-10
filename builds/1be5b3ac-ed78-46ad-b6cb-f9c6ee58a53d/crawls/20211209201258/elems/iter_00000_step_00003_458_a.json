@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "74pqxNZQXKBFg5pNXdpXJQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X1210_Y377_W117_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/b/Furniture-Bedroom-Furniture/N-5yc1vZc7pe"
+            },
+            "backend_node_id": 9143,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1210_377_117_17_Bedroom Furniture",
+            "tagName": "a",
+            "text": "Bedroom Furniture",
+            "width": 117.0,
+            "x": 1210.0,
+            "y": 377.0
+        },
+        "location": {
+            "x": 1210.0,
+            "y": 377.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 117.0
+        },
+        "tag_name": "a",
+        "text": "Bedroom Furniture"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Bedroom Furniture",
+    "transformed": true,
+    "width": 117,
+    "x": 1210,
+    "y": 377
+}

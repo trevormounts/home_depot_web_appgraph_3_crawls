@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "dpzMTPfWb3RNcBSCMEawTQ==\n",
+    "height": 418,
+    "hier_level": 0,
+    "human_hash": "div_X1134_Y286_W460_H418",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tools_materials--1hyEA",
+                "data-lg-name": "tools-materials"
+            },
+            "backend_node_id": 19170,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 418.0,
+            "key": "1134_286_460_418_Related Products  fitness accessories  exercise bikes  treadmills",
+            "tagName": "div",
+            "text": "Related Products  fitness accessories  exercise bikes  treadmills",
+            "width": 460.0,
+            "x": 1134.0,
+            "y": 286.0
+        },
+        "location": {
+            "x": 1134.0,
+            "y": 286.0
+        },
+        "size": {
+            "height": 418.0,
+            "width": 460.0
+        },
+        "tag_name": "div",
+        "text": "Related Products  fitness accessories  exercise bikes  treadmills"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Related Products  fitness accessories  exercise bikes  treadmills",
+    "transformed": true,
+    "width": 460,
+    "x": 1134,
+    "y": 286
+}

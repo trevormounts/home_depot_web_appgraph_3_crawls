@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "vU6dvUeMbXc+qilO2HMCuQ==\n",
+    "height": 21,
+    "hier_level": 0,
+    "human_hash": "div_X1251_Y391_W125_H21",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product_title--1hyEA"
+            },
+            "backend_node_id": 19177,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 21.0,
+            "key": "1251_391_125_21_fitness accessories",
+            "tagName": "div",
+            "text": "fitness accessories",
+            "width": 125.0,
+            "x": 1251.0,
+            "y": 391.0
+        },
+        "location": {
+            "x": 1251.0,
+            "y": 391.0
+        },
+        "size": {
+            "height": 21.0,
+            "width": 125.0
+        },
+        "tag_name": "div",
+        "text": "fitness accessories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "fitness accessories",
+    "transformed": true,
+    "width": 125,
+    "x": 1251,
+    "y": 391
+}

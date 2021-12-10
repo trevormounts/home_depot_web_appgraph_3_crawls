@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "strong",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "MN3+X9pQEWOdGuKlFh08fA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "strong_X517_Y914_W103_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 12286,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "517_914_103_17_Shop All Holiday",
+            "tagName": "strong",
+            "text": "Shop All Holiday",
+            "width": 103.0,
+            "x": 517.0,
+            "y": 914.0
+        },
+        "location": {
+            "x": 517.0,
+            "y": 914.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 103.0
+        },
+        "tag_name": "strong",
+        "text": "Shop All Holiday"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "strong",
+    "text": "Shop All Holiday",
+    "transformed": true,
+    "width": 103,
+    "x": 517,
+    "y": 914
+}

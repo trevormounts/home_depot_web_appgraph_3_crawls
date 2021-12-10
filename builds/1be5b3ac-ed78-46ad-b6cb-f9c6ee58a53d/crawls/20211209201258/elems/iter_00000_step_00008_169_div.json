@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "pKOtZaiM2a+ADqQmN1C3Lw==\n",
+    "height": 63,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y213_W1430_H63",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-author-title col__12-12 col__12-12--xs col__12-12--sm col__12-12--md col__12-12--lg"
+            },
+            "backend_node_id": 18876,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 63.0,
+            "key": "250_213_1430_63_Best Exercise Equipment for Your Home",
+            "tagName": "div",
+            "text": "Best Exercise Equipment for Your Home",
+            "width": 1430.0,
+            "x": 250.0,
+            "y": 213.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 213.0
+        },
+        "size": {
+            "height": 63.0,
+            "width": 1430.0
+        },
+        "tag_name": "div",
+        "text": "Best Exercise Equipment for Your Home"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Best Exercise Equipment for Your Home",
+    "transformed": true,
+    "width": 1430,
+    "x": 250,
+    "y": 213
+}

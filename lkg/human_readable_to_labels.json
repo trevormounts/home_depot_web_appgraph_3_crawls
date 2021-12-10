@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "a_250_124_100_47_a_ffffffffffffffffffffffff07ff000000000000f9ffffffffffffffffffffff_f3cccfc28acb9a841549bac603f08b1c": [
+            "ddm_all_departments"
+        ],
+        "a_250_340_200_21_a_fffffffffffff3dff38ff80ff00ff00ff80ff00ff00ff80fffefffffffffffff_30974a8098ec9ce03af6411f19347e2d": [
+            "tab_featured"
+        ],
+        "a_250_428_60_17_a_ffffffffffffbfff06bf52bf4208620002090200420242100200bfffffffffff_c435e88db266bf91be849ea636418627": [
+            "lnk_gift_ideas"
+        ],
+        "a_517_699_351_87_a_dfff0fff0fffffff1b9700010001ffffffffffffffffffffffffffffffffffff_c8a7c553ddc51aa6fdb121d3a7d3a172": [
+            "lnk_best_excercise_equipment"
+        ],
+        "a_715_544_296_17_a_ffffffffffffffff000011801190100010001000119030000000ffffffffffff_8de59af1935870370c69df3435fca279": [
+            "lnk_shop_all_exercise_equipment"
+        ],
+        "h1_250_384_256_35_h1_ffffffffffff7e7f7efffffe81000000020089808b0081800000520fffffffff_d05a74902f45215560fa34f480ce4b01": [
+            "ttl_exercise_equipment"
+        ]
+    },
+    "screens": {}
+}

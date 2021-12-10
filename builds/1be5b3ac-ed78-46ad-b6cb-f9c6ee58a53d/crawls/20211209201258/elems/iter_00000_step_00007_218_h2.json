@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "z98dVRL31X4mgf/TzaVz/g==\n",
+    "height": 54,
+    "hier_level": 0,
+    "human_hash": "h2_X517_Y716_W351_H54",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__article-listing__items__item__content__title"
+            },
+            "backend_node_id": 15675,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 54.0,
+            "key": "517_716_351_54_Best Exercise Equipment for Your Home",
+            "tagName": "h2",
+            "text": "Best Exercise Equipment for Your Home",
+            "width": 351.0,
+            "x": 517.0,
+            "y": 716.0
+        },
+        "location": {
+            "x": 517.0,
+            "y": 716.0
+        },
+        "size": {
+            "height": 54.0,
+            "width": 351.0
+        },
+        "tag_name": "h2",
+        "text": "Best Exercise Equipment for Your Home"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Best Exercise Equipment for Your Home",
+    "transformed": true,
+    "width": 351,
+    "x": 517,
+    "y": 716
+}

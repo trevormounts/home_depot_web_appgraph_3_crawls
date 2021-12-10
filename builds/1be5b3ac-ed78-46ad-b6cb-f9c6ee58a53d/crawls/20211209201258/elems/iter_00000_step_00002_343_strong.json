@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "strong",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "h4FAe6eQUeU7o+cYrOqGRA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "strong_X730_Y564_W94_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 7852,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "730_564_94_17_HVAC Services",
+            "tagName": "strong",
+            "text": "HVAC Services",
+            "width": 94.0,
+            "x": 730.0,
+            "y": 564.0
+        },
+        "location": {
+            "x": 730.0,
+            "y": 564.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 94.0
+        },
+        "tag_name": "strong",
+        "text": "HVAC Services"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "strong",
+    "text": "HVAC Services",
+    "transformed": true,
+    "width": 94,
+    "x": 730,
+    "y": 564
+}

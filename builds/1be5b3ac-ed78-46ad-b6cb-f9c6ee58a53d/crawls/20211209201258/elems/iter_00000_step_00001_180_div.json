@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "IVPk9mBaLAcDUsTpi5vjfg==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "div_X367_Y888_W505_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sbotd__text-tagline"
+            },
+            "backend_node_id": 2049,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "367_888_505_17_Free Delivery.  Today Only.",
+            "tagName": "div",
+            "text": "Free Delivery.  Today Only.",
+            "width": 505.0,
+            "x": 367.0,
+            "y": 888.0
+        },
+        "location": {
+            "x": 367.0,
+            "y": 888.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 505.0
+        },
+        "tag_name": "div",
+        "text": "Free Delivery.  Today Only."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Free Delivery.  Today Only.",
+    "transformed": true,
+    "width": 505,
+    "x": 367,
+    "y": 888
+}

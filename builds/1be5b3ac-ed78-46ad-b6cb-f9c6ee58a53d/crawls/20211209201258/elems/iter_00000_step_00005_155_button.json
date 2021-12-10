@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "6Wxrd8wpT3a1w70+tlHLQw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "button_X1320_Y74_W50_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "SimpleFlyout__back",
+                "data-level": "2"
+            },
+            "backend_node_id": 11989,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1320_74_50_17_Back",
+            "tagName": "button",
+            "text": "Back",
+            "width": 50.0,
+            "x": 1320.0,
+            "y": 74.0
+        },
+        "location": {
+            "x": 1320.0,
+            "y": 74.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 50.0
+        },
+        "tag_name": "button",
+        "text": "Back"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Back",
+    "transformed": true,
+    "width": 50,
+    "x": 1320,
+    "y": 74
+}

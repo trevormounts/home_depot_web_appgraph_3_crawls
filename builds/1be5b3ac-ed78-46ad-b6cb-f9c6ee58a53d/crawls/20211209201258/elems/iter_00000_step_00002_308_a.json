@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "huYYSKZYJh7BKRPEquC2mw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X490_Y887_W99_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/b/Electrical-Electronics-Home-Audio-Speakers/Wired/N-5yc1vZc654Z1z1pjfl"
+            },
+            "backend_node_id": 7300,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "490_887_99_17_Wired Speakers",
+            "tagName": "a",
+            "text": "Wired Speakers",
+            "width": 99.0,
+            "x": 490.0,
+            "y": 887.0
+        },
+        "location": {
+            "x": 490.0,
+            "y": 887.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 99.0
+        },
+        "tag_name": "a",
+        "text": "Wired Speakers"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Wired Speakers",
+    "transformed": true,
+    "width": 99,
+    "x": 490,
+    "y": 887
+}

@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "strong",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2LRwdlcouZ2hEwZYBUnO8g==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "strong_X970_Y768_W108_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 8541,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "970_768_108_17_Savings & Events",
+            "tagName": "strong",
+            "text": "Savings & Events",
+            "width": 108.0,
+            "x": 970.0,
+            "y": 768.0
+        },
+        "location": {
+            "x": 970.0,
+            "y": 768.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 108.0
+        },
+        "tag_name": "strong",
+        "text": "Savings & Events"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "strong",
+    "text": "Savings & Events",
+    "transformed": true,
+    "width": 108,
+    "x": 970,
+    "y": 768
+}

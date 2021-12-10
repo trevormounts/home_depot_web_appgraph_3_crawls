@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "pOQ5Yl7YpI4dG63Ye/H+cA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X1123_Y806_W68_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__article-listing__items__item__content-requirements__content__text"
+            },
+            "backend_node_id": 15723,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1123_806_68_17_Over 1 day",
+            "tagName": "span",
+            "text": "Over 1 day",
+            "width": 68.0,
+            "x": 1123.0,
+            "y": 806.0
+        },
+        "location": {
+            "x": 1123.0,
+            "y": 806.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 68.0
+        },
+        "tag_name": "span",
+        "text": "Over 1 day"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Over 1 day",
+    "transformed": true,
+    "width": 68,
+    "x": 1123,
+    "y": 806
+}

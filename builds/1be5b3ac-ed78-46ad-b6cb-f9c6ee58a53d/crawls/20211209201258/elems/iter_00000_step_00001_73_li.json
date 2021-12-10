@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "OZurNkvlJaHacrfJytmUyQ==\n",
+    "height": 47,
+    "hier_level": 0,
+    "human_hash": "li_X1102_Y124_W194_H47",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ShoppingLinks__item"
+            },
+            "backend_node_id": 1005,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 47.0,
+            "key": "1102_124_194_47_Installation & Services",
+            "tagName": "li",
+            "text": "Installation & Services",
+            "width": 194.0,
+            "x": 1102.0,
+            "y": 124.0
+        },
+        "location": {
+            "x": 1102.0,
+            "y": 124.0
+        },
+        "size": {
+            "height": 47.0,
+            "width": 194.0
+        },
+        "tag_name": "li",
+        "text": "Installation & Services"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Installation & Services",
+    "transformed": true,
+    "width": 194,
+    "x": 1102,
+    "y": 124
+}

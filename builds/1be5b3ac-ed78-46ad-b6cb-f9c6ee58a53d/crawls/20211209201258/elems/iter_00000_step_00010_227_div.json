@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jaNU2V3jHJ0fB+3XDDXB1w==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "div_X300_Y783_W148_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-expanded": "false",
+                "class": "store-selector__link"
+            },
+            "backend_node_id": 21973,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "300_783_148_28_Miami (calle Ocho) & nearby stores",
+            "tagName": "div",
+            "text": "Miami (calle Ocho) & nearby stores",
+            "width": 148.0,
+            "x": 300.0,
+            "y": 783.0
+        },
+        "location": {
+            "x": 300.0,
+            "y": 783.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 148.0
+        },
+        "tag_name": "div",
+        "text": "Miami (calle Ocho) & nearby stores"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Miami (calle Ocho) & nearby stores",
+    "transformed": true,
+    "width": 148,
+    "x": 300,
+    "y": 783
+}

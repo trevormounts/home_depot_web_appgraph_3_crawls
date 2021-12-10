@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "gPCP3B3+UEIlFxM0CKhibA==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "img_X265_Y446_W115_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Cardio Equipment",
+                "class": "vis-nav__image stretchy",
+                "height": "1",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/catalog/productImages/300/7c/7c39a991-2e16-400d-8bba-a18dddf31ef8_300.jpg",
+                "title": "Cardio Equipment",
+                "width": "1"
+            },
+            "backend_node_id": 20104,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "265_446_115_115_",
+            "tagName": "img",
+            "text": "",
+            "width": 115.0,
+            "x": 265.0,
+            "y": 446.0
+        },
+        "location": {
+            "x": 265.0,
+            "y": 446.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 115.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 115,
+    "x": 265,
+    "y": 446
+}

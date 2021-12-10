@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "section",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2bRli8fDVHry0qvROyGwzg==\n",
+    "height": 68,
+    "hier_level": 0,
+    "human_hash": "section_X960_Y59_W340_H68",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "SimpleFlyout__panel",
+                "id": "simplePanelLevel2"
+            },
+            "backend_node_id": 1644,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 68.0,
+            "key": "960_59_340_68_Back",
+            "tagName": "section",
+            "text": "Back",
+            "width": 340.0,
+            "x": 960.0,
+            "y": 59.0
+        },
+        "location": {
+            "x": 960.0,
+            "y": 59.0
+        },
+        "size": {
+            "height": 68.0,
+            "width": 340.0
+        },
+        "tag_name": "section",
+        "text": "Back"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "section",
+    "text": "Back",
+    "transformed": true,
+    "width": 340,
+    "x": 960,
+    "y": 59
+}

@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "STTyDhVvWEOxRhy+1mLHaw==\n",
+    "height": 209,
+    "hier_level": 0,
+    "human_hash": "a_X1289_Y470_W371_H209",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__header__quick-guide-links-container__quick-guide-card-link",
+                "href": "/c/ai/how-to-raise-chickens/9ba683603be9fa5395fab9019d5456a"
+            },
+            "backend_node_id": 15735,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 209.0,
+            "key": "1289_470_371_209_",
+            "tagName": "a",
+            "text": "",
+            "width": 371.0,
+            "x": 1289.0,
+            "y": 470.0
+        },
+        "location": {
+            "x": 1289.0,
+            "y": 470.0
+        },
+        "size": {
+            "height": 209.0,
+            "width": 371.0
+        },
+        "tag_name": "a",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "",
+    "transformed": true,
+    "width": 371,
+    "x": 1289,
+    "y": 470
+}

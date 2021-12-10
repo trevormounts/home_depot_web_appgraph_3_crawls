@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "u0TLa4YIF4VbF7V7HpNgjg==\n",
+    "height": 471,
+    "hier_level": 0,
+    "human_hash": "div_X1279_Y460_W391_H471",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col__12-12 col__6-12--xs col__4-12--sm col__4-12--md col__4-12--lg"
+            },
+            "backend_node_id": 12308,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 471.0,
+            "key": "1279_460_391_471_Inspiration Guide 9 Last-Minute Mother\u2019s Day Gardening Gift Ideas  It\u2019s tradition to send Mom flowers on Mother\u2019s Day. This year, give her a spring and summer full of blooms with these last-minute gardening gift ideas.",
+            "tagName": "div",
+            "text": "Inspiration Guide 9 Last-Minute Mother\u2019s Day Gardening Gift Ideas  It\u2019s tradition to send Mom flowers on Mother\u2019s Day. This year, give her a spring and summer full of blooms with these last-minute gardening gift ideas.",
+            "width": 391.0,
+            "x": 1279.0,
+            "y": 460.0
+        },
+        "location": {
+            "x": 1279.0,
+            "y": 460.0
+        },
+        "size": {
+            "height": 471.0,
+            "width": 391.0
+        },
+        "tag_name": "div",
+        "text": "Inspiration Guide 9 Last-Minute Mother\u2019s Day Gardening Gift Ideas  It\u2019s tradition to send Mom flowers on Mother\u2019s Day. This year, give her a spring and summer full of blooms with these last-minute gardening gift ideas."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Inspiration Guide 9 Last-Minute Mother\u2019s Day Gardening Gift Ideas  It\u2019s tradition to send Mom flowers on Mother\u2019s Day. This year, give her a spring and summer full of blooms with these last-minute gardening gift ideas.",
+    "transformed": true,
+    "width": 391,
+    "x": 1279,
+    "y": 460
+}

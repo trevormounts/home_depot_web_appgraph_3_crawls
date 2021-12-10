@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "w0g44vvIDuBFyflAsN2c4Q==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "img_X690_Y446_W115_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Fitness Trampolines",
+                "class": "vis-nav__image stretchy",
+                "height": "1",
+                "loading": "lazy",
+                "src": "https://images.thdstatic.com/catalog/productImages/300/85/85ec245c-5538-44f7-9d28-c9361715eb25_300.jpg",
+                "title": "Fitness Trampolines",
+                "width": "1"
+            },
+            "backend_node_id": 20106,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "690_446_115_115_",
+            "tagName": "img",
+            "text": "",
+            "width": 115.0,
+            "x": 690.0,
+            "y": 446.0
+        },
+        "location": {
+            "x": 690.0,
+            "y": 446.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 115.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 115,
+    "x": 690,
+    "y": 446
+}

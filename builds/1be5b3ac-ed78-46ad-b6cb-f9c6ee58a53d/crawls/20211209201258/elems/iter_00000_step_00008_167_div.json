@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZoghT0bD/35YXqt5U4RHFw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "div_X540_Y181_W61_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "breadcrumb__item--1-UXD"
+            },
+            "backend_node_id": 18871,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "540_181_61_17_Featured",
+            "tagName": "div",
+            "text": "Featured",
+            "width": 61.0,
+            "x": 540.0,
+            "y": 181.0
+        },
+        "location": {
+            "x": 540.0,
+            "y": 181.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 61.0
+        },
+        "tag_name": "div",
+        "text": "Featured"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Featured",
+    "transformed": true,
+    "width": 61,
+    "x": 540,
+    "y": 181
+}

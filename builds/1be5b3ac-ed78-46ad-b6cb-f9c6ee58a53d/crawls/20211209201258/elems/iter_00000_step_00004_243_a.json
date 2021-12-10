@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "i2dvymV/QFhptI/GYm9iSA==\n",
+    "height": 87,
+    "hier_level": 0,
+    "human_hash": "a_X1299_Y699_W351_H87",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "article-tile__article-list-page__header__quick-guide-links-container__quick-guide-card-link",
+                "href": "/c/ai/9-last-minute-mothers-day-gardening-gift-ideas/9ba683603be9fa5395fab90ecd7be92"
+            },
+            "backend_node_id": 12313,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 87.0,
+            "key": "1299_699_351_87_Inspiration Guide 9 Last-Minute Mother\u2019s Day Gardening Gift Ideas",
+            "tagName": "a",
+            "text": "Inspiration Guide 9 Last-Minute Mother\u2019s Day Gardening Gift Ideas",
+            "width": 351.0,
+            "x": 1299.0,
+            "y": 699.0
+        },
+        "location": {
+            "x": 1299.0,
+            "y": 699.0
+        },
+        "size": {
+            "height": 87.0,
+            "width": 351.0
+        },
+        "tag_name": "a",
+        "text": "Inspiration Guide 9 Last-Minute Mother\u2019s Day Gardening Gift Ideas"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Inspiration Guide 9 Last-Minute Mother\u2019s Day Gardening Gift Ideas",
+    "transformed": true,
+    "width": 351,
+    "x": 1299,
+    "y": 699
+}

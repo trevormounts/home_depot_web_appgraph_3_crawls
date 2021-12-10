@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jz7bobMBpCo+kTQMfbFbFg==\n",
+    "height": 81,
+    "hier_level": 0,
+    "human_hash": "img_X260_Y832_W87_H81",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "src": "https://www.homedepot.com/SpecialBuy/images/Logo-SBOTD.svg"
+            },
+            "backend_node_id": 26,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 81.0,
+            "key": "260_832_87_81_",
+            "tagName": "img",
+            "text": "",
+            "width": 87.0,
+            "x": 260.0,
+            "y": 832.0
+        },
+        "location": {
+            "x": 260.0,
+            "y": 832.0
+        },
+        "size": {
+            "height": 81.0,
+            "width": 87.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 87,
+    "x": 260,
+    "y": 832
+}

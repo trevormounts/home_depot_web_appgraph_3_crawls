@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ocyCOWV/Z31kF98/N9hkaQ==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "div_X240_Y171_W1440_H42",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "articles-breadcrumbs col__12-12 col__12-12--xs col__12-12--sm col__12-12--md col__12-12--lg"
+            },
+            "backend_node_id": 12021,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "240_171_1440_42_Home DIY Projects & Ideas Trending Gift Ideas",
+            "tagName": "div",
+            "text": "Home DIY Projects & Ideas Trending Gift Ideas",
+            "width": 1440.0,
+            "x": 240.0,
+            "y": 171.0
+        },
+        "location": {
+            "x": 240.0,
+            "y": 171.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 1440.0
+        },
+        "tag_name": "div",
+        "text": "Home DIY Projects & Ideas Trending Gift Ideas"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Home DIY Projects & Ideas Trending Gift Ideas",
+    "transformed": true,
+    "width": 1440,
+    "x": 240,
+    "y": 171
+}

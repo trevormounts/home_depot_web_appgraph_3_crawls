@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "polyline",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "GuI/n1zjrhnwHXHwEoYEmA==\n",
+    "height": 7,
+    "hier_level": 0,
+    "human_hash": "polyline_X300_Y213_W24_H7",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "points": "26.1714 18 26.1714 14.469 2.0784 14.469 2.0784 17.957"
+            },
+            "backend_node_id": 21493,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 7.0,
+            "key": "300_213_24_7_",
+            "tagName": "polyline",
+            "text": "",
+            "width": 24.0,
+            "x": 300.0,
+            "y": 213.0
+        },
+        "location": {
+            "x": 300.0,
+            "y": 213.0
+        },
+        "size": {
+            "height": 7.0,
+            "width": 24.0
+        },
+        "tag_name": "polyline",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "polyline",
+    "text": "",
+    "transformed": true,
+    "width": 24,
+    "x": 300,
+    "y": 213
+}

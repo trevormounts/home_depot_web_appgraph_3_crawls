@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "sRJX65X6P5cQenKmUpfKUg==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "div_X250_Y685_W237_H115",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-group-root--i3en1",
+                "data-testid": "filter-group"
+            },
+            "backend_node_id": 15458,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "250_685_237_115_Brand   The Home Depot",
+            "tagName": "div",
+            "text": "Brand   The Home Depot",
+            "width": 237.0,
+            "x": 250.0,
+            "y": 685.0
+        },
+        "location": {
+            "x": 250.0,
+            "y": 685.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 237.0
+        },
+        "tag_name": "div",
+        "text": "Brand   The Home Depot"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Brand   The Home Depot",
+    "transformed": true,
+    "width": 237,
+    "x": 250,
+    "y": 685
+}

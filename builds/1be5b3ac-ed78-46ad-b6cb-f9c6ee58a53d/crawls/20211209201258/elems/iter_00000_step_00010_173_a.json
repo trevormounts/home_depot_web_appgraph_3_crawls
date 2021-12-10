@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "qkkYYbG11H/joVld/QoAtw==\n",
+    "height": 137,
+    "hier_level": 0,
+    "human_hash": "a_X260_Y446_W125_H137",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "vis-nav__link",
+                "href": "/b/Exercise-Equipment-Cardio-Equipment/N-5yc1vZcerv",
+                "title": "Cardio Equipment"
+            },
+            "backend_node_id": 21882,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 137.0,
+            "key": "260_446_125_137_Cardio Equipment",
+            "tagName": "a",
+            "text": "Cardio Equipment",
+            "width": 125.0,
+            "x": 260.0,
+            "y": 446.0
+        },
+        "location": {
+            "x": 260.0,
+            "y": 446.0
+        },
+        "size": {
+            "height": 137.0,
+            "width": 125.0
+        },
+        "tag_name": "a",
+        "text": "Cardio Equipment"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Cardio Equipment",
+    "transformed": true,
+    "width": 125,
+    "x": 260,
+    "y": 446
+}

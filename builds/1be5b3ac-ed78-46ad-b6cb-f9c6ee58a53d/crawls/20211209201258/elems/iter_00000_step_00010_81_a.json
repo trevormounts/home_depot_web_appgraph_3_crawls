@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "uDfaJE5hmQnShCWSZyBJYA==\n",
+    "height": 47,
+    "hier_level": 0,
+    "human_hash": "a_X1482_Y124_W121_H47",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ShoppingLinks__link",
+                "href": "//www.homedepot.com/c/localad"
+            },
+            "backend_node_id": 21173,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 47.0,
+            "key": "1482_124_121_47_Local Ad & Catalog",
+            "tagName": "a",
+            "text": "Local Ad & Catalog",
+            "width": 121.0,
+            "x": 1482.0,
+            "y": 124.0
+        },
+        "location": {
+            "x": 1482.0,
+            "y": 124.0
+        },
+        "size": {
+            "height": 47.0,
+            "width": 121.0
+        },
+        "tag_name": "a",
+        "text": "Local Ad & Catalog"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Local Ad & Catalog",
+    "transformed": true,
+    "width": 121,
+    "x": 1482,
+    "y": 124
+}

@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "g",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "XCHyToW2+KgTcuDx5dGj7Q==\n",
+    "height": 21,
+    "hier_level": 0,
+    "human_hash": "g_X266_Y409_W21_H21",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "fill": "none",
+                "fill-rule": "evenodd",
+                "id": "Page-1",
+                "sketch:type": "MSPage",
+                "stroke": "none",
+                "stroke-width": "1"
+            },
+            "backend_node_id": 1952,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 21.0,
+            "key": "266_409_21_21_",
+            "tagName": "g",
+            "text": "",
+            "width": 21.0,
+            "x": 266.0,
+            "y": 409.0
+        },
+        "location": {
+            "x": 266.0,
+            "y": 409.0
+        },
+        "size": {
+            "height": 21.0,
+            "width": 21.0
+        },
+        "tag_name": "g",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "g",
+    "text": "",
+    "transformed": true,
+    "width": 21,
+    "x": 266,
+    "y": 409
+}

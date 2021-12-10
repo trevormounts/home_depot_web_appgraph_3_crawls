@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "strong",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "vyi78F9suDdUruLmDC7nlg==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "strong_X517_Y872_W44_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 15684,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "517_872_44_17_Safety:",
+            "tagName": "strong",
+            "text": "Safety:",
+            "width": 44.0,
+            "x": 517.0,
+            "y": 872.0
+        },
+        "location": {
+            "x": 517.0,
+            "y": 872.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 44.0
+        },
+        "tag_name": "strong",
+        "text": "Safety:"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "strong",
+    "text": "Safety:",
+    "transformed": true,
+    "width": 44,
+    "x": 517,
+    "y": 872
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "v1p8/S5lgvNKyLuXi+Cepw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X730_Y479_W141_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.homedepot.com/c/ai/outdoor-kitchen-ideas/9ba683603be9fa5395fab9056f4e1c0"
+            },
+            "backend_node_id": 7833,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "730_479_141_17_Outdoor Kitchen Ideas",
+            "tagName": "a",
+            "text": "Outdoor Kitchen Ideas",
+            "width": 141.0,
+            "x": 730.0,
+            "y": 479.0
+        },
+        "location": {
+            "x": 730.0,
+            "y": 479.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 141.0
+        },
+        "tag_name": "a",
+        "text": "Outdoor Kitchen Ideas"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Outdoor Kitchen Ideas",
+    "transformed": true,
+    "width": 141,
+    "x": 730,
+    "y": 479
+}
